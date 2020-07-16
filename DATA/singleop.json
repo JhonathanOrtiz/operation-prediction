@@ -11,7 +11,7 @@
         "lSolutions": [
             14.0
         ],
-        "sQuestion": "If there are 7 bottle caps in a box and Linda puts 7 more bottle caps inside, how many bottle caps are in the box?"
+        "sQuestion": "Si hay 7 tapas de botella en una caja y Linda pone 7 tapas más dentro, ¿cuántas tapas hay en la caja?"
     },
     {
         "iIndex": 1,
@@ -25,7 +25,7 @@
         "lSolutions": [
             9.0
         ],
-        "sQuestion": "Jose starts with 7 bottle caps. He gets 2 more from Rebecca. How many bottle caps does Jose end with?"
+        "sQuestion": "José comienza con 7 tapas de botella. Recibe dos 2 más de Rebecca. ¿Con cuántas tapas de botella termina José?"
     },
     {
         "iIndex": 2,
@@ -39,7 +39,7 @@
         "lSolutions": [
             8.0
         ],
-        "sQuestion": "Bridget has 4 Skittles. Henry has 4 Skittles. If Henry gives all of his Skittles to Bridget, how many Skittles will Bridget have?"
+        "sQuestion": "Bridget tiene 4 chicles. Henry tiene 4 chicles. Si Henry le da todos sus chicles a Bridget, ¿cuántos chicles tendrá Bridget?"
     },
     {
         "iIndex": 3,
@@ -53,7 +53,7 @@
         "lSolutions": [
             15.0
         ],
-        "sQuestion": "Brenda starts with 7 Skittles. She buys 8 more. How many Skittles does Brenda end with?"
+        "sQuestion": "Brenda empieza con 7 caramelos. Ella compra 8 más. ¿Con cuántos caramelos termina Brenda?"
     },
     {
         "iIndex": 4,
@@ -67,7 +67,7 @@
         "lSolutions": [
             7.0
         ],
-        "sQuestion": "There are 4 cards. 3 cards more are added. How many are there total?"
+        "sQuestion": "Hay 4 cartas. Se añaden 3 cartas más. ¿Cuántas hay en total?"
     },
     {
         "iIndex": 5,
@@ -81,7 +81,7 @@
         "lSolutions": [
             11.0
         ],
-        "sQuestion": "There are 4 marbles. 7 marbles more are added. How many are there total?"
+        "sQuestion": "Hay 4 canicas. Se añaden 7 canicas más. ¿Cuántas hay en total?"
     },
     {
         "iIndex": 6,
@@ -95,7 +95,7 @@
         "lSolutions": [
             16.0
         ],
-        "sQuestion": "There are 8 oranges. 8 oranges more are added. How many are there total?"
+        "sQuestion": "Hay 8 naranjas. Se añaden 8 naranjas más. ¿Cuántas hay en total?"
     },
     {
         "iIndex": 7,
@@ -109,7 +109,7 @@
         "lSolutions": [
             7.0
         ],
-        "sQuestion": "Carol collects 2 peanuts. Carol's father gives Carol 5 more. How many peanuts does Carol have?"
+        "sQuestion": "Carol recoge 2 cacahuetes. El padre de Carol le da a Carol 5 más. ¿Cuántos cacahuetes tiene Carol?"
     },
     {
         "iIndex": 8,
@@ -123,7 +123,7 @@
         "lSolutions": [
             13.0
         ],
-        "sQuestion": "There are 9 cards. 4 cards more are added. How many are there total?"
+        "sQuestion": "Hay 9 cartas. Se añaden 4 cartas más. ¿Cuántas hay en total?"
     },
     {
         "iIndex": 9,
@@ -137,7 +137,7 @@
         "lSolutions": [
             14.0
         ],
-        "sQuestion": "If there are 7 bottle caps in a box and Linda puts 7 more bottle caps inside, how many bottle caps are in the box?"
+        "sQuestion": "Si hay 7 tapas de botella en una caja y Linda pone 7 tapas más dentro, ¿cuántas tapas hay en la caja?"
     },
     {
         "iIndex": 10,
@@ -151,7 +151,7 @@
         "lSolutions": [
             8.0
         ],
-        "sQuestion": "Bobby collects 2 blocks. Bobby's father gives Bobby 6 more. How many blocks does Bobby have?"
+        "sQuestion": "Bobby colecciona 2 bloques. El padre de Bobby le da a Bobby 6 más. ¿Cuántos bloques tiene Bobby?"
     },
     {
         "iIndex": 11,
@@ -165,7 +165,7 @@
         "lSolutions": [
             11.0
         ],
-        "sQuestion": "Peter starts with 8 erasers. Bridget gives Peter 3 more. How many erasers does Peter end with?"
+        "sQuestion": "Peter empieza con 8 borradores. Bridget le da a Peter 3 más. ¿Con cuántos borradores termina Peter?"
     },
     {
         "iIndex": 12,
@@ -179,7 +179,7 @@
         "lSolutions": [
             13.0
         ],
-        "sQuestion": "If there are 7 crayons in a box and Gerald puts 6 more crayons inside, how many crayons are in the box?"
+        "sQuestion": "Si hay 7 crayones en una caja y Gerald pone 6 más dentro, ¿cuántos crayones hay en la caja?"
     },
     {
         "iIndex": 13,
@@ -193,7 +193,7 @@
         "lSolutions": [
             4.0
         ],
-        "sQuestion": "Michelle has 2 crayons. Janet has 2 crayons. If Janet gives all of her crayons to Michelle, how many crayons will Michelle have?"
+        "sQuestion": "Michelle tiene dos lápices de colores. Janet tiene 2 crayones. Si Janet le da todos sus lápices de colores a Michelle, ¿cuántos lápices de colores tendrá Michelle?"
     },
     {
         "iIndex": 14,
@@ -207,7 +207,7 @@
         "lSolutions": [
             14.0
         ],
-        "sQuestion": "Anna collects 6 blocks. Anna's father gives Anna 8 more. How many blocks does Anna have?"
+        "sQuestion": "Anna colecciona 6 bloques. El padre de Anna le da a Anna 8 más. ¿Cuántos bloques tiene Anna?"
     },
     {
         "iIndex": 15,
@@ -221,7 +221,7 @@
         "lSolutions": [
             9.0
         ],
-        "sQuestion": "Donald has 4 oranges. He finds another 5. How many oranges does Donald have in all?"
+        "sQuestion": "Donald tiene 4 naranjas. Encuentra otras 5. ¿Cuántas naranjas tiene Donald en total?"
     },
     {
         "iIndex": 16,
@@ -235,7 +235,7 @@
         "lSolutions": [
             11.0
         ],
-        "sQuestion": "If there are 7 eggs in a box and Daniel puts 4 more eggs inside, how many eggs are in the box?"
+        "sQuestion": "Si hay 7 huevos en una caja y Daniel pone 4 huevos más dentro, ¿cuántos huevos hay en la caja?"
     },
     {
         "iIndex": 17,
@@ -249,7 +249,7 @@
         "lSolutions": [
             15.0
         ],
-        "sQuestion": "Wayne collects 9 blocks. Wayne's father gives Wayne 6 more. How many blocks does Wayne have?"
+        "sQuestion": "Wayne recoge 9 bloques. El padre de Wayne le da a Wayne 6 más. ¿Cuántos bloques tiene Wayne?"
     },
     {
         "iIndex": 18,
@@ -263,7 +263,7 @@
         "lSolutions": [
             8.0
         ],
-        "sQuestion": "Bridget has 4 Skittles. Henry has 4 Skittles. If Henry gives all of his Skittles to Bridget, how many Skittles will Bridget have?"
+        "sQuestion": "Bridget tiene 4 chicles. Henry tiene 4 chicles. Si Henry le da todos sus bolos a Bridget, ¿cuántos chicles tendrá Bridget?"
     },
     {
         "iIndex": 19,
@@ -277,7 +277,7 @@
         "lSolutions": [
             12.0
         ],
-        "sQuestion": "Ralph collects 4 cards. Ralph's father gives Ralph 8 more. How many cards does Ralph have?"
+        "sQuestion": "Ralph colecciona 4 cartas. El padre de Ralph le da a Ralph 8 más. ¿Cuántas cartas tiene Ralph?"
     },
     {
         "iIndex": 20,
@@ -291,7 +291,7 @@
         "lSolutions": [
             79.0
         ],
-        "sQuestion": "Martha starts with 3 cards. She gets 76 more from Emily. How many cards does Martha end with?"
+        "sQuestion": "Martha empieza con 3 cartas. Ella recibe 76 más de Emily. ¿Con cuántas cartas termina Martha?"
     },
     {
         "iIndex": 21,
@@ -305,7 +305,7 @@
         "lSolutions": [
             95.0
         ],
-        "sQuestion": "There are 86 blocks. 9 blocks more are added. How many are there total?"
+        "sQuestion": "Hay 86 bloques. Se añaden 9 bloques más. ¿Cuántos hay en total?"
     },
     {
         "iIndex": 22,
@@ -319,7 +319,7 @@
         "lSolutions": [
             97.0
         ],
-        "sQuestion": "Cheryl starts with 8 Skittles. Kathryn gives Cheryl 89 more. How many Skittles does Cheryl end with?"
+        "sQuestion": "Cheryl comienza con 8 chicles. Kathryn le da a Cheryl 89 más. ¿Con cuántos chicles termina Cheryl?"
     },
     {
         "iIndex": 24,
@@ -333,7 +333,7 @@
         "lSolutions": [
             85.0
         ],
-        "sQuestion": "If there are 76 erasers in a box and Patrick puts 9 more erasers inside, how many erasers are in the box?"
+        "sQuestion": "Si hay 76 gomas de borrar en una caja y Patrick pone 9 gomas más dentro, ¿cuántas gomas hay en la caja?"
     },
     {
         "iIndex": 28,
@@ -347,7 +347,7 @@
         "lSolutions": [
             62.0
         ],
-        "sQuestion": "Amy starts with 7 peanuts. Gerald gives Amy 55 more. How many peanuts does Amy end with?"
+        "sQuestion": "Amy empieza con 7 cacahuetes. Gerald le da a Amy 55 más. ¿Con cuántos cacahuetes termina Amy?"
     },
     {
         "iIndex": 33,
@@ -361,7 +361,7 @@
         "lSolutions": [
             54.0
         ],
-        "sQuestion": "Teresa starts with 52 bananas. She gets 2 more from Rachel. How many bananas does Teresa end with?"
+        "sQuestion": "Teresa comienza con 52 bananas. Ella obtiene 2 más de Rachel. ¿Con cuántos plátanos termina Teresa?"
     },
     {
         "iIndex": 34,
@@ -375,7 +375,7 @@
         "lSolutions": [
             101.0
         ],
-        "sQuestion": "Gloria has 2 pencils. Lisa has 99 pencils. If Lisa gives all of her pencils to Gloria, how many pencils will Gloria have?"
+        "sQuestion": "Gloria tiene dos lápices. Lisa tiene 99 lápices. Si Lisa le da todos sus lápices a Gloria, ¿cuántos lápices tendrá Gloria?"
     },
     {
         "iIndex": 36,
@@ -389,7 +389,7 @@
         "lSolutions": [
             79.0
         ],
-        "sQuestion": "Mildred collects 77 oranges. Mildred's father gives Mildred 2 more. How many oranges does Mildred have?"
+        "sQuestion": "Mildred colecciona 77 naranjas. El padre de Mildred le da a Mildred 2 más. ¿Cuántas naranjas tiene Mildred?"
     },
     {
         "iIndex": 40,
@@ -403,7 +403,7 @@
         "lSolutions": [
             91.0
         ],
-        "sQuestion": "Anna starts with 5 candies. She gets 86 more from Larry. How many candies does Anna end with?"
+        "sQuestion": "Anna empieza con 5 caramelos. Ella recibe 86 más de Larry. ¿Con cuántos caramelos termina Anna?"
     },
     {
         "iIndex": 44,
@@ -431,7 +431,7 @@
         "lSolutions": [
             54.0
         ],
-        "sQuestion": "Kevin starts with 7 cards. He finds another 47. How many cards does Kevin end with?"
+        "sQuestion": "Kevin empieza con 7 cartas. Encuentra otras 47. ¿Con cuántas cartas termina Kevin?"
     },
     {
         "iIndex": 47,
@@ -445,7 +445,7 @@
         "lSolutions": [
             47.0
         ],
-        "sQuestion": "Joshua has 40 bottle caps. He buys 7 more. How many bottle caps does Joshua have in all?"
+        "sQuestion": "Joshua tiene 40 tapas de botella. Compra 7 más. ¿Cuántas tapas de botella tiene Joshua en total?"
     },
     {
         "iIndex": 48,
@@ -459,7 +459,7 @@
         "lSolutions": [
             93.0
         ],
-        "sQuestion": "Nicholas starts with 8 bottle caps. He gets 85 more from Catherine. How many bottle caps does Nicholas end with?"
+        "sQuestion": "Nicholas empieza con 8 tapas de botella. Él obtiene 85 más de Catherine. ¿Con cuántas tapas de botella termina Nicholas?"
     },
     {
         "iIndex": 49,
@@ -473,7 +473,7 @@
         "lSolutions": [
             31.0
         ],
-        "sQuestion": "Mary starts with 27 eggs. She finds another 4. How many eggs does Mary end with?"
+        "sQuestion": "Mary comienza con 27 huevos. Encuentra otros 4. ¿Con cuántos huevos termina María?"
     },
     {
         "iIndex": 51,
@@ -487,7 +487,7 @@
         "lSolutions": [
             106.0
         ],
-        "sQuestion": "Shirley starts with 98 eggs. She buys 8 more. How many eggs does Shirley end with?"
+        "sQuestion": "Shirley empieza con 98 huevos. Ella compra 8 más. ¿Con cuántos huevos termina Shirley?"
     },
     {
         "iIndex": 52,
@@ -501,7 +501,7 @@
         "lSolutions": [
             18.0
         ],
-        "sQuestion": "William starts with 15 tickets. He buys 3 more. How many tickets does William end with?"
+        "sQuestion": "William empieza con 15 entradas. Compra 3 más. ¿Con cuántas entradas termina William?"
     },
     {
         "iIndex": 56,
@@ -515,7 +515,7 @@
         "lSolutions": [
             84.0
         ],
-        "sQuestion": "Harry starts with 79 apples. He buys 5 more. How many apples does Harry end with?"
+        "sQuestion": "Harry empieza con 79 manzanas. Compra 5 más. ¿Con cuántas manzanas termina Harry?"
     },
     {
         "iIndex": 57,
@@ -529,7 +529,7 @@
         "lSolutions": [
             27.0
         ],
-        "sQuestion": "Barbara has 9 candies. She buys 18 more. How many candies does Barbara have in all?"
+        "sQuestion": "Barbara tiene 9 caramelos. Ella compra 18 más. ¿Cuántos caramelos tiene Barbara en total?"
     },
     {
         "iIndex": 61,
@@ -543,7 +543,7 @@
         "lSolutions": [
             57.0
         ],
-        "sQuestion": "Eugene has 51 pencils. He gets 6 more from Joyce. How many pencils does Eugene have in all?"
+        "sQuestion": "Eugene tiene 51 lápices. Recibe 6 más de Joyce. ¿Cuántos lápices tiene Eugene en total?"
     },
     {
         "iIndex": 62,
