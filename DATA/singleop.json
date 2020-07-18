@@ -3301,7 +3301,7 @@
         "lSolutions": [
             21.0
         ],
-        "sQuestion": "Maria has 3 boxes of eggs. Each box holds 7 eggs and there are 8 boxes in a case. How many eggs does Maria have?"
+        "sQuestion": "María tiene 3 cajas de huevos. Cada caja contiene 7 huevos y hay 8 cajas en un estuche. ¿Cuántos huevos tiene María?"
     },
     {
         "iIndex": 791,
@@ -3315,7 +3315,7 @@
         "lSolutions": [
             45.0
         ],
-        "sQuestion": "Gloria has 9 boxes of tickets. Each box holds 5 tickets and there are 10 boxes in a case. How many tickets does Gloria have?"
+        "sQuestion": "Gloria tiene 9 cajas de entradas. Cada caja contiene 5 boletos y hay 10 cajas en un estuche. ¿Cuántos boletos tiene Gloria?"
     },
     {
         "iIndex": 792,
@@ -3329,7 +3329,7 @@
         "lSolutions": [
             15.0
         ],
-        "sQuestion": "George has 5 boxes of eggs. Each box holds 3 eggs and there are 9 boxes in a case. How many eggs does George have?"
+        "sQuestion": "George tiene 5 cajas de huevos. Cada caja contiene 3 huevos y hay 9 cajas en un estuche. ¿Cuántos huevos tiene George?"
     },
     {
         "iIndex": 794,
@@ -3343,7 +3343,7 @@
         "lSolutions": [
             40.0
         ],
-        "sQuestion": "Jacqueline has 4 boxes of erasers. Each box holds 10 erasers and there are 9 boxes in a case. How many erasers does Jacqueline have?"
+        "sQuestion": "Jacqueline tiene 4 cajas de borradores. Cada caja contiene 10 borradores y hay 9 cajas en un estuche. ¿Cuántos borradores tiene Jacqueline?"
     },
     {
         "iIndex": 833,
@@ -3357,7 +3357,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": "Marilyn has 40 bananas that must be put away in boxes. Daniel comes to help and brings 10 cookies to share with Marilyn. If there are 8 boxes, how many bananas must go in each box?"
+        "sQuestion": "Marilyn tiene 40 bananas que deben ser guardadas en cajas. Daniel viene a ayudar y trae 10 galletas para compartir con Marilyn. Si hay 8 cajas, ¿cuántos plátanos deben ir en cada caja?"
     },
     {
         "iIndex": 835,
@@ -3371,7 +3371,7 @@
         "lSolutions": [
             3.0
         ],
-        "sQuestion": "Rose has 9 apples and 12 erasers. If she shares the apples among 3 friends, how many apples does each friend get?"
+        "sQuestion": "Rose tiene 9 manzanas y 12 gomas de borrar. Si comparte las manzanas entre 3 amigos, ¿cuántas manzanas recibe cada amigo?"
     },
     {
         "iIndex": 837,
@@ -3385,7 +3385,7 @@
         "lSolutions": [
             8.0
         ],
-        "sQuestion": "Joshua has 40 Skittles and 6 eggs. If he shares the Skittles among 5 friends, how many Skittles does each friend get?"
+        "sQuestion": "Joshua tiene 40 caramelos y 6 huevos. Si comparte los caramelos entre 5 amigos, ¿cuántos caramelos recibe cada amigo?"
     },
     {
         "iIndex": 844,
@@ -3399,7 +3399,7 @@
         "lSolutions": [
             8.0
         ],
-        "sQuestion": "Ryan has 72 marbles and 17 blocks. If he shares the marbles among 9 friends, how many marbles does each friend get?"
+        "sQuestion": "Ryan tiene 72 canicas y 17 bloques. Si comparte las canicas entre 9 amigos, ¿cuántas canicas obtiene cada amigo?"
     },
     {
         "iIndex": 847,
@@ -3413,7 +3413,7 @@
         "lSolutions": [
             4.0
         ],
-        "sQuestion": "Ruby has 36 candies and 6 bananas. If she shares the candies among 9 friends, how many candies does each friend get?"
+        "sQuestion": "Ruby tiene 36 caramelos y 6 bananas. Si comparte los caramelos entre 9 amigos, ¿cuántos caramelos recibe cada amigo?"
     },
     {
         "iIndex": 849,
@@ -3427,7 +3427,7 @@
         "lSolutions": [
             7.0
         ],
-        "sQuestion": "Scott has 56 oranges that must be put away in boxes. Terry comes to help and brings 11 cookies to share with Scott. If there are 8 boxes, how many oranges must go in each box?"
+        "sQuestion": "Scott tiene 56 naranjas que deben ser guardadas en cajas. Terry viene a ayudar y trae 11 galletas para compartir con Scott. Si hay 8 cajas, ¿cuántas naranjas deben ir en cada caja?"
     },
     {
         "iIndex": 850,
@@ -3441,7 +3441,7 @@
         "lSolutions": [
             4.0
         ],
-        "sQuestion": "Joyce has 40 bananas that must be put away in boxes. Fred comes to help and brings 18 cookies to share with Joyce. If there are 10 boxes, how many bananas must go in each box?"
+        "sQuestion": "Joyce tiene 40 bananas que deben ser guardadas en cajas. Fred viene a ayudar y trae 18 galletas para compartir con Joyce. Si hay 10 cajas, ¿cuántos plátanos deben ir en cada caja?"
     },
     {
         "iIndex": 856,
@@ -3455,7 +3455,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": "Joe has 45 oranges that must be put away in boxes. Daniel comes to help and brings 16 cookies to share with Joe. If there are 9 boxes, how many oranges must go in each box?"
+        "sQuestion": "Joe tiene 45 naranjas que deben ser guardadas en cajas. Daniel viene a ayudar y trae 16 galletas para compartir con Joe. Si hay 9 cajas, ¿cuántas naranjas deben ir en cada caja?"
     },
     {
         "iIndex": 861,
@@ -3469,7 +3469,7 @@
         "lSolutions": [
             9.0
         ],
-        "sQuestion": "Ernest has 45 bananas that must be put away in boxes. Julie comes to help and brings 3 cookies to share with Ernest. If there are 5 boxes, how many bananas must go in each box?"
+        "sQuestion": "Ernest tiene 45 bananas que deben ser guardadas en cajas. Julie viene a ayudar y trae 3 galletas para compartir con Ernest. Si hay 5 cajas, ¿cuántos plátanos deben ir en cada caja?"
     },
     {
         "iIndex": 865,
@@ -3483,7 +3483,7 @@
         "lSolutions": [
             4.0
         ],
-        "sQuestion": "Virginia has 16 eggs and 8 Skittles. If she shares the eggs among 4 friends, how many eggs does each friend get?"
+        "sQuestion": "Virginia tiene 16 huevos y 8 caramelos. Si comparte los huevos entre 4 amigos, ¿cuántos huevos recibe cada amigo?"
     },
     {
         "iIndex": 969,
@@ -3497,7 +3497,7 @@
         "lSolutions": [
             86.0
         ],
-        "sQuestion": "Shawn has 13 blocks. Mildred has with 2 blocks. Mildred finds another 84. How many blocks does Mildred end with?"
+        "sQuestion": "Shawn tiene 13 bloques. Mildred tiene con 2 bloques. Mildred encuentra otros 84. ¿Con cuántos bloques termina Mildred?"
     },
     {
         "iIndex": 990,
@@ -3511,7 +3511,7 @@
         "lSolutions": [
             6.0
         ],
-        "sQuestion": "If Anne wandered for 3 hours at 2 miles per hour. How far did Anne go?"
+        "sQuestion": "Si Anne vagaba durante 3 horas a 2 millas por hora. ¿Hasta dónde llegó Anne?"
     },
     {
         "iIndex": 991,
@@ -3525,7 +3525,7 @@
         "lSolutions": [
             6.0
         ],
-        "sQuestion": "It took Amanda 3 hours to stroll to Kimberly's house at 2 miles per hour. How far is it between Amanda's house and Kimberly's house?"
+        "sQuestion": "Amanda tardó 3 horas en llegar a la casa de Kimberly a 2 millas por hora. ¿A qué distancia está la casa de Amanda y la de Kimberly?"
     },
     {
         "iIndex": 992,
@@ -3539,7 +3539,7 @@
         "lSolutions": [
             15.0
         ],
-        "sQuestion": "If Stephanie ran for 3 hours at 5 miles per hour. How far did Stephanie go?"
+        "sQuestion": "Si Stephanie corrió durante 3 horas a 5 millas por hora. ¿Hasta dónde llegó Stephanie?"
     },
     {
         "iIndex": 993,
@@ -3553,7 +3553,7 @@
         "lSolutions": [
             2.0
         ],
-        "sQuestion": "If Charles strolled 6 miles at 3 miles per hour, how long was Charles travelling?"
+        "sQuestion": "Si Charles caminaba 6 millas a 3 millas por hora, ¿cuánto tiempo viajaba?"
     },
     {
         "iIndex": 994,
@@ -3567,7 +3567,7 @@
         "lSolutions": [
             10.0
         ],
-        "sQuestion": "It took Carl 5 hours to ride to Ralph's house at 2 miles per hour. How far is it between Carl's house and Ralph's house?"
+        "sQuestion": "A Carl le llevó 5 horas llegar a la casa de Ralph a 2 millas por hora. ¿A qué distancia está la casa de Carl y la de Ralph?"
     },
     {
         "iIndex": 995,
@@ -3581,7 +3581,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": "Emily sprinted to Timothy's house. It is 10 miles from Emily's house to Timothy's house. It took Emily 2 hours to get there. How fast did Emily go?"
+        "sQuestion": "EMily corrió a la casa de Timothy. Son 10 millas desde la casa de Emily hasta la casa de Timothy. A Emily le llevó dos horas llegar allí. ¿Qué tan rápido fue Emily?"
     },
     {
         "iIndex": 996,
@@ -3595,7 +3595,7 @@
         "lSolutions": [
             15.0
         ],
-        "sQuestion": "If Norma wandered for 5 hours at 3 miles per hour. How far did Norma go?"
+        "sQuestion": "Si Norma vagaba durante 5 horas a 3 millas por hora. ¿Hasta dónde llegó Norma?"
     },
     {
         "iIndex": 997,
@@ -3609,7 +3609,7 @@
         "lSolutions": [
             2.0
         ],
-        "sQuestion": "If Charles strolled 6 miles at 3 miles per hour, how long was Charles travelling?"
+        "sQuestion": "ISi Charles caminaba 6 millas a 3 millas por hora, ¿cuánto tiempo viajaba?"
     },
     {
         "iIndex": 998,
@@ -3623,7 +3623,7 @@
         "lSolutions": [
             6.0
         ],
-        "sQuestion": "If Anne wandered for 3 hours at 2 miles per hour. How far did Anne go?"
+        "sQuestion": "Si Anne vagaba durante 3 horas a 2 millas por hora. ¿Hasta dónde llegó Anne?"
     },
     {
         "iIndex": 999,
@@ -3637,7 +3637,7 @@
         "lSolutions": [
             8.0
         ],
-        "sQuestion": "If Rose strolled for 4 hours at 2 miles per hour. How far did Rose go?"
+        "sQuestion": "Si Rose se paseó durante 4 horas a 2 millas por hora. ¿Hasta dónde llegó Rose?"
     },
     {
         "iIndex": 1001,
@@ -3651,7 +3651,7 @@
         "lSolutions": [
             8.0
         ],
-        "sQuestion": "It took Amanda 2 hours to stroll to Kimberly's house at 4 miles per hour. How far is it between Amanda's house and Kimberly's house?"
+        "sQuestion": "Amanda tardó dos horas en llegar a la casa de Kimberly a 4 millas por hora. ¿A qué distancia está la casa de Amanda y la de Kimberly?"
     },
     {
         "iIndex": 1003,
@@ -3665,7 +3665,7 @@
         "lSolutions": [
             2.0
         ],
-        "sQuestion": "Martin strolled to Lawrence's house. It is 12 miles from Martin's house to Lawrence's house. It took Martin 6 hours to get there. How fast did Martin go?"
+        "sQuestion": "Martin se paseó hasta la casa de Lawrence. Son 12 millas desde la casa de Martin hasta la casa de Lawrence. A Martin le llevó 6 horas llegar allí. ¿A qué velocidad fue Martin?"
     },
     {
         "iIndex": 1005,
@@ -3679,7 +3679,7 @@
         "lSolutions": [
             10.0
         ],
-        "sQuestion": "It took Amanda 5 hours to stroll to Kimberly's house at 2 miles per hour. How far is it between Amanda's house and Kimberly's house?"
+        "sQuestion": "Amanda tardó 5 horas en ir a casa de Kimberly a 2 millas por hora. ¿A qué distancia está la casa de Amanda y la de Kimberly??"
     },
     {
         "iIndex": 1006,
@@ -3693,7 +3693,7 @@
         "lSolutions": [
             2.0
         ],
-        "sQuestion": "Martin strolled to Lawrence's house. It is 12 miles from Martin's house to Lawrence's house. It took Martin 6 hours to get there. How fast did Martin go?"
+        "sQuestion": "Martin se paseó hasta la casa de Lawrence. Son 12 millas desde la casa de Martin hasta la casa de Lawrence. A Martin le llevó 6 horas llegar allí. ¿A qué velocidad fue Martin?"
     },
     {
         "iIndex": 1009,
@@ -3707,7 +3707,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": "Emily sprinted to Timothy's house. It is 10 miles from Emily's house to Timothy's house. It took Emily 2 hours to get there. How fast did Emily go?"
+        "sQuestion": "Emily corrió a la casa de Timothy. Son 10 millas desde la casa de Emily hasta la casa de Timothy. Emily tardó 2 horas en llegar allí. ¿Qué tan rápido fue Emily?"
     },
     {
         "iIndex": 1010,
@@ -3721,7 +3721,7 @@
         "lSolutions": [
             2.0
         ],
-        "sQuestion": "Jose strolled to Jane's house. It is 24 miles from Jose's house to Jane's house. It took Jose 12 hours to get there. How fast did Jose go?"
+        "sQuestion": "José se paseó hasta la casa de Jane. Son 24 millas desde la casa de José hasta la casa de Jane. A José le llevó 12 horas llegar allí. ¿Qué tan rápido fue José?"
     },
     {
         "iIndex": 1011,
@@ -3735,7 +3735,7 @@
         "lSolutions": [
             24.0
         ],
-        "sQuestion": "It took Katherine 3 hours to run to Louis's house at 8 miles per hour. How far is it between Katherine's house and Louis's house?"
+        "sQuestion": "A Katherine le llevó 3 horas correr hasta la casa de Louis a 8 millas por hora. ¿A qué distancia está la casa de Katherine y la de Louis?"
     },
     {
         "iIndex": 1012,
@@ -3749,7 +3749,7 @@
         "lSolutions": [
             7.0
         ],
-        "sQuestion": "Patrick jogged to Aaron's house. It is 14 miles from Patrick's house to Aaron's house. It took Patrick 2 hours to get there. How fast did Patrick go?"
+        "sQuestion": "Patrick corrió a la casa de Aaron. Son 14 millas desde la casa de Patrick hasta la casa de Aaron. Patrick tardó dos horas en llegar allí. ¿Qué tan rápido fue Patrick?"
     },
     {
         "iIndex": 1013,
@@ -3763,7 +3763,7 @@
         "lSolutions": [
             2.0
         ],
-        "sQuestion": "Rachel strolled to Nicholas's house. It is 10 miles from Rachel's house to Nicholas's house. It took Rachel 5 hours to get there. How fast did Rachel go?"
+        "sQuestion": "Rachel se paseó hasta la casa de Nicholas. Son 10 millas desde la casa de Rachel hasta la casa de Nicholas. A Rachel le llevó 5 horas llegar allí. ¿Qué tan rápido fue Rachel?"
     },
     {
         "iIndex": 1015,
@@ -3777,7 +3777,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": "If Joan bicycled 25 miles at 5 miles per hour, how long was Joan travelling?"
+        "sQuestion": "Si Joan recorrió 25 millas en bicicleta a 5 millas por hora, ¿cuánto tiempo viajó Joan?"
     },
     {
         "iIndex": 1016,
@@ -3791,7 +3791,7 @@
         "lSolutions": [
             4.0
         ],
-        "sQuestion": "Mark sprinted 24 miles at 6 miles per hour. How long did Mark sprint?"
+        "sQuestion": "Mark corrió 24 millas a 6 millas por hora. ¿Cuánto tiempo corrió Mark?"
     },
     {
         "iIndex": 1017,
@@ -3805,7 +3805,7 @@
         "lSolutions": [
             7.0
         ],
-        "sQuestion": "If Benjamin strolled 14 miles at 2 miles per hour, how long was Benjamin travelling?"
+        "sQuestion": "Si Benjamin caminaba 14 millas a 2 millas por hora, ¿cuánto tiempo viajaba Benjamin?"
     },
     {
         "iIndex": 1020,
@@ -3819,7 +3819,7 @@
         "lSolutions": [
             4.0
         ],
-        "sQuestion": "Mark sprinted 24 miles at 6 miles per hour. How long did Mark sprint?"
+        "sQuestion": "Mark corrió 24 millas a 6 millas por hora. ¿Cuánto tiempo corrió Mark?"
     },
     {
         "iIndex": 1022,
@@ -3833,7 +3833,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": "If Joan bicycled 25 miles at 5 miles per hour, how long was Joan travelling?"
+        "sQuestion": "Si Joan recorrió 25 millas en bicicleta a 5 millas por hora, ¿cuánto tiempo viajó Joan?"
     },
     {
         "iIndex": 1023,
@@ -3847,7 +3847,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": "Christine wandered 20 miles at 4 miles per hour. How long did Christine wander?"
+        "sQuestion": "Christine vagó 20 millas a 4 millas por hora. ¿Cuánto tiempo vagó Christine?"
     },
     {
         "iIndex": 1025,
@@ -3861,7 +3861,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": "Christine wandered 20 miles at 4 miles per hour. How long did Christine wander?"
+        "sQuestion": "Christine vagó 20 millas a 4 millas por hora. ¿Cuánto tiempo vagó Christine?"
     },
     {
         "iIndex": 1031,
@@ -3875,7 +3875,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": "James rode 80 miles at 16 miles per hour. How long did James ride?"
+        "sQuestion": "James cabalgó 80 millas a 16 millas por hora. ¿Cuánto tiempo cabalgó James?"
     },
     {
         "iIndex": 1033,
@@ -3889,7 +3889,7 @@
         "lSolutions": [
             8.0
         ],
-        "sQuestion": "Juan ran 80 miles at 10 miles per hour. How long did Juan run?"
+        "sQuestion": "Juan corrió 80 millas a 10 millas por hora. ¿Cuánto tiempo corrió Juan?"
     },
     {
         "iIndex": 1035,
@@ -3903,7 +3903,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": "James rode 80 miles at 16 miles per hour. How long did James ride?"
+        "sQuestion": "James cabalgó 80 millas a 16 millas por hora. ¿Cuánto tiempo cabalgó James?"
     },
     {
         "iIndex": 1041,
@@ -3917,7 +3917,7 @@
         "lSolutions": [
             8.0
         ],
-        "sQuestion": "Lisa flew 256 miles at 32 miles per hour. How long did Lisa fly?"
+        "sQuestion": "Lisa voló 256 millas a 32 millas por hora. ¿Cuánto tiempo voló Lisa?"
     },
     {
         "iIndex": 1049,
@@ -3931,7 +3931,7 @@
         "lSolutions": [
             8.0
         ],
-        "sQuestion": "Lisa flew 256 miles at 32 miles per hour. How long did Lisa fly?"
+        "sQuestion": "Lisa voló 256 millas a 32 millas por hora. ¿Cuánto tiempo voló Lisa?"
     },
     {
         "iIndex": 1065,
@@ -3945,7 +3945,7 @@
         "lSolutions": [
             1.25
         ],
-        "sQuestion": "Christopher strolled 5 miles at 4 miles per hour. How long did Christopher stroll?"
+        "sQuestion": "Christopher caminó 5 millas a 4 millas por hora. ¿Cuánto tiempo paseó Christopher?"
     },
     {
         "iIndex": 1066,
@@ -3959,7 +3959,7 @@
         "lSolutions": [
             2.0
         ],
-        "sQuestion": "Jose wandered 4 kilometers at 2 kilometers per hour. How long did Jose wander?"
+        "sQuestion": "José vagaba 4 kilómetros a 2 kilómetros por hora. ¿Cuánto tiempo vagó José?"
     },
     {
         "iIndex": 1091,
@@ -3973,7 +3973,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": "If Teresa jogged 25 kilometers at 5 kilometers per hour, how long was Teresa jogging?"
+        "sQuestion": "Si Teresa corría 25 kilómetros a 5 kilómetros por hora, ¿cuánto tiempo corría Teresa?"
     },
     {
         "iIndex": 1100,
@@ -3987,7 +3987,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": "If Teresa jogged 25 kilometers at 5 kilometers per hour, how long was Teresa jogging?"
+        "sQuestion": "Si Teresa corría 25 kilómetros a 5 kilómetros por hora, ¿cuánto tiempo corría Teresa?"
     },
     {
         "iIndex": 1103,
@@ -4001,7 +4001,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": "If Teresa jogged 25 kilometers at 5 kilometers per hour, how long was Teresa jogging?"
+        "sQuestion": "Si Teresa corría 25 kilómetros a 5 kilómetros por hora, ¿cuánto tiempo corría Teresa?"
     },
     {
         "iIndex": 1107,
@@ -4015,7 +4015,7 @@
         "lSolutions": [
             8.0
         ],
-        "sQuestion": "If Benjamin skated 80 kilometers at 10 kilometers per hour, how long was Benjamin skating?"
+        "sQuestion": "Si Benjamin patinaba 80 kilómetros a 10 kilómetros por hora, ¿cuánto tiempo patinaba Benjamin?"
     },
     {
         "iIndex": 1115,
@@ -4029,7 +4029,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": "If Heather bicycled 40 kilometers at 8 kilometers per hour, how long was Heather bicycling?"
+        "sQuestion": "Si Heather recorrió 40 kilómetros a 8 kilómetros por hora, ¿cuánto tiempo estuvo en bicicleta?"
     },
     {
         "iIndex": 1121,
@@ -4043,7 +4043,7 @@
         "lSolutions": [
             8.0
         ],
-        "sQuestion": "If Benjamin skated 80 kilometers at 10 kilometers per hour, how long was Benjamin skating?"
+        "sQuestion": "Si Benjamin patinaba 80 kilómetros a 10 kilómetros por hora, ¿cuánto tiempo patinaba Benjamin?"
     },
     {
         "iIndex": 1127,
@@ -4057,7 +4057,7 @@
         "lSolutions": [
             10.0
         ],
-        "sQuestion": "Jeremy strolled 20 kilometers at 2 kilometers per hour. How long did Jeremy stroll?"
+        "sQuestion": "Jeremy caminó 20 kilómetros a 2 kilómetros por hora. ¿Cuánto tiempo paseó Jeremy?"
     },
     {
         "iIndex": 1128,
@@ -4071,7 +4071,7 @@
         "lSolutions": [
             10.0
         ],
-        "sQuestion": "Jeremy strolled 20 kilometers at 2 kilometers per hour. How long did Jeremy stroll?"
+        "sQuestion": "Jeremy caminó 20 kilómetros a 2 kilómetros por hora. ¿Cuánto tiempo paseó Jeremy?"
     },
     {
         "iIndex": 1135,
@@ -4085,7 +4085,7 @@
         "lSolutions": [
             1.0
         ],
-        "sQuestion": "If Lawrence walked 4 kilometers at 3 kilometers per hour, how long was Lawrence walking?"
+        "sQuestion": "Si Lawrence caminó 4 kilómetros a 3 kilómetros por hora, ¿cuánto tiempo caminó?"
     },
     {
         "iIndex": 1137,
@@ -4099,7 +4099,7 @@
         "lSolutions": [
             2.0
         ],
-        "sQuestion": " You have 7 balloons and your friend has 5 balloons. How many more  balloons do you have than your friend?"
+        "sQuestion": " Tienes 7 globos y tu amigo tiene 5 globos. ¿Cuántos globos más tienes que tu amigo?"
     },
     {
         "iIndex": 1138,
@@ -4113,7 +4113,7 @@
         "lSolutions": [
             6.0
         ],
-        "sQuestion": " 2 birds were sitting on the fence. 4 more birds came to join them. How many birds are sitting on the fence?"
+        "sQuestion": "Dos pájaros estaban sentados en la valla. Cuatro pájaros más se unieron a ellos. ¿Cuántos pájaros están sentados en la valla?"
     },
     {
         "iIndex": 1139,
@@ -4127,7 +4127,7 @@
         "lSolutions": [
             4.0
         ],
-        "sQuestion": " You have collected 7 crickets. How many more crickets do you need to collect to have 11 crickets?"
+        "sQuestion": "Has recogido 7 grillos. ¿Cuántos grillos más necesitas recoger para tener 11 grillos?"
     },
     {
         "iIndex": 1140,
@@ -4141,7 +4141,7 @@
         "lSolutions": [
             12.0
         ],
-        "sQuestion": " A bee has 6 legs. How many legs do 2 bees have?"
+        "sQuestion": "Una abeja tiene 6 patas. ¿Cuántas patas tienen dos abejas?"
     },
     {
         "iIndex": 1141,
@@ -4155,7 +4155,7 @@
         "lSolutions": [
             3.0
         ],
-        "sQuestion": " There are 6 birds and 3 nests. How many more birds are there than nests?"
+        "sQuestion": "Hay 6 pájaros y 3 nidos. ¿Cuántos pájaros más hay que nidos?"
     },
     {
         "iIndex": 1142,
@@ -4169,7 +4169,7 @@
         "lSolutions": [
             2.0
         ],
-        "sQuestion": " There are 5 flowers and 3 bees. How many fewer bees are there than flowers?"
+        "sQuestion": "Hay 5 flores y 3 abejas. ¿Cuántas abejas hay menos que flores?"
     },
     {
         "iIndex": 1143,
@@ -4183,7 +4183,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": " 3 owls were sitting on the fence. 2 more owls joined them. How many owls are on the fence now?"
+        "sQuestion": " 3 búhos estaban sentados en la valla. Dos búhos más se unieron a ellos. ¿Cuántas buhos están en la cerca ahora?"
     },
     {
         "iIndex": 1144,
@@ -4197,7 +4197,7 @@
         "lSolutions": [
             1.0
         ],
-        "sQuestion": " 2 beavers were working on their home. 1 went for a swim. How many beavers are still working on their home?"
+        "sQuestion": "2 castores estaban trabajando en su casa. Uno fue a nadar. ¿Cuántos castores siguen trabajando en su casa?"
     },
     {
         "iIndex": 1145,
@@ -4211,7 +4211,7 @@
         "lSolutions": [
             3.0
         ],
-        "sQuestion": " 2 toucans are sitting on a tree limb. 1 more toucan joins them. How many toucans in all?"
+        "sQuestion": "2 tucanes están sentados en una rama de un árbol. Un tucán más se une a ellos. ¿Cuántos tucanes en total?"
     },
     {
         "iIndex": 1146,
@@ -4225,7 +4225,7 @@
         "lSolutions": [
             2.0
         ],
-        "sQuestion": " There are 4 squirrels in a tree with 2 nuts. How many more squirrels are there than nuts?"
+        "sQuestion": "Hay 4 ardillas en un árbol con 2 nueces. ¿Cuántas ardillas más hay que las nueces?"
     },
     {
         "iIndex": 1147,
@@ -4239,7 +4239,7 @@
         "lSolutions": [
             38.0
         ],
-        "sQuestion": " Mrs. Hilt bought a yoyo for 24 cents and a whistle for 14 cents. How much did she spend in all for the two toys?"
+        "sQuestion": "La Sra. Hilt compró un yoyo por 24 centavos y un silbato por 14 centavos. ¿Cuánto gastó en total para los dos juguetes?"
     },
     {
         "iIndex": 1148,
@@ -4253,7 +4253,7 @@
         "lSolutions": [
             12.0
         ],
-        "sQuestion": " At Mrs. Hilt's house, there was 29 inches of snow, and Brecknock Elementary School received 17 inches of snow. How much more snow  did Mrs. Hilt's house have?"
+        "sQuestion": "En la casa de la Sra. Hilt, había 29 pulgadas de nieve, y la Escuela Primaria Brecknock recibió 17 pulgadas de nieve. ¿Cuánta nieve más tenía la casa de la Sra. Hilt?"
     },
     {
         "iIndex": 1149,
@@ -4267,7 +4267,7 @@
         "lSolutions": [
             15.0
         ],
-        "sQuestion": " Mrs. Hilt reads 5 books a day. How many books does she read in 3 days?"
+        "sQuestion": "La Sra. Hilt lee 5 libros al día. ¿Cuántos libros lee en 3 días?"
     },
     {
         "iIndex": 1150,
@@ -4281,7 +4281,7 @@
         "lSolutions": [
             6.0
         ],
-        "sQuestion": " Mrs. Hilt saw 3 bugs eat 2 flowers each. How many flowers total did the bugs eat?"
+        "sQuestion": "La Sra. Hilt vio a tres bichos comerse dos flores cada uno. ¿Cuántas flores en total se comieron los bichos?"
     },
     {
         "iIndex": 1151,
@@ -4295,7 +4295,7 @@
         "lSolutions": [
             4.0
         ],
-        "sQuestion": " Mrs. Hilt had 15 cents. She bought a pencil for 11 cents. How much money did she have left?"
+        "sQuestion": "La Sra. Hilt tenía 15 centavos. Compró un lápiz por 11 centavos. ¿Cuánto dinero le quedaba?"
     },
     {
         "iIndex": 1152,
@@ -4309,7 +4309,7 @@
         "lSolutions": [
             16.0
         ],
-        "sQuestion": " Mrs. Hilt bought 2 pizzas. Each pizza had 8 slices. How many total slices of pizza did she have?"
+        "sQuestion": "La Sra. Hilt compró dos pizzas. Cada pizza tenía 8 rebanadas. ¿Cuántas porciones de pizza tenía en total?"
     },
     {
         "iIndex": 1153,
@@ -4323,7 +4323,7 @@
         "lSolutions": [
             15.0
         ],
-        "sQuestion": " Mrs. Hilt ate 5 apples every hour. How many apples had she eaten at the end of 3 hours?"
+        "sQuestion": "La Sra. Hilt comía 5 manzanas cada hora. ¿Cuántas manzanas había comido al final de las 3 horas?"
     },
     {
         "iIndex": 1154,
@@ -4337,7 +4337,7 @@
         "lSolutions": [
             11.0
         ],
-        "sQuestion": " Mary\u2019s mom is getting ready for Mary\u2019s birthday party. She blew up 6 balloons this morning and 5 balloons this afternoon. How many balloons  did she blow up in all?"
+        "sQuestion": "La madre de Mary se está preparando para la fiesta de cumpleaños de Mary. Ella voló 6 globos esta mañana y 5 globos esta tarde. ¿Cuántos globos ha inflado en total?"
     },
     {
         "iIndex": 1155,
@@ -4351,7 +4351,7 @@
         "lSolutions": [
             7.0
         ],
-        "sQuestion": " Shelby\u2019s teacher gives out gold stars for great math work. Yesterday, Shelby earned 4 gold stars. Today, she earned 3 more. How many gold  stars did Shelby earn in all?"
+        "sQuestion": " El profesor de Shelby da estrellas doradas por su gran trabajo de matemáticas. Ayer, Shelby ganó 4 estrellas doradas. Hoy, ganó 3 más. ¿Cuántas estrellas doradas ganó Shelby en total?"
     },
     {
         "iIndex": 1156,
@@ -4365,7 +4365,7 @@
         "lSolutions": [
             18.0
         ],
-        "sQuestion": " The Litter Patrol picked up 10 glass bottles and 8 aluminum cans on Saturday. How many pieces of litter did they pick up altogether?"
+        "sQuestion": "La patrulla de la basura recogió 10 botellas de vidrio y 8 latas de aluminio el sábado. ¿Cuántas piezas de basura recogieron en total?"
     },
     {
         "iIndex": 1157,
@@ -4379,7 +4379,7 @@
         "lSolutions": [
             15.0
         ],
-        "sQuestion": " Carson\u2019s teacher gives out gold stars for great math work. Yesterday, Carson earned 6 gold stars. Today, he earned 9 more. How many gold  stars did Carson earn in all?"
+        "sQuestion": "El profesor de Carson da estrellas doradas por su gran trabajo de matemáticas. Ayer, Carson ganó 6 estrellas doradas. Hoy, ganó 9 más. ¿Cuántas estrellas doradas ganó Carson en total?"
     },
     {
         "iIndex": 1158,
@@ -4393,7 +4393,7 @@
         "lSolutions": [
             7.0
         ],
-        "sQuestion": " There were 10 students riding on the school bus. At the first stop, 3 students got off of the bus. How many students are left on the bus?"
+        "sQuestion": "Había 10 estudiantes en el autobús escolar. En la primera parada, 3 estudiantes se bajaron del autobús. ¿Cuántos estudiantes quedan en el autobús?"
     },
     {
         "iIndex": 1159,
@@ -4407,7 +4407,7 @@
         "lSolutions": [
             28.0
         ],
-        "sQuestion": " Lucy went to the grocery store. She bought 12 packs of cookies and 16  packs of noodles. How many packs of groceries did she buy in all?"
+        "sQuestion": "Lucy fue al supermercado. Compró 12 paquetes de galletas y 16 paquetes de fideos. ¿Cuántos paquetes de comida compró en total?"
     },
     {
         "iIndex": 1160,
@@ -4421,7 +4421,7 @@
         "lSolutions": [
             22.0
         ],
-        "sQuestion": " Roden went to a pet shop. He bought 15 gold fish and 7 blue fish. How many fish did he buy?"
+        "sQuestion": "Roden fue a una tienda de mascotas. Compró 15 peces dorados y 7 azules. ¿Cuántos peces compró?"
     },
     {
         "iIndex": 1161,
@@ -4435,7 +4435,7 @@
         "lSolutions": [
             38.0
         ],
-        "sQuestion": " I read 21 pages of my English book yesterday. Today, I read 17 pages. What is the total number of pages did I read?"
+        "sQuestion": "Ayer leí 21 páginas de mi libro de inglés. Hoy, leí 17 páginas. ¿Cuál es el número total de páginas que leí?"
     },
     {
         "iIndex": 1162,
@@ -4449,7 +4449,7 @@
         "lSolutions": [
             929.0
         ],
-        "sQuestion": " In a school, there are 542 girls and 387 boys. How many pupils are there in that school?"
+        "sQuestion": "En una escuela, hay 542 niñas y 387 niños. ¿Cuántos alumnos hay en esa escuela?"
     },
     {
         "iIndex": 1163,
@@ -4463,7 +4463,7 @@
         "lSolutions": [
             62.0
         ],
-        "sQuestion": " Linda has 34 candies. Chloe has 28. How many candies do they have in all?"
+        "sQuestion": "Linda tiene 34 caramelos. Chloe tiene 28. ¿Cuántos caramelos tienen en total?"
     },
     {
         "iIndex": 1164,
@@ -4477,7 +4477,7 @@
         "lSolutions": [
             113.0
         ],
-        "sQuestion": " Gino has 63 popsicle sticks. I have 50 popsicle sticks. What is the sum of our popsicle sticks?"
+        "sQuestion": "Gino tiene 63 palitos de helado. Yo tengo 50 palitos de helado. ¿Cuál es la suma de nuestros palitos de paleta?"
     },
     {
         "iIndex": 1165,
@@ -4491,7 +4491,7 @@
         "lSolutions": [
             616.0
         ],
-        "sQuestion": " Lino picked up 292 shells at the seashore in the morning and 324 shells in the afternoon. How many shells did he pick up in all?"
+        "sQuestion": "Lino recogió 292 proyectiles a la orilla del mar por la mañana y 324 por la tarde. ¿Cuántos proyectiles recogió en total?"
     },
     {
         "iIndex": 1166,
@@ -4505,7 +4505,7 @@
         "lSolutions": [
             803.0
         ],
-        "sQuestion": " There were 105 parents in the program and 698 pupils, too. How many people were present in the program?"
+        "sQuestion": "Había 105 padres en el programa y 698 alumnos también. ¿Cuántas personas estaban presentes en el programa?"
     },
     {
         "iIndex": 1167,
@@ -4519,7 +4519,7 @@
         "lSolutions": [
             700.0
         ],
-        "sQuestion": " Last Saturday, Marie sold 425 magazines and 275 newspapers. What is the total number of reading materials she sold?"
+        "sQuestion": "El sábado pasado, Marie vendió 425 revistas y 275 periódicos. ¿Cuál es el número total de materiales de lectura que vendió?"
     },
     {
         "iIndex": 1168,
@@ -4533,7 +4533,7 @@
         "lSolutions": [
             20.0
         ],
-        "sQuestion": " There are 12 birds on the fence. 8 more birds land on the fence. How many birds are on the fence?"
+        "sQuestion": "Hay 12 pájaros en la valla. 8 pájaros más aterrizan en la valla. ¿Cuántos pájaros hay en la valla?"
     },
     {
         "iIndex": 1169,
@@ -4547,7 +4547,7 @@
         "lSolutions": [
             35.0
         ],
-        "sQuestion": " 22 boys went down the slide. 13 more boys went down the slide. How many boys went down the slide?"
+        "sQuestion": "22 chicos bajaron por el tobogán. 13 chicos más se fueron por el tobogán. ¿Cuántos chicos se fueron por el tobogán?"
     },
     {
         "iIndex": 1170,
@@ -4561,7 +4561,7 @@
         "lSolutions": [
             33.0
         ],
-        "sQuestion": " 13 ducks are swimming in a lake. 20 more ducks come to join them. How many ducks are swimming in the lake?"
+        "sQuestion": "13 patos están nadando en un lago. 20 patos más vienen a unirse a ellos. ¿Cuántos patos están nadando en el lago?"
     },
     {
         "iIndex": 1171,
@@ -4575,7 +4575,7 @@
         "lSolutions": [
             40.0
         ],
-        "sQuestion": " 30 dogs are barking. 10 more dogs start to bark. How many dogs are barking?"
+        "sQuestion": "30 perros están ladrando. 10 perros más empiezan a ladrar. ¿Cuántos perros están ladrando?"
     },
     {
         "iIndex": 1172,
@@ -4589,7 +4589,7 @@
         "lSolutions": [
             43.0
         ],
-        "sQuestion": " Bobby ate 26 pieces of candy. Then, he ate 17 more. How many pieces of candy did Bobby eat?"
+        "sQuestion": "Bobby se comió 26 caramelos. Luego, se comió 17 más. ¿Cuántos caramelos se comió Bobby?"
     },
     {
         "iIndex": 1173,
@@ -4603,7 +4603,7 @@
         "lSolutions": [
             32.0
         ],
-        "sQuestion": " Sandy had 26 pet fish. She bought 6 more fish. How many pet fish does Sandy have now?"
+        "sQuestion": "Sandy tenía 26 peces mascota. Compró 6 peces más. ¿Cuántos peces mascota tiene Sandy ahora?"
     },
     {
         "iIndex": 1174,
@@ -4617,7 +4617,7 @@
         "lSolutions": [
             60.0
         ],
-        "sQuestion": " The clown blew up 47 balloons. Then he blew up 13 more balloons. How many balloons does the clown have now?"
+        "sQuestion": "El payaso hizo estallar 47 globos. Luego hizo estallar 13 globos más. ¿Cuántos globos tiene el payaso ahora?"
     },
     {
         "iIndex": 1175,
@@ -4631,7 +4631,7 @@
         "lSolutions": [
             77.0
         ],
-        "sQuestion": " Our class got 54 books from the library. Then we got 23 more books from the library. How many books did our class get from the library?"
+        "sQuestion": "Nuestra clase obtuvo 54 libros de la biblioteca. Luego obtuvimos 23 libros más de la biblioteca. ¿Cuántos libros sacó nuestra clase de la biblioteca?"
     },
     {
         "iIndex": 1176,
@@ -4645,7 +4645,7 @@
         "lSolutions": [
             9.0
         ],
-        "sQuestion": " Tessa has 4 apples. Anita gave her 5 more. She needs 10 apples to make a pie. Does she have enough to make a pie?"
+        "sQuestion": "Tessa tiene 4 manzanas. Anita le dio 5 más. Necesita 10 manzanas para hacer un pastel. ¿Tiene suficiente para hacer un pastel?"
     },
     {
         "iIndex": 1177,
@@ -4659,7 +4659,7 @@
         "lSolutions": [
             20.0
         ],
-        "sQuestion": " Molly had 14 candles on her birthday cake. She grew older and got 6 more on her birthday cake. How old is Molly now?"
+        "sQuestion": "Molly tenía 14 velas en su pastel de cumpleaños. Se hizo mayor y puso 6 más en su pastel de cumpleaños. ¿Qué edad tiene Molly ahora?"
     },
     {
         "iIndex": 1178,
@@ -4673,7 +4673,7 @@
         "lSolutions": [
             37.0
         ],
-        "sQuestion": " James ate 22 carrot sticks before dinner and 15 more after dinner. How many carrot sticks did he eat?"
+        "sQuestion": "James se comió 22 palitos de zanahoria antes de la cena y 15 más después de la cena. ¿Cuántos palitos de zanahoria se comió?"
     },
     {
         "iIndex": 1179,
@@ -4687,7 +4687,7 @@
         "lSolutions": [
             17.0
         ],
-        "sQuestion": " Jovana filled her bucket with 5 pounds of shells. If she adds 12 more pounds of shell to fill her bucket, how many pounds does she have?"
+        "sQuestion": "Jovana llenó su cubo con 5 libras de conchas. Si añade 12 libras más de conchas para llenar su cubo, ¿cuántas libras tiene?"
     },
     {
         "iIndex": 1180,
@@ -4701,7 +4701,7 @@
         "lSolutions": [
             24.0
         ],
-        "sQuestion": " Isha\u2019s pencil is 12 cubes long. If she gets another pencil that is 12 cubes long, how many cubes long are both pencils?"
+        "sQuestion": "El lápiz de Isha tiene 12 cubos de largo. Si consigue otro lápiz de 12 cubos, ¿cuántos cubos de largo tienen ambos lápices?"
     },
     {
         "iIndex": 1181,
@@ -4715,7 +4715,7 @@
         "lSolutions": [
             22.0
         ],
-        "sQuestion": " Isabella\u2019s hair is 18 cubes long. If her hair grows 4 more inches, how long will it be?"
+        "sQuestion": "El cabello de Isabella tiene 18 cubos de largo. Si su pelo crece 4 pulgadas más, ¿cuánto tiempo será?"
     },
     {
         "iIndex": 1182,
@@ -4729,7 +4729,7 @@
         "lSolutions": [
             31.0
         ],
-        "sQuestion": " Mrs. Sheridan has 17 cats. Mr. Sheridan gave her 14 more cats. How many cats does Mrs. Sheridan have altogether?"
+        "sQuestion": "La Sra. Sheridan tiene 17 gatos. El Sr. Sheridan le dio 14 gatos más. ¿Cuántos gatos tiene la Sra. Sheridan en total?"
     },
     {
         "iIndex": 1183,
@@ -4743,7 +4743,7 @@
         "lSolutions": [
             69.0
         ],
-        "sQuestion": " Mrs. Sheridan has 22 fish. Her sister gave her 47 more fish. How many fish does she have now?"
+        "sQuestion": "La Sra. Sheridan tiene 22 peces. Su hermana le dio 47 peces más. ¿Cuántos peces tiene ahora?"
     },
     {
         "iIndex": 1184,
@@ -4757,7 +4757,7 @@
         "lSolutions": [
             6.0
         ],
-        "sQuestion": " Mrs. Heine is buying Valentine\u2019s Day treats for her 2 dogs. If she wants to buy them 3 heart biscuits each, how many biscuits does she need to  buy?"
+        "sQuestion": "La Sra. Heine está comprando regalos de San Valentín para sus dos perros. Si quiere comprarles 3 galletas de corazón cada uno, ¿cuántas galletas necesita comprar?"
     },
     {
         "iIndex": 1185,
@@ -4771,7 +4771,7 @@
         "lSolutions": [
             79.0
         ],
-        "sQuestion": " Cade had 87 marbles. He gave 8 to Dylan. How many does he have left?"
+        "sQuestion": "Cade tenía 87 canicas. Le dio 8 a Dylan. ¿Cuántas le quedan?"
     },
     {
         "iIndex": 1186,
@@ -4785,7 +4785,7 @@
         "lSolutions": [
             31.0
         ],
-        "sQuestion": " Michael has some fish in his fish tank. Ben gave him 18 more fish. Now he has 49. How many fish did he have to begin with?"
+        "sQuestion": "Michael tiene algunos peces en su pecera. Ben le dio 18 peces más. Ahora tiene 49. ¿Cuántos peces tenía para empezar?"
     },
     {
         "iIndex": 1187,
@@ -4799,7 +4799,7 @@
         "lSolutions": [
             11.0
         ],
-        "sQuestion": " Alyssa had 129 cookies. Aiyanna has 140. How many more cookies does Aiyanna have than Alyssa?"
+        "sQuestion": "Alyssa tenía 129 galletas. Aiyanna tiene 140. ¿Cuántas galletas más tiene Aiyanna que Alyssa?"
     },
     {
         "iIndex": 1188,
@@ -4813,7 +4813,7 @@
         "lSolutions": [
             66.0
         ],
-        "sQuestion": " Daniel had some noodles. He gave 12 noodles to William. Now Daniel only has 54 noodles. How many noodles did Daniel have to begin with?"
+        "sQuestion": "Daniel tenía unos fideos. Le dio 12 fideos a William. Ahora Daniel sólo tiene 54 fideos. ¿Cuántos fideos tenía Daniel para empezar?"
     },
     {
         "iIndex": 1189,
@@ -4827,7 +4827,7 @@
         "lSolutions": [
             14.0
         ],
-        "sQuestion": " Hayley had 25 meatballs on her plate. Kirsten stole some of her meatballs. Now she has 11 meatballs on her plate. How many meatballs  did Kirsten steal?"
+        "sQuestion": "Hayley tenía 25 albóndigas en su plato. Kirsten robó algunas de sus albóndigas. Ahora tiene 11 albóndigas en su plato. ¿Cuántas albóndigas robó Kirsten?"
     },
     {
         "iIndex": 1190,
@@ -4841,7 +4841,7 @@
         "lSolutions": [
             9.0
         ],
-        "sQuestion": " Isabella\u2019s hair is 18 inches long. If she gets a haircut and now her hair is 9 inches long, how much of Isabella\u2019s hair got cut off?"
+        "sQuestion": "El cabello de Isabella tiene 18 pulgadas de largo. Si se corta el pelo y ahora lo tiene de 15 centímetros, ¿cuánto pelo de Isabella se cortó?"
     },
     {
         "iIndex": 1191,
@@ -4855,7 +4855,7 @@
         "lSolutions": [
             6.0
         ],
-        "sQuestion": " Isabella\u2019s hair is 18 inches long. By the end of the year her hair is 24 inches long. How much hair did she grow?"
+        "sQuestion": "El cabello de Isabella tiene 18 pulgadas de largo.Para el final del año su cabello mide 24 pulgadas de largo. ¿Cuánto pelo le ha crecido?"
     },
     {
         "iIndex": 1192,
@@ -4869,7 +4869,7 @@
         "lSolutions": [
             23.0
         ],
-        "sQuestion": " Jovana had 5 pounds of shells in her bucket. She added some shells and now has 28 pounds of shells. How many pounds did she add?"
+        "sQuestion": "Jovana tenía 5 libras de conchas en su cubo. Añadió algunas conchas y ahora tiene 28 libras de conchas. ¿Cuántas libras añadió?"
     },
     {
         "iIndex": 1193,
@@ -4883,7 +4883,7 @@
         "lSolutions": [
             17.0
         ],
-        "sQuestion": " Isha\u2019s pencil is 31 inches long. If she sharpens it, now her pencil is 14 inches long. How much did she sharpen off of her pencil?"
+        "sQuestion": "El lápiz de Isha tiene 31 pulgadas de largo. Si lo afila, ahora su lápiz mide 14 pulgadas de largo. ¿Cuánto ha sacado de su lápiz?"
     },
     {
         "iIndex": 1194,
@@ -4897,7 +4897,7 @@
         "lSolutions": [
             32.0
         ],
-        "sQuestion": " Mrs. Sheridan has 11 cats. How many more cats does Mrs. Sheridan need to have 43 cats?"
+        "sQuestion": "La Sra. Sheridan tiene 11 gatos. ¿Cuántos gatos más necesita la Sra. Sheridan para tener 43 gatos?"
     },
     {
         "iIndex": 1195,
@@ -4911,7 +4911,7 @@
         "lSolutions": [
             13.0
         ],
-        "sQuestion": " Mrs. Sheridan has 11 cats. Mrs. Garrett has 24 cats. How many more cats does Mrs. Garrett have than Mrs. Sheridan?"
+        "sQuestion": "La Sra. Sheridan tiene 11 gatos. La Sra. Garrett tiene 24 gatos. ¿Cuántos gatos más tiene la Sra. Garrett que la Sra. Sheridan?"
     },
     {
         "iIndex": 1196,
@@ -4925,7 +4925,7 @@
         "lSolutions": [
             22.0
         ],
-        "sQuestion": " Mrs. Wong had 30 Valentines. She gave 8 Valentines to her children. How many does she have left?"
+        "sQuestion": "La Sra. Wong tuvo 30 días de San Valentín. Ella le dio 8 tarjetas de San Valentín a sus hijos. ¿Cuántas le quedan?"
     },
     {
         "iIndex": 1197,
@@ -4939,7 +4939,7 @@
         "lSolutions": [
             42.0
         ],
-        "sQuestion": " Mrs. Franklin had 58 Valentines. Mrs. Franklin gave some to her students. Now she has 16. How many Valentines did Mrs. Franklin give  to her students?"
+        "sQuestion": "La Sra. Franklin tuvo 58 San Valentín. La Sra. Franklin le dio algunas a sus estudiantes. Ahora tiene 16. ¿Cuántas tarjetas de San Valentín le dio la Sra. Franklin a sus alumnos?"
     },
     {
         "iIndex": 1198,
@@ -4953,7 +4953,7 @@
         "lSolutions": [
             50.0
         ],
-        "sQuestion": " Mrs. Snyder made 86 heart cookies. She made 36 red cookies and the rest are pink. How many pink cookies did she make?"
+        "sQuestion": "La Sra. Snyder hizo 86 galletas de corazón. Hizo 36 galletas rojas y el resto son rosas. ¿Cuántas galletas rosas hizo?"
     },
     {
         "iIndex": 1199,
@@ -4967,7 +4967,7 @@
         "lSolutions": [
             34.0
         ],
-        "sQuestion": " Mrs. Santiago has 58 red roses. Mrs. Garrett has 24. How many more red roses does Mrs. Santiago have than Mrs. Garrett?"
+        "sQuestion": "La Sra. Santiago tiene 58 rosas rojas. La Sra. Garrett tiene 24. ¿Cuántas rosas rojas más tiene la Sra. Santiago que la Sra. Garrett?"
     },
     {
         "iIndex": 1200,
@@ -4981,7 +4981,7 @@
         "lSolutions": [
             35.0
         ],
-        "sQuestion": " 14 birds were sitting in a tree. 21 more birds flew up to the tree. How many birds were there altogether in the tree?"
+        "sQuestion": "14 pájaros estaban sentados en un árbol. 21 pájaros más volaron hasta el árbol. ¿Cuántos pájaros había en total en el árbol?"
     },
     {
         "iIndex": 1201,
@@ -4995,7 +4995,7 @@
         "lSolutions": [
             13.0
         ],
-        "sQuestion": " 29 birds were sitting in a tree. Some more fly up to the tree. Then there were 42 birds in the tree. How many more flew up to the tree?"
+        "sQuestion": "29 pájaros estaban sentados en un árbol. Algunos más vuelan hasta el árbol. Entonces había 42 pájaros en el árbol. ¿Cuántos más volaron hasta el árbol?"
     },
     {
         "iIndex": 1202,
@@ -5009,7 +5009,7 @@
         "lSolutions": [
             79.0
         ],
-        "sQuestion": " Cindy\u2019s mom baked 41 cookies. Paul\u2019s dad baked 38 cookies. They both brought them to school for a party. How many cookies did they  have altogether?"
+        "sQuestion": "La mamá de Cindy horneó 41 galletas. El padre de Paul2019 hizo 38 galletas. Ambos las trajeron a la escuela para una fiesta. ¿Cuántas galletas tenían en total?"
     },
     {
         "iIndex": 1203,
@@ -5023,7 +5023,7 @@
         "lSolutions": [
             7.0
         ],
-        "sQuestion": " 18 children were riding on the bus. At the bus stop, some more children got on the bus. Then there were 25 children altogether on the bus. How  many children got on the bus at the bus stop?"
+        "sQuestion": "18 niños iban en el autobús. En la parada del autobús, algunos niños más subieron al autobús. Entonces había 25 niños en total en el autobús. ¿Cuántos niños subieron al autobús en la parada?"
     },
     {
         "iIndex": 1204,
@@ -5037,7 +5037,7 @@
         "lSolutions": [
             13.0
         ],
-        "sQuestion": " Misha has 34 dollars. How many more dollars does she have to earn to have 47 dollars?"
+        "sQuestion": "Misha tiene 34 dólares. ¿Cuántos dólares más tiene que ganar para tener 47 dólares?"
     },
     {
         "iIndex": 1205,
@@ -5051,7 +5051,7 @@
         "lSolutions": [
             63.0
         ],
-        "sQuestion": " There were 28 girls and 35 boys on the playground at recess. How many children were there in all?"
+        "sQuestion": "Había 28 chicas y 35 chicos en el patio de recreo en el recreo. ¿Cuántos niños había en total?"
     },
     {
         "iIndex": 1206,
@@ -5065,7 +5065,7 @@
         "lSolutions": [
             97.0
         ],
-        "sQuestion": " There were 44 boys and 53 girls on the playground at recess. How many children were on the playground in all?"
+        "sQuestion": "Había 44 niños y 53 niñas en el patio de recreo en el recreo. ¿Cuántos niños había en el patio en total?"
     },
     {
         "iIndex": 1207,
@@ -5079,7 +5079,7 @@
         "lSolutions": [
             95.0
         ],
-        "sQuestion": " There were 58 geese and 37 ducks in the marsh. How many birds were there in all?"
+        "sQuestion": "Había 58 gansos y 37 patos en el pantano. ¿Cuántos pájaros había en total?"
     },
     {
         "iIndex": 1208,
@@ -5093,7 +5093,7 @@
         "lSolutions": [
             120.0
         ],
-        "sQuestion": " Paul had 42 strawberries in his basket. He picked 78 more strawberries. How many strawberries did he have then?"
+        "sQuestion": "Paul tenía 42 fresas en su cesta. Recogió 78 fresas más. ¿Cuántas fresas tenía entonces?"
     },
     {
         "iIndex": 1209,
@@ -5107,7 +5107,7 @@
         "lSolutions": [
             26.0
         ],
-        "sQuestion": " Robin had 18 pieces of gum. Her brother gave her some more pieces. Now Robin has 44 pieces in all. How many pieces of gum did Robin's  brother give her?"
+        "sQuestion": "Robin tenía 18 piezas de chicle. Su hermano le dio más piezas. Ahora Robin tiene 44 piezas en total. ¿Cuántos chicles le dio el hermano de Robin?"
     },
     {
         "iIndex": 1210,
@@ -5121,7 +5121,7 @@
         "lSolutions": [
             64.0
         ],
-        "sQuestion": " Bobby has 142 books. Kristi has 78 books. How many more books does Bobby have than Kristi?"
+        "sQuestion": "Bobby tiene 142 libros. Kristi tiene 78 libros. ¿Cuántos libros más tiene Bobby que Kristi?"
     },
     {
         "iIndex": 1211,
@@ -5135,7 +5135,7 @@
         "lSolutions": [
             26.0
         ],
-        "sQuestion": " Tommy had some balloons. His mom gave him 34 more balloons for his birthday. Then, Tommy had 60 balloons. How many balloons did  Tommy have to start with?"
+        "sQuestion": "Tommy tenía unos globos. Su madre le regaló 34 globos más para su cumpleaños. Luego, Tommy tuvo 60 globos. ¿Cuántos globos tenía Tommy para empezar?"
     },
     {
         "iIndex": 1212,
@@ -5149,7 +5149,7 @@
         "lSolutions": [
             36.0
         ],
-        "sQuestion": " There were 14 kids on the soccer field. 22 kids decided to join in. Now how many kids are on the soccer field?"
+        "sQuestion": "Había 14 niños en el campo de fútbol. 22 niños decidieron unirse. ¿Ahora cuántos niños están en el campo de fútbol?"
     },
     {
         "iIndex": 1213,
@@ -5163,7 +5163,7 @@
         "lSolutions": [
             55.0
         ],
-        "sQuestion": " Jane has 28 old, brown sheets of drawing paper and 27 old, yellow sheets of drawing paper. How many pieces of drawing paper does she  have?"
+        "sQuestion": "Jane tiene 28 hojas viejas y marrones de papel de dibujo y 27 hojas viejas y amarillas de papel de dibujo. ¿Cuántas hojas de papel de dibujo tiene?"
     },
     {
         "iIndex": 1214,
@@ -5177,7 +5177,7 @@
         "lSolutions": [
             244.0
         ],
-        "sQuestion": " Mikey had 356 leaves. Some of her leaves blew away. Now she has 112 leaves left. How many of her leaves blew away?"
+        "sQuestion": "Mikey tenía 356 hojas. Algunas de sus hojas volaron. Ahora le quedan 112 hojas. ¿Cuántas de sus hojas se han volado?"
     },
     {
         "iIndex": 1215,
@@ -5191,7 +5191,7 @@
         "lSolutions": [
             152.0
         ],
-        "sQuestion": " Marcus has 210 baseball cards. He has 58 more than Carter. How many baseball cards does Carter have?"
+        "sQuestion": "Marcus tiene 210 tarjetas de béisbol. Tiene 58 más que Carter. ¿Cuántas tarjetas de béisbol tiene Carter?"
     },
     {
         "iIndex": 1216,
@@ -5205,7 +5205,7 @@
         "lSolutions": [
             17.0
         ],
-        "sQuestion": " Gavin has 23 shirts. 6 are blue the rest are green. How many green shirts does Gavin have?"
+        "sQuestion": "Gavin tiene 23 camisas. 6 son azules y el resto son verdes. ¿Cuántas camisas verdes tiene Gavin?"
     },
     {
         "iIndex": 1217,
@@ -5219,7 +5219,7 @@
         "lSolutions": [
             53.0
         ],
-        "sQuestion": " Ethan has 31 presents. Alissa has 22 more than Ethan. How many presents does Alissa have?"
+        "sQuestion": "Ethan tiene 31 regalos. Alissa tiene 22 más que Ethan. ¿Cuántos regalos tiene Alissa"
     },
     {
         "iIndex": 1218,
@@ -5233,7 +5233,7 @@
         "lSolutions": [
             61.0
         ],
-        "sQuestion": " On the first day of the week Pat had 39 stickers. Pat earned 22 more during the week. How many stickers did Pat have at the end of the  week?"
+        "sQuestion": "El primer día de la semana Pat tenía 39 pegatinas. Pat ganó 22 más durante la semana. ¿Cuántas pegatinas tenía Pat al final de la semana?"
     },
     {
         "iIndex": 1219,
@@ -5247,7 +5247,7 @@
         "lSolutions": [
             49.0
         ],
-        "sQuestion": " Kelly had 56 apples. How many more apples does Kelly need to pick to have 105 apples altogether?"
+        "sQuestion": " elly tenía 56 manzanas. ¿Cuántas manzanas más necesita Kelly para tener 105 manzanas en total?"
     },
     {
         "iIndex": 1220,
@@ -5261,7 +5261,7 @@
         "lSolutions": [
             38.0
         ],
-        "sQuestion": " Todd has some gum. Steve gave him 16 more pieces of gum. Now Todd has 54 pieces of gum. How many pieces did Todd have to start  with?"
+        "sQuestion": "Todd tiene un chicle. Steve le dio 16 piezas más de chicle. Ahora Todd tiene 54 trozos de chicle. ¿Con cuántos pedazos tuvo Todd que empezar?"
     },
     {
         "iIndex": 1221,
@@ -5275,7 +5275,7 @@
         "lSolutions": [
             111.0
         ],
-        "sQuestion": " Josh had 142 pencils. He gave 31 pencils to Dorothy. How many pencils does Josh have left?"
+        "sQuestion": "Josh tenía 142 lápices. Le dio 31 lápices a Dorothy. ¿Cuántos lápices le quedan a Josh?"
     },
     {
         "iIndex": 1222,
@@ -5289,7 +5289,7 @@
         "lSolutions": [
             28.0
         ],
-        "sQuestion": " Nell collects baseball cards. She had 304 cards. She gave some of her cards to Jeff and now has 276 cards left. How many cards did Nell give  to Jeff?"
+        "sQuestion": "Nell colecciona tarjetas de béisbol. Tenía 304 tarjetas. Le dio algunas de sus tarjetas a Jeff y ahora le quedan 276. ¿Cuántas cartas le dio Nell a Jeff?"
     },
     {
         "iIndex": 1223,
@@ -5303,7 +5303,7 @@
         "lSolutions": [
             51.0
         ],
-        "sQuestion": " Sarah had some trucks. She gave 13 to Jeff, and now she has 38 trucks left. How many trucks did Sarah have to start with?"
+        "sQuestion": "Sarah tenía algunos camiones. Le dio 13 a Jeff, y ahora le quedan 38 camiones. ¿Con cuántos camiones tenía Sarah para empezar?"
     },
     {
         "iIndex": 1224,
@@ -5317,7 +5317,7 @@
         "lSolutions": [
             77.0
         ],
-        "sQuestion": " There are 40 boys and some girls on the playground. There are 117 children altogether. How many girls are on the playground?"
+        "sQuestion": "Hay 40 niños y algunas niñas en el patio de recreo. Hay 117 niños en total. ¿Cuántas niñas hay en el patio de recreo?"
     },
     {
         "iIndex": 1225,
@@ -5331,7 +5331,7 @@
         "lSolutions": [
             88.0
         ],
-        "sQuestion": " Megan had 49 markers. Robert gave her 39 more markers. How many markers does Megan have altogether?"
+        "sQuestion": "Megan tenía 49 marcadores. Robert le dio 39 marcadores más. ¿Cuántos marcadores tiene Megan en total?"
     },
     {
         "iIndex": 1226,
@@ -5345,7 +5345,7 @@
         "lSolutions": [
             32.0
         ],
-        "sQuestion": " Each CD rack holds 8 CDs. A shelf can hold 4 racks. How many total CDs can fit on the shelf?"
+        "sQuestion": "Cada estante de CDs tiene capacidad para 8 CDs. Un estante puede contener 4 estantes. ¿Cuántos CDs en total caben en la estantería?"
     },
     {
         "iIndex": 1227,
@@ -5359,7 +5359,7 @@
         "lSolutions": [
             53.0
         ],
-        "sQuestion": " Carla has some marbles. She bought 134 marbles. Now she has 187 marbles. How many did she start with?"
+        "sQuestion": "Carla tiene algunas canicas. Compró 134 canicas. Ahora tiene 187 canicas. ¿Con cuántas empezó?"
     },
     {
         "iIndex": 1228,
@@ -5373,7 +5373,7 @@
         "lSolutions": [
             15.0
         ],
-        "sQuestion": " Kelly has 50 Nintendo games. How many does she need to give away so that she will have 35 games left?"
+        "sQuestion": "Kelly tiene 50 juegos de Nintendo. ¿Cuántos necesita regalar para que le queden 35 juegos?"
     },
     {
         "iIndex": 1229,
@@ -5387,7 +5387,7 @@
         "lSolutions": [
             143.0
         ],
-        "sQuestion": " Connie had some marbles. She gave 73 to Juan. Now she has 70 marbles left. How many did she have to start with?"
+        "sQuestion": "Connie tenía unas canicas. Le dio 73 a Juan. Ahora le quedan 70 canicas. ¿Con cuántas tenía que empezar?"
     },
     {
         "iIndex": 1230,
@@ -5401,7 +5401,7 @@
         "lSolutions": [
             105.0
         ],
-        "sQuestion": " Connie has 41 red markers and 64 blue markers. How many markers does she have altogether?"
+        "sQuestion": "Connie tiene 41 marcadores rojos y 64 azules. ¿Cuántos marcadores tiene en total?"
     },
     {
         "iIndex": 1231,
@@ -5415,7 +5415,7 @@
         "lSolutions": [
             39.0
         ],
-        "sQuestion": " Iesha has 58 books. 19 are about school and the rest are about sports. How many books about sports does Iesha have?"
+        "sQuestion": "Iesha tiene 58 libros. 19 son sobre la escuela y el resto sobre deportes. ¿Cuántos libros sobre deportes tiene Iesha?"
     },
     {
         "iIndex": 1232,
@@ -5429,7 +5429,7 @@
         "lSolutions": [
             131.0
         ],
-        "sQuestion": " James has 232 balloons. Amy has 101 balloons. How many more balloons does James have than Amy?"
+        "sQuestion": "James tiene 232 globos. Amy tiene 101 globos. ¿Cuántos globos más tiene James que Amy?"
     },
     {
         "iIndex": 1233,
@@ -5443,7 +5443,7 @@
         "lSolutions": [
             13.0
         ],
-        "sQuestion": " Sean has 45 whistles. He has 32 more whistles that Charles. How many whistles does Charles have?"
+        "sQuestion": "Sean tiene 45 silbidos. Tiene 32 silbatos más que Charles. ¿Cuántos silbatos tiene Charles"
     },
     {
         "iIndex": 1234,
@@ -5457,7 +5457,7 @@
         "lSolutions": [
             64.0
         ],
-        "sQuestion": " Connie has 39 marbles. Juan has 25 more marbles than Connie. How many marbles does Juan have?"
+        "sQuestion": "Connie tiene 39 canicas. Juan tiene 25 canicas más que Connie. ¿Cuántas canicas tiene Juan?"
     },
     {
         "iIndex": 1235,
@@ -5471,7 +5471,7 @@
         "lSolutions": [
             62.0
         ],
-        "sQuestion": " Joe had 50 toy cars. If he gets 12 more cars, how many cars will he have then?"
+        "sQuestion": "Joe tenía 50 coches de juguete. Si consigue 12 coches más, ¿cuántos coches tendrá entonces?"
     },
     {
         "iIndex": 1236,
@@ -5485,7 +5485,7 @@
         "lSolutions": [
             22.0
         ],
-        "sQuestion": " There are 64 pigs in the barn. Some more come to join them. Now there are 86 pigs. How many pigs came to join  them?"
+        "sQuestion": "Hay 64 cerdos en el granero. Algunos más vienen a unirse a ellos. Ahora hay 86 cerdos. ¿Cuántos cerdos vinieron a unirse a ellos?"
     },
     {
         "iIndex": 1237,
@@ -5499,7 +5499,7 @@
         "lSolutions": [
             23.0
         ],
-        "sQuestion": " Rosa had 67 flowers. Andre gave her some more flowers. Now, Rosa has 90 flowers. How many flowers did Andre give to  Rosa?"
+        "sQuestion": "Rosa tenía 67 flores. André le dio más flores. Ahora, Rosa tiene 90 flores. ¿Cuántas flores le dio Andre a Rosa?"
     },
     {
         "iIndex": 1238,
@@ -5513,7 +5513,7 @@
         "lSolutions": [
             30.0
         ],
-        "sQuestion": " Adolfo made a tower with 35 blocks. He added some more blocks and now he has 65 blocks. How many did he have to  add?"
+        "sQuestion": "Adolfo hizo una torre con 35 bloques. Añadió algunos bloques más y ahora tiene 65 bloques. ¿Cuántos tuvo que añadir?"
     },
     {
         "iIndex": 1239,
@@ -5527,7 +5527,7 @@
         "lSolutions": [
             9.0
         ],
-        "sQuestion": " Josh had 16 marbles in his collection. He lost 7 marbles. How many marbles does he have now?"
+        "sQuestion": "Josh tenía 16 canicas en su colección. Perdió 7 canicas. ¿Cuántas canicas tiene ahora?"
     },
     {
         "iIndex": 1240,
@@ -5541,7 +5541,7 @@
         "lSolutions": [
             6.0
         ],
-        "sQuestion": " Megan has 19 seashells. How many more seashells does she need to find to have 25 seashells in her collection?"
+        "sQuestion": "Megan tiene 19 conchas marinas. ¿Cuántas conchas más necesita encontrar para tener 25 conchas en su colección?"
     },
     {
         "iIndex": 1241,
@@ -5555,7 +5555,7 @@
         "lSolutions": [
             9.0
         ],
-        "sQuestion": " Brad has 17 balloons. 8 balloons are red and the rest are green. How many green balloons does Brad have?"
+        "sQuestion": "Brad tiene 17 globos. 8 globos son rojos y el resto son verdes. ¿Cuántos globos verdes tiene Brad?"
     },
     {
         "iIndex": 1242,
@@ -5569,7 +5569,7 @@
         "lSolutions": [
             48.0
         ],
-        "sQuestion": " There are 38 books on the shelf. Marta put 10 more books on the shelf. How many books are on the shelf now?"
+        "sQuestion": "Hay 38 libros en la estantería. Marta puso 10 libros más en el estante. ¿Cuántos libros hay en la estantería ahora?"
     },
     {
         "iIndex": 1243,
@@ -5583,7 +5583,7 @@
         "lSolutions": [
             48.0
         ],
-        "sQuestion": " A bee has 6 legs. How many legs do 8 bees have?"
+        "sQuestion": "Una abeja tiene 6 patas. ¿Cuántas patas tienen 8 abejas?"
     },
     {
         "iIndex": 1244,
@@ -5597,7 +5597,7 @@
         "lSolutions": [
             198.0
         ],
-        "sQuestion": " Mrs. Hilt bought an ice cream cone for 99 cents. How much would 2 ice cream cones cost?"
+        "sQuestion": "La Sra. Hilt compró un cucurucho de helado por 99 centavos. ¿Cuánto costarían 2 conos de helado?"
     },
     {
         "iIndex": 1245,
@@ -5611,7 +5611,7 @@
         "lSolutions": [
             61.0
         ],
-        "sQuestion": " Mrs. Hilt wants to make a border around her garden. She needs 125 rocks to complete the border. She has 64 rocks. How many more rocks  does she need to complete the border?"
+        "sQuestion": "La Sra. Hilt quiere hacer un borde alrededor de su jardín. Necesita 125 rocas para completar la frontera. Ella tiene 64 rocas. ¿Cuántas rocas más necesita para completar la frontera?"
     },
     {
         "iIndex": 1246,
@@ -5625,7 +5625,7 @@
         "lSolutions": [
             46.0
         ],
-        "sQuestion": " Mrs. Hilt and her sister drove to a concert 78 miles away. They drove 32 miles and then stopped for gas. Her sister put 28 gallons of gas in the  car. How many miles did they have left to drive?"
+        "sQuestion": "La Sra. Hilt y su hermana condujeron a un concierto a 78 millas de distancia. Condujeron 32 millas y luego se detuvieron para cargar gasolina. Su hermana puso 28 galones de gasolina en el coche. ¿Cuántas millas les quedaban por conducir?"
     },
     {
         "iIndex": 1247,
@@ -5639,7 +5639,7 @@
         "lSolutions": [
             300.0
         ],
-        "sQuestion": " Mrs. Hilt bought 6 hot dogs. Each hot dog cost 50 cents. How much money did she pay for all of the hot dogs?"
+        "sQuestion": "La Sra. Hilt compró 6 perros calientes. Cada perrito caliente cuesta 50 centavos. ¿Cuánto dinero pagó por todos los perros calientes?"
     },
     {
         "iIndex": 1248,
@@ -5653,7 +5653,7 @@
         "lSolutions": [
             10.0
         ],
-        "sQuestion": " Mrs. Hilt has 50 cents. A pencil costs 5 cents. How many pencils can she buy with the money she has?"
+        "sQuestion": "La Sra. Hilt tiene 50 centavos. Un lápiz cuesta 5 centavos. ¿Cuántos lápices puede comprar con el dinero que tiene?"
     },
     {
         "iIndex": 1249,
@@ -5667,7 +5667,7 @@
         "lSolutions": [
             24.0
         ],
-        "sQuestion": " Mrs. Hilt bought 3 pizzas for $8 each. What was the total amount she paid for the three pizzas?"
+        "sQuestion": "La Sra. Hilt compró 3 pizzas por 8 dólares cada una. ¿Cuál fue la cantidad total que pagó por las tres pizzas?"
     },
     {
         "iIndex": 1250,
@@ -5681,7 +5681,7 @@
         "lSolutions": [
             21.0
         ],
-        "sQuestion": " The Hawks scored 3 touchdowns worth 7 points each. How many points do they have?"
+        "sQuestion": "Los Halcones anotaron 3 touchdowns que valen 7 puntos cada uno. ¿Cuántos puntos tienen?"
     },
     {
         "iIndex": 1251,
@@ -5695,7 +5695,7 @@
         "lSolutions": [
             21.0
         ],
-        "sQuestion": " Zach scored 42 points in the football game. Ben scored 21 points. How many more points did Zach score?"
+        "sQuestion": "Zach anotó 42 puntos en el partido de fútbol. Ben anotó 21 puntos. ¿Cuántos puntos más anotó Zach?"
     },
     {
         "iIndex": 1252,
@@ -5709,7 +5709,7 @@
         "lSolutions": [
             165.0
         ],
-        "sQuestion": " Kate has 223 pennies. John has 388 pennies. How many more pennies does John have?"
+        "sQuestion": "Kate tiene 223 peniques. John tiene 388 peniques. ¿Cuántos centavos más tiene John?"
     },
     {
         "iIndex": 1253,
@@ -5723,7 +5723,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": " Tim had 50 cents. He paid 45 cents for a candy bar. How much change will he get?"
+        "sQuestion": "Tim tenía 50 centavos. Pagó 45 centavos por una barra de caramelo. ¿Cuánto cambio recibirá?"
     },
     {
         "iIndex": 1254,
@@ -5737,7 +5737,7 @@
         "lSolutions": [
             25.0
         ],
-        "sQuestion": " Mark has 13 trees in his backyard. If he plants 12 more, how many trees will he have?"
+        "sQuestion": "Mark tiene 13 árboles en su patio trasero. Si planta 12 más, ¿cuántos árboles tendrá?"
     },
     {
         "iIndex": 1255,
@@ -5751,7 +5751,7 @@
         "lSolutions": [
             20.0
         ],
-        "sQuestion": " Kim has 4 cousins. She wants to give each cousin 5 pieces of gum. How much gum will she need?"
+        "sQuestion": "Kim tiene 4 primos. Quiere darle a cada primo 5 piezas de chicle. ¿Cuánto chicle necesitará?"
     },
     {
         "iIndex": 1256,
@@ -5765,7 +5765,7 @@
         "lSolutions": [
             2.0
         ],
-        "sQuestion": " Dan has $3.00. He bought a candy bar for $1.00. How much money is left?"
+        "sQuestion": "Dan tiene 3 dólares. Compró una barra de caramelo por $1.00. ¿Cuánto dinero queda?"
     },
     {
         "iIndex": 1257,
@@ -5779,7 +5779,7 @@
         "lSolutions": [
             15.0
         ],
-        "sQuestion": " 5 boats are in the lake. Each boat has 3 people. How many people are on boats in the lake?"
+        "sQuestion": "Hay cinco botes en el lago. Cada bote tiene 3 personas. ¿Cuántas personas hay en los botes en el lago?"
     },
     {
         "iIndex": 1258,
@@ -5793,7 +5793,7 @@
         "lSolutions": [
             50.0
         ],
-        "sQuestion": " Charlie has 31 more snowballs than Lucy. She has 19 snowballs. How many does Charlie have?"
+        "sQuestion": "Charlie tiene 31 bolas de nieve más que Lucy. Ella tiene 19 bolas de nieve. ¿Cuántas tiene Charlie?"
     },
     {
         "iIndex": 1259,
@@ -5807,7 +5807,7 @@
         "lSolutions": [
             59.0
         ],
-        "sQuestion": " Randy has 78 blocks. He uses 19 blocks to build a tower. How many blocks are left?"
+        "sQuestion": "Randy tiene 78 manzanas. Utiliza 19 bloques para construir una torre. ¿Cuántos bloques quedan?"
     },
     {
         "iIndex": 1260,
@@ -5821,7 +5821,7 @@
         "lSolutions": [
             30.0
         ],
-        "sQuestion": " Bryan has 50 skittles. Ben has 20 M&M\u2019s. Who has more? How many more does he have?"
+        "sQuestion": " Bryan tiene 50 bolos. Ben tiene 20 M&Ms. ¿Quién tiene más? ¿Cuántos más tiene?"
     },
     {
         "iIndex": 1261,
@@ -5835,7 +5835,7 @@
         "lSolutions": [
             345.0
         ],
-        "sQuestion": " Paul got a box of 479 crayons for his birthday. At the end of the school  year, he only had 134 left. How many crayons had been lost or given  away?"
+        "sQuestion": "Paul recibió una caja de 479 crayones para su cumpleaños. Al final del año escolar, sólo le quedaban 134. ¿Cuántos lápices de colores se habían perdido o regalado?"
     },
     {
         "iIndex": 1262,
@@ -5849,7 +5849,7 @@
         "lSolutions": [
             217.0
         ],
-        "sQuestion": " 179 birds were sitting in a tree. 38 more birds flew up to the tree. How many birds were there altogether in the tree?"
+        "sQuestion": "179 pájaros estaban sentados en un árbol. 38 pájaros más volaron hasta el árbol. ¿Cuántos pájaros había en total en el árbol?"
     },
     {
         "iIndex": 1263,
@@ -5863,7 +5863,7 @@
         "lSolutions": [
             2327.0
         ],
-        "sQuestion": " Cindy\u2019s mom baked 1215 cookies. Paul\u2019s dad baked 1112 cookies. They both brought them to school for a party. How many cookies did  they have altogether?"
+        "sQuestion": "La madre de Cindy ha hecho 1215 galletas. El padre de Paul ha hecho 1112 galletas. Ambos las trajeron a la escuela para una fiesta. ¿Cuántas galletas tenían en total?"
     },
     {
         "iIndex": 1264,
@@ -5877,7 +5877,7 @@
         "lSolutions": [
             81.0
         ],
-        "sQuestion": " 231 birds were sitting in a tree. Some more fly up to the tree. Then there were 312 birds in the tree. How many more fly up to the tree?"
+        "sQuestion": "231 pájaros estaban sentados en un árbol. Algunos más vuelan hasta el árbol. Entonces había 312 pájaros en el árbol. ¿Cuántos más vuelan hasta el árbol?"
     },
     {
         "iIndex": 1265,
@@ -5891,7 +5891,7 @@
         "lSolutions": [
             14.0
         ],
-        "sQuestion": " 64 children were riding on the bus. At the bus stop, some more children got on the bus. Then there were 78 children altogether on the bus. How  many children got on the bus at the bus stop?"
+        "sQuestion": "64 niños iban en el autobús. En la parada del autobús, algunos niños más subieron al autobús. Entonces había 78 niños en total en el autobús. ¿Cuántos niños subieron al autobús en la parada?"
     },
     {
         "iIndex": 1266,
@@ -5905,7 +5905,7 @@
         "lSolutions": [
             13.0
         ],
-        "sQuestion": " Misha has 34 dollars. How many dollars does she have to earn to have 47 dollars to buy a dog?"
+        "sQuestion": "Misha tiene 34 dólares. ¿Cuántos dólares tiene que ganar para tener 47 dólares para comprar un perro?"
     },
     {
         "iIndex": 1267,
@@ -5919,7 +5919,7 @@
         "lSolutions": [
             16.0
         ],
-        "sQuestion": " Elisa has 37 dollars. How many more dollars does she have to earn to have 53 dollars?"
+        "sQuestion": "Elisa tiene 37 dólares. ¿Cuántos dólares más tiene que ganar para tener 53 dólares?"
     },
     {
         "iIndex": 1268,
@@ -5933,7 +5933,7 @@
         "lSolutions": [
             22.0
         ],
-        "sQuestion": " James had 39 stickers. He got some more stickers for his birthday. Then he had 61 stickers. How many stickers did James get for his  birthday?"
+        "sQuestion": "James tenía 39 pegatinas. Le dieron más pegatinas para su cumpleaños. Luego tuvo 61 pegatinas. ¿Cuántas pegatinas le dieron a James por su cumpleaños?"
     },
     {
         "iIndex": 1269,
@@ -5947,7 +5947,7 @@
         "lSolutions": [
             62.0
         ],
-        "sQuestion": " There were 27 boys and 35 girls on the playground at recess. How many children were on the playground at recess?"
+        "sQuestion": "Había 27 niños y 35 niñas en el patio de recreo en el recreo. ¿Cuántos niños estaban en el patio de recreo en el recreo?"
     },
     {
         "iIndex": 1270,
@@ -5961,7 +5961,7 @@
         "lSolutions": [
             95.0
         ],
-        "sQuestion": " There were 58 geese and 37 ducks in the marsh. How many birds were in the marsh?"
+        "sQuestion": "Había 58 gansos y 37 patos en el pantano. ¿Cuántos pájaros había en el pantano?"
     },
     {
         "iIndex": 1271,
@@ -5975,7 +5975,7 @@
         "lSolutions": [
             63.0
         ],
-        "sQuestion": " Paul had 28 strawberries in his basket. He picked 35 more strawberries. How many strawberries did he have then?"
+        "sQuestion": "Paul tenía 28 fresas en su cesta. Recogió 35 fresas más. ¿Cuántas fresas tenía entonces?"
     },
     {
         "iIndex": 1272,
@@ -5989,7 +5989,7 @@
         "lSolutions": [
             18.0
         ],
-        "sQuestion": " Gary had 73 dollars. He spent 55 dollars on a pet snake. How many dollars did Gary have left?"
+        "sQuestion": "Gary tenía 73 dólares. Gastó 55 dólares en una serpiente de mascota. ¿Cuántos dólares le quedaban a Gary?"
     },
     {
         "iIndex": 1273,
@@ -6003,7 +6003,7 @@
         "lSolutions": [
             4764.0
         ],
-        "sQuestion": " There are 397 butterflies. Each butterfly has 12 black dots and 17 yellow dots. How many black dots are there in all?"
+        "sQuestion": "Hay 397 mariposas. Cada mariposa tiene 12 puntos negros y 17 amarillos. ¿Cuántos puntos negros hay en total?"
     },
     {
         "iIndex": 1274,
@@ -6017,7 +6017,7 @@
         "lSolutions": [
             703.0
         ],
-        "sQuestion": " How many cookies would you have if you had 37 bags of cookies with 19 cookies in each bag?"
+        "sQuestion": "¿Cuántas galletas tendrías si tuvieras 37 bolsas de galletas con 19 galletas en cada bolsa?"
     },
     {
         "iIndex": 1275,
@@ -6031,7 +6031,7 @@
         "lSolutions": [
             2448.0
         ],
-        "sQuestion": " How much would 136 pieces of bubble gum cost if each piece costs 18 cents?"
+        "sQuestion": "¿Cuánto costarían 136 piezas de chicle si cada pieza cuesta 18 centavos?"
     },
     {
         "iIndex": 1276,
@@ -6045,7 +6045,7 @@
         "lSolutions": [
             432.0
         ],
-        "sQuestion": " For the fifth grade play, the chairs have been put into 27 rows with 16 chairs in each row. How many chairs have been put out for the play?"
+        "sQuestion": "Para el juego de quinto grado, las sillas se han puesto en 27 filas con 16 sillas en cada fila. ¿Cuántas sillas se han puesto para la obra?"
     },
     {
         "iIndex": 1277,
@@ -6059,7 +6059,7 @@
         "lSolutions": [
             84.0
         ],
-        "sQuestion": " The Ferris wheel in Paradise Park has 14 seats. Each seat can hold 6 people. How many people can ride the Ferris wheel at the same time?"
+        "sQuestion": "La noria en Paradise Park tiene 14 asientos. Cada asiento tiene capacidad para 6 personas. ¿Cuántas personas pueden montar en la noria al mismo tiempo?"
     },
     {
         "iIndex": 1278,
@@ -6073,7 +6073,7 @@
         "lSolutions": [
             780.0
         ],
-        "sQuestion": " A garden has 52 rows and 15 columns of bean plans. How many plants are there in all?"
+        "sQuestion": "Un jardín tiene 52 filas y 15 columnas de planos de frijoles. ¿Cuántas plantas hay en total?"
     },
     {
         "iIndex": 1279,
@@ -6087,7 +6087,7 @@
         "lSolutions": [
             45552.0
         ],
-        "sQuestion": " A sandbox is 312 centimeters long and 146 centimeters wide. How many square centimeters of ground does the sandbox cover?"
+        "sQuestion": "Un arenero tiene 312 centímetros de largo y 146 centímetros de ancho. ¿Cuántos centímetros cuadrados de tierra cubre el arenero?"
     },
     {
         "iIndex": 1280,
@@ -6101,7 +6101,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": " Sarah picked 45 apples. Her brother picked 9 apples. How many times as many apples did Sarah pick?"
+        "sQuestion": "Sarah recogió 45 manzanas. Su hermano recogió 9 manzanas. ¿Cuántas veces más manzanas recogió Sarah?"
     },
     {
         "iIndex": 1281,
@@ -6115,7 +6115,7 @@
         "lSolutions": [
             6003.0
         ],
-        "sQuestion": " There are 261 fishbowls. Each fishbowl has 23 fish. How many fish are there?"
+        "sQuestion": "Hay 261 peceras. Cada pecera tiene 23 peces. ¿Cuántos peces hay?"
     },
     {
         "iIndex": 1282,
@@ -6129,7 +6129,7 @@
         "lSolutions": [
             168.0
         ],
-        "sQuestion": " We ordered 21 pizzas. Each pizza has 8 slices. How many slices of pizza are there altogether?"
+        "sQuestion": "Pedimos 21 pizzas. Cada pizza tiene 8 rebanadas. ¿Cuántas porciones de pizza hay en total?"
     },
     {
         "iIndex": 1283,
@@ -6143,7 +6143,7 @@
         "lSolutions": [
             8484.0
         ],
-        "sQuestion": " Emily collected eggs from the hen and put them into 303 baskets. She put 28 eggs into each basket. How many eggs did Emily collect?"
+        "sQuestion": "Emily recogió los huevos de la gallina y los puso en 303 cestas. Puso 28 huevos en cada cesta. ¿Cuántos huevos recogió Emily?"
     },
     {
         "iIndex": 1284,
@@ -6157,7 +6157,7 @@
         "lSolutions": [
             2250.0
         ],
-        "sQuestion": " There were 150 book shelves. Each book shelf had 15 books. How many books were on the shelves?"
+        "sQuestion": "Había 150 estantes de libros. Cada estante tenía 15 libros. ¿Cuántos libros había en los estantes?"
     },
     {
         "iIndex": 1285,
@@ -6171,7 +6171,7 @@
         "lSolutions": [
             11676.0
         ],
-        "sQuestion": " There are 84 leaves. There are 139 ladybugs on each leaf. How many ladybugs are there in all?"
+        "sQuestion": "Hay 84 hojas. Hay 139 mariquitas en cada hoja. ¿Cuántas mariquitas hay en total?"
     },
     {
         "iIndex": 1286,
@@ -6185,7 +6185,7 @@
         "lSolutions": [
             629.0
         ],
-        "sQuestion": " There are 37 baskets. There are 17 apples in each basket. How many apples are there in all?"
+        "sQuestion": "Hay 37 canastas. Hay 17 manzanas en cada cesta. ¿Cuántas manzanas hay en total?"
     },
     {
         "iIndex": 1287,
@@ -6199,7 +6199,7 @@
         "lSolutions": [
             17408.0
         ],
-        "sQuestion": " There are 544 pots. Each pot has 32 flowers in it. How many flowers are there in all?"
+        "sQuestion": "Hay 544 macetas. Cada maceta tiene 32 flores. ¿Cuántas flores hay en total?"
     },
     {
         "iIndex": 1288,
@@ -6213,7 +6213,7 @@
         "lSolutions": [
             20.0
         ],
-        "sQuestion": " Your class is having a pizza party. You buy 5 pizzas. Each pizza has 4 slices. How many slices is that altogether?"
+        "sQuestion": "Tu clase está haciendo una fiesta de pizza. Compras 5 pizzas. Cada pizza tiene 4 rebanadas. ¿Cuántas porciones son en total?"
     },
     {
         "iIndex": 1289,
@@ -6227,7 +6227,7 @@
         "lSolutions": [
             40.0
         ],
-        "sQuestion": " Beth has 4 packs of crayons. Each pack has 10 crayons in it. She also has 6 extra crayons. How many crayons does Beth have altogether?"
+        "sQuestion": "Beth tiene 4 paquetes de lápices de colores. Cada paquete tiene 10 crayones. También tiene 6 crayones extra. ¿Cuántos crayones tiene Beth en total?"
     },
     {
         "iIndex": 1290,
@@ -6241,7 +6241,7 @@
         "lSolutions": [
             3.0
         ],
-        "sQuestion": " Ted has 15 candy bars. He wants to put them into 5 bags so there are the same number of candy bars in each bag. How many candy bars  should go in each bag?"
+        "sQuestion": "Ted tiene 15 barras de caramelo. Quiere ponerlas en 5 bolsas para que haya el mismo número de barras de caramelo en cada bolsa. ¿Cuántas barras de caramelo deben ir en cada bolsa?"
     },
     {
         "iIndex": 1291,
@@ -6255,7 +6255,7 @@
         "lSolutions": [
             3000.0
         ],
-        "sQuestion": " A candy store has 6 boxes of chocolates. Each box has 500 pieces. How many pieces are there altogether in the boxes?"
+        "sQuestion": "Una tienda de dulces tiene 6 cajas de chocolates. Cada caja tiene 500 piezas. ¿Cuántas piezas hay en total en las cajas?"
     },
     {
         "iIndex": 1292,
@@ -6269,7 +6269,7 @@
         "lSolutions": [
             6.0
         ],
-        "sQuestion": " Martha bought 18 small cakes. She has 3 children. She would like to divide the cakes among her children so that each child gets the same  amount. How many cakes would each child get?"
+        "sQuestion": "Martha compró 18 pasteles pequeños. Tiene tres hijos. Le gustaría dividir los pasteles entre sus hijos para que cada uno reciba la misma cantidad. ¿Cuántos pasteles recibirá cada niño?"
     },
     {
         "iIndex": 1293,
@@ -6283,7 +6283,7 @@
         "lSolutions": [
             13.0
         ],
-        "sQuestion": " Julian is writing a comic book. His story has 143 frames in all. If he wants to put exactly 11 frames on each page, how many pages would  he have?"
+        "sQuestion": "Julian está escribiendo un cómic. Su historia tiene 143 fotogramas en total. Si quiere poner exactamente 11 marcos en cada página, ¿cuántas páginas tendría?"
     },
     {
         "iIndex": 1294,
