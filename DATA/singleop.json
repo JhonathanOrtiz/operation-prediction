@@ -725,7 +725,7 @@
         "lSolutions": [
             41.0
         ],
-        "sQuestion": "Denise removes 5 bananas from a jar. There were originally 46 bananas in the jar. How many bananas are left in the jar?"
+        "sQuestion": "Denise toma 5 bananas de un tarro. Habian 46 bananas originalmente en el tarro. ¿Cuantas bananas quedan en el tarro?"
     },
     {
         "iIndex": 101,
@@ -739,7 +739,7 @@
         "lSolutions": [
             83.0
         ],
-        "sQuestion": "Arthur removes 4 pencils from a jar. There were originally 87 pencils in the jar. How many pencils are left in the jar?"
+        "sQuestion": "Arthur toma 4 lapices de un tarro. Habian 87 lapices originalmente en el tarro. ¿Cuantos lapices quedan en el tarro?"
     },
     {
         "iIndex": 102,
@@ -753,7 +753,7 @@
         "lSolutions": [
             23.0
         ],
-        "sQuestion": "Joyce starts with 75 apples. She gives 52 to Larry. How many apples does Joyce end with?"
+        "sQuestion": "Joyce comienza con 75 manzanas. Ella le da 52 a Larry. ¿Con cuantas manzanas termina Joyce?"
     },
     {
         "iIndex": 103,
@@ -767,7 +767,7 @@
         "lSolutions": [
             40.0
         ],
-        "sQuestion": "Rachel removes 47 bottle caps from a jar. There were originally 87 bottle caps in the jar. How many bottle caps are left in the jar?"
+        "sQuestion": "Rachel toma 47 tapas de botella de a tarro. Habian 87 tapas de botella originalmente en el tarro. Cuantas tapas de botellas quedas en el tarro?"
     },
     {
         "iIndex": 104,
@@ -781,7 +781,7 @@
         "lSolutions": [
             15.0
         ],
-        "sQuestion": "Anne weighs 67 pounds. Douglas weighs 52 pounds. How much heavier is Anne than Douglas?"
+        "sQuestion": "Anne pesa 67 libras. Douglas pesa 52 libras. ¿Cuan mas pesada es Anne que Douglas?"
     },
     {
         "iIndex": 105,
@@ -795,7 +795,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": "Jessica weighs 49 pounds. Thomas weighs 44 pounds. How much heavier is Jessica than Thomas?"
+        "sQuestion": "Jessica pesa 49 libras. Thomas pesa 44 libras. ¿Cuan mas pesada es Jessica que Thomas?"
     },
     {
         "iIndex": 106,
@@ -809,7 +809,7 @@
         "lSolutions": [
             35.0
         ],
-        "sQuestion": "Debra removes 22 apples from a jar. There were originally 57 apples in the jar. How many apples are left in the jar?"
+        "sQuestion": "Debra toma 22 manzanas de un tarro. habian 57 manzanas originalmente en el tarro. ¿Cuantas manzanas quedan en el tarro?"
     },
     {
         "iIndex": 107,
@@ -823,7 +823,7 @@
         "lSolutions": [
             93.0
         ],
-        "sQuestion": "Virginia starts with 96 eggs. Amy takes 3 away. How many eggs does Virginia end with?"
+        "sQuestion": "Virginia comienza con 96 huevos. Amy se lleva 3. ¿Con cuantos huevos termina virginia?"
     },
     {
         "iIndex": 108,
@@ -837,7 +837,7 @@
         "lSolutions": [
             18.0
         ],
-        "sQuestion": "Donna weighs 69 pounds. Willie weighs 51 pounds. How much heavier is Donna than Willie?"
+        "sQuestion": "Donna pesa 69 libras. Willie pesa 51 libras. Cuan mas pesada es Donna que Willie?"
     },
     {
         "iIndex": 109,
@@ -851,7 +851,7 @@
         "lSolutions": [
             42.0
         ],
-        "sQuestion": "There are 47 eggs in a box. Harry takes 5 eggs. How many are left?"
+        "sQuestion": "Hay 47 eggs en una caja. Harry toma 5 huevos. ¿Cuantos quedan?"
     },
     {
         "iIndex": 110,
@@ -865,7 +865,7 @@
         "lSolutions": [
             52.0
         ],
-        "sQuestion": "Edward starts with 92 eggs. He gives 40 to Phillip. How many eggs does Edward end with?"
+        "sQuestion": "Edward comienza con 92 huevos. El le da 40 a Phillip. ¿Con cuantos huevos termina Edward?"
     },
     {
         "iIndex": 111,
@@ -879,7 +879,7 @@
         "lSolutions": [
             20.0
         ],
-        "sQuestion": "David removes 7 eggs from a jar. There were originally 27 eggs in the jar. How many eggs are left in the jar?"
+        "sQuestion": "David toma 7 huevos de un tarro. Habian 27 huevos originalmente en el tarro. ¿Cuantos huevos quedan en el tarro?"
     },
     {
         "iIndex": 112,
@@ -893,7 +893,7 @@
         "lSolutions": [
             75.0
         ],
-        "sQuestion": "There are 79 pencils in a box. Eric takes 4 pencils. How many are left?"
+        "sQuestion": "Hay 79 lapices en una caja. Eric toma 4 lapices. ¿Cuantos quedan lapices quedan en la caja?"
     },
     {
         "iIndex": 115,
@@ -907,7 +907,7 @@
         "lSolutions": [
             80.0
         ],
-        "sQuestion": "Jane starts with 87 crayons. 7 are eaten by a hippopotamus. How many crayons does Jane end with?"
+        "sQuestion": "Jane comienza con 87 creyones. 7 son comidos por un hipopotamo. ¿Con cuantos creyones termina Jane?"
     },
     {
         "iIndex": 117,
@@ -921,7 +921,7 @@
         "lSolutions": [
             92.0
         ],
-        "sQuestion": "Roger has 95 candies. He gives 3 to Stephanie. How many candies will Roger have?"
+        "sQuestion": "Roger tiene 95 caramelos. El le da 3 a Stephanie. Cuantos caramelos tendra Roger?"
     },
     {
         "iIndex": 118,
@@ -935,7 +935,7 @@
         "lSolutions": [
             51.0
         ],
-        "sQuestion": "There are 96 oranges in a box. Jonathan takes 45 oranges. How many are left?"
+        "sQuestion": "Hay 96 naranjas en una caja. Jonathan toma 45 naranja. ¿Cuantas quedan?"
     },
     {
         "iIndex": 119,
@@ -949,7 +949,7 @@
         "lSolutions": [
             53.0
         ],
-        "sQuestion": "Marie starts with 95 erasers. She loses 42. How many erasers does Marie end with?"
+        "sQuestion": "Marie comienza con 95 borradores. She pierde 42. ¿Con cuantos borradores termina Marie?"
     },
     {
         "iIndex": 120,
@@ -963,7 +963,7 @@
         "lSolutions": [
             15.0
         ],
-        "sQuestion": "There are 22 oranges in a box. Paula takes 7 oranges. How many are left?"
+        "sQuestion": "Hay 22 naranjas en una caja. Paula toma 7 naranja. ¿Cuantas quedan?"
     },
     {
         "iIndex": 121,
@@ -977,7 +977,7 @@
         "lSolutions": [
             84.0
         ],
-        "sQuestion": "Melissa has 88 bananas. She shares 4 with Joshua. How many bananas will Melissa have?"
+        "sQuestion": "Melissa tiene 88 bananas. Ella comparte 4 con Joshua. ¿Cuantas bananas tendra Melissa?"
     },
     {
         "iIndex": 122,
@@ -991,7 +991,7 @@
         "lSolutions": [
             58.0
         ],
-        "sQuestion": "Larry has 67 cards. Dennis takes 9 away. How many cards will Larry have?"
+        "sQuestion": "Larry tiene 67 cartas. Dennis se lleva 9. ¿Cuantas cartas tendra Larry?"
     },
     {
         "iIndex": 123,
@@ -1005,7 +1005,7 @@
         "lSolutions": [
             77.0
         ],
-        "sQuestion": "John weighs 81 pounds. Roy weighs 4 pounds. How much heavier is John than Roy?"
+        "sQuestion": "John weighs 81 pounds. Roy weighs 4 pounds. ¿How much heavier is John than Roy?"
     },
     {
         "iIndex": 124,
@@ -1019,7 +1019,7 @@
         "lSolutions": [
             87.0
         ],
-        "sQuestion": "Larry starts with 93 stickers. He loses 6. How many stickers does Larry end with?"
+        "sQuestion": "Larry comienza con 93 etiquetas. El pierde 6. ¿Con cuantas etiquetas termina Larry?"
     },
     {
         "iIndex": 127,
@@ -1033,7 +1033,7 @@
         "lSolutions": [
             36.0
         ],
-        "sQuestion": "Carlos starts with 39 bananas. 3 are eaten by a hippopotamus. How many bananas does Carlos end with?"
+        "sQuestion": "Carlos starts with 39 bananas. 3 are eaten by a hippopotamus. ¿How many bananas does Carlos end with?"
     },
     {
         "iIndex": 128,
@@ -1047,7 +1047,7 @@
         "lSolutions": [
             71.0
         ],
-        "sQuestion": "Patricia starts with 76 candies. Albert takes 5 away. How many candies does Patricia end with?"
+        "sQuestion": "Patricia comienza con 76 dulces. Albert se lleva 5. ¿Con cuantos dulces termina Patricia?"
     },
     {
         "iIndex": 130,
@@ -1061,7 +1061,7 @@
         "lSolutions": [
             10.0
         ],
-        "sQuestion": "There are 16 bottle caps in a box. Marvin takes 6 bottle caps. How many are left?"
+        "sQuestion": "Hay 16 tapas de botellas en una caja. Marvin toma 6 tapas de. ¿Cuantas quedan?"
     },
     {
         "iIndex": 131,
@@ -1075,7 +1075,7 @@
         "lSolutions": [
             11.0
         ],
-        "sQuestion": "Ernest starts with 17 crayons. Jennifer takes 6 away. How many crayons does Ernest end with?"
+        "sQuestion": "Ernest comienza con 17 creyones. Jennifer se lleva 6. ¿Con cuantos creyones termina Ernest?"
     },
     {
         "iIndex": 137,
@@ -1089,7 +1089,7 @@
         "lSolutions": [
             50.0
         ],
-        "sQuestion": "Mildred weighs 59 pounds. Carol weighs 9 pounds. How much heavier is Mildred than Carol?"
+        "sQuestion": "Mildred pesa 59 libras. Carol pesa 9 libras. ¿Cuan mas pesada es Mildred que Carol?"
     },
     {
         "iIndex": 139,
@@ -1103,7 +1103,7 @@
         "lSolutions": [
             61.0
         ],
-        "sQuestion": "Diana starts with 65 bottle caps. 4 are eaten by a hippopotamus. How many bottle caps does Diana end with?"
+        "sQuestion": "Diana comienza con 65 tapas de botellas. 4 son comidas por un hipopotamo. ¿Con cuantas tapas de botellas termina Diana?"
     },
     {
         "iIndex": 140,
@@ -1117,7 +1117,7 @@
         "lSolutions": [
             8.0
         ],
-        "sQuestion": "Ruby has 63 apples. Emily takes 55 away. How many apples will Ruby have?"
+        "sQuestion": "Ruby tiene 63 manzanas. Emily se lleva 55. ¿Cuantas manzanas tendra Ruby?"
     },
     {
         "iIndex": 141,
@@ -1131,7 +1131,7 @@
         "lSolutions": [
             3.0
         ],
-        "sQuestion": "Craig starts with 5 Skittles. 2 are eaten by a hippopotamus. How many Skittles does Craig end with?"
+        "sQuestion": "Craig comienza con 5 chicles. 2 son comidos por un hipopotamo. ¿Con cuantos chicles termina Craig?"
     },
     {
         "iIndex": 143,
@@ -1145,7 +1145,7 @@
         "lSolutions": [
             42.0
         ],
-        "sQuestion": "Steve has 46 oranges. He shares 4 with Patrick. How many oranges will Steve have?"
+        "sQuestion": "Steve tiene 46 naranjas. El comparte 4 con Patrick. ¿Cuantas naranjas tendra Steve?"
     },
     {
         "iIndex": 146,
@@ -1159,7 +1159,7 @@
         "lSolutions": [
             37.0
         ],
-        "sQuestion": "Bridget weighs 39 pounds. Martha weighs 2 pounds. How much heavier is Bridget than Martha?"
+        "sQuestion": "Bridget pesa 39 libras. Martha pesa 2 libras. ¿Cuan mas pesada es Bridget que Martha?"
     },
     {
         "iIndex": 147,
@@ -1173,7 +1173,7 @@
         "lSolutions": [
             17.0
         ],
-        "sQuestion": "Brian has 76 cards. Wayne takes 59 away. How many cards will Brian have?"
+        "sQuestion": "Brian tiene 76 tarjetas. Wayne se lleva 59. ¿Cuantas tarjetas tendra Brian?"
     },
     {
         "iIndex": 148,
@@ -1187,7 +1187,7 @@
         "lSolutions": [
             10.0
         ],
-        "sQuestion": "Billy has 62 crayons. 52 are eaten by a hippopotamus. How many crayons will Billy have?"
+        "sQuestion": "Billy tiene 62 creyones. 52 son comidos por un hipopotamo. ¿Cuantos creyones tendra Billy?"
     },
     {
         "iIndex": 149,
@@ -1201,7 +1201,7 @@
         "lSolutions": [
             4.0
         ],
-        "sQuestion": "Pamela starts with 30 bottle caps. Jean takes 26 away. How many bottle caps does Pamela end with?"
+        "sQuestion": "Pamela comienza con 30 tapas de botella. Jean se lleva 26. ¿Con cuantas tapas de botellas termina Pamela?"
     },
     {
         "iIndex": 150,
@@ -1215,7 +1215,7 @@
         "lSolutions": [
             26.0
         ],
-        "sQuestion": "Katherine has 34 bottle caps. 8 are eaten by a hippopotamus. How many bottle caps will Katherine have?"
+        "sQuestion": "Katherine tiene 34 tapas de botellas. 8 son comidas por un hipopotamo. ¿Con cuantas tapas de botellas termina Katherine?"
     },
     {
         "iIndex": 154,
@@ -1229,7 +1229,7 @@
         "lSolutions": [
             51.0
         ],
-        "sQuestion": "Melissa has 70 oranges. John takes 19 away. How many oranges will Melissa have?"
+        "sQuestion": "Melissa tiene 70 naranjas. John se lleva 19. ¿Cuantas naranjas tendra Melissa"
     },
     {
         "iIndex": 156,
@@ -1243,7 +1243,7 @@
         "lSolutions": [
             2.0
         ],
-        "sQuestion": "Norma starts with 47 bananas. She loses 45. How many bananas does Norma end with?"
+        "sQuestion": "Norma comienza con 47 bananas. Ella pierde 45. ¿Con cuantas bananas termina Norma?"
     },
     {
         "iIndex": 157,
@@ -1257,7 +1257,7 @@
         "lSolutions": [
             29.0
         ],
-        "sQuestion": "Willie starts with 36 stickers. He gives 7 to Emily. How many stickers does Willie end with?"
+        "sQuestion": "Willie comienza con 36 etiquetas. El le da 7 a Emily. ¿Con cuantas etiquetas termina Willie?"
     },
     {
         "iIndex": 160,
@@ -1271,7 +1271,7 @@
         "lSolutions": [
             47.0
         ],
-        "sQuestion": "Aaron starts with 81 erasers. He gives 34 to Doris. How many erasers does Aaron end with?"
+        "sQuestion": "Aaron comienza con 81 borradores. El le da 34 a Doris. ¿Con cuantos borradores termina Aaron?"
     },
     {
         "iIndex": 162,
@@ -1285,7 +1285,7 @@
         "lSolutions": [
             18.0
         ],
-        "sQuestion": "Charles has 25 Skittles. Diana takes 7 away. How many Skittles will Charles have?"
+        "sQuestion": "Charles tiene 25 chicles. Diana se lleva 7. ¿Cuantos chicles tendra Charles?"
     },
     {
         "iIndex": 167,
@@ -1299,7 +1299,7 @@
         "lSolutions": [
             18.0
         ],
-        "sQuestion": "Norma has 88 cards. She loses 70. How many cards will Norma have?"
+        "sQuestion": "Norma tiene 88 carta. Ella pierde 70. ¿Cuantas cartas tendra norma?"
     },
     {
         "iIndex": 170,
@@ -1313,7 +1313,7 @@
         "lSolutions": [
             43.0
         ],
-        "sQuestion": "Pamela has 50 Skittles. She gives 7 to Karen. How many Skittles will Pamela have?"
+        "sQuestion": "Pamela tiene 50 chicles. Ella le da 7 a Karen. ¿Cuantos chicles tendra Pamela?"
     },
     {
         "iIndex": 175,
@@ -1327,7 +1327,7 @@
         "lSolutions": [
             4.0
         ],
-        "sQuestion": "Evelyn starts with 76 Skittles. She shares 72 with Christine. How many Skittles does Evelyn end with?"
+        "sQuestion": "Evelyn comienza 76 chicles. Ella comparte 72 con Christine. ¿Con cuantos chicles termina Evelyn?"
     },
     {
         "iIndex": 176,
@@ -1341,7 +1341,7 @@
         "lSolutions": [
             73.0
         ],
-        "sQuestion": "Helen starts with 82 cards. Gary takes 9 away. How many cards does Helen end with?"
+        "sQuestion": "Helen comienza con 82 tarjetas. Gary se lleva 9. ¿Con cuantas tarjetas termina Helen?"
     },
     {
         "iIndex": 178,
@@ -1355,7 +1355,7 @@
         "lSolutions": [
             84.0
         ],
-        "sQuestion": "Ruth starts with 89 apples. She shares 5 with Peter. How many apples does Ruth end with?"
+        "sQuestion": "Ruth comienza con 89 manzana. Ella comparte 5 con Peter. ¿Con cuantas manzanas termina Ruth?"
     },
     {
         "iIndex": 179,
@@ -1369,7 +1369,7 @@
         "lSolutions": [
             37.0
         ],
-        "sQuestion": "Carlos has 58 blocks. He gives 21 to Rachel. How many blocks will Carlos have?"
+        "sQuestion": "Carlos tiene 58 bloques. El le da 21 a Rachel. ¿Cuantos bloques tendra Carlos?"
     },
     {
         "iIndex": 184,
@@ -1383,7 +1383,7 @@
         "lSolutions": [
             34.0
         ],
-        "sQuestion": "Jesse starts with 78 pencils. He gives 44 to Joshua. How many pencils does Jesse end with?"
+        "sQuestion": "Jesse comienza 78 boligrafos. El le da 44 a Joshua. ¿Con cuantos lapices termina Jesse?"
     },
     {
         "iIndex": 185,
@@ -1397,7 +1397,7 @@
         "lSolutions": [
             90.0
         ],
-        "sQuestion": "Roger has 92 blocks. 2 are eaten by a hippopotamus. How many blocks will Roger have?"
+        "sQuestion": "Roger tiene 92 bloques. 2 son comidos por un hipopotamo. ¿Con cuanos bloques termina Roger?"
     },
     {
         "iIndex": 187,
@@ -1411,7 +1411,7 @@
         "lSolutions": [
             45.0
         ],
-        "sQuestion": "Heather starts with 86 blocks. She shares 41 with Jose. How many blocks does Heather end with?"
+        "sQuestion": "Heather comienza con 86 bloques. Ella comparte 41 con Jose. ¿Con cuantos bloques termina Heather?"
     },
     {
         "iIndex": 189,
@@ -1425,7 +1425,7 @@
         "lSolutions": [
             15.0
         ],
-        "sQuestion": "Ralph starts with 74 peanuts. He loses 59. How many peanuts does Ralph end with?"
+        "sQuestion": "Ralph comienza con 74 duraznos. El pierde 59. ¿Con cuantos duraznos termina Ralph?"
     },
     {
         "iIndex": 192,
@@ -1439,7 +1439,7 @@
         "lSolutions": [
             29.0
         ],
-        "sQuestion": "Jack starts with 62 marbles. He shares 33 with Rebecca. How many marbles does Jack end with?"
+        "sQuestion": "Jack comienza con 62 canicas. El comparte 33 con Rebecca. ¿Con cuantas canicas termina Jack?"
     },
     {
         "iIndex": 195,
@@ -1453,7 +1453,7 @@
         "lSolutions": [
             92.0
         ],
-        "sQuestion": "Clarence has 99 tickets. He gives 7 to Eugene. How many tickets will Clarence have?"
+        "sQuestion": "Clarence tiene 99 tickets. El le da 7 a Eugene. ¿Cuantos tickets tendra Clarence?"
     },
     {
         "iIndex": 201,
@@ -1467,7 +1467,7 @@
         "lSolutions": [
             26.0
         ],
-        "sQuestion": "Sean has 55 blocks. 29 are eaten by a hippopotamus. How many blocks will Sean have?"
+        "sQuestion": "Sean tiene 55 bloques. 29 son comidos por un hipopotamo. ¿Cuantos bloques tendra Sean?"
     },
     {
         "iIndex": 202,
@@ -1481,7 +1481,7 @@
         "lSolutions": [
             85.0
         ],
-        "sQuestion": "Tina has 82 bananas. She gets 3 more from Joyce. How many bananas does Tina have in all?"
+        "sQuestion": "Tina tiene 82 bananas. Ella obtiene 3 mas de Joyce. Cuantas bananas tendra Tina en total?"
     },
     {
         "iIndex": 203,
@@ -1495,7 +1495,7 @@
         "lSolutions": [
             56.0
         ],
-        "sQuestion": "Janet has 3 stickers. She gets 53 more from Ruth. How many stickers does Janet have in all?"
+        "sQuestion": "Janet tiene 3 stickers. She obtiene 53 mas de Ruth. ¿Cuantos stickers tendra Janet en total?"
     },
     {
         "iIndex": 205,
@@ -1509,7 +1509,7 @@
         "lSolutions": [
             81.0
         ],
-        "sQuestion": "Jennifer starts with 7 apples. She finds another 74. How many apples does Jennifer end with?"
+        "sQuestion": "Jennifer comienza con 7 manzanas. Ella encuentra otras 74. ¿Con cuantas manzanas termina Jennifer?"
     },
     {
         "iIndex": 216,
@@ -1523,7 +1523,7 @@
         "lSolutions": [
             25.0
         ],
-        "sQuestion": "Heather has 60 oranges. Russell takes 35 away. How many oranges will Heather have?"
+        "sQuestion": "Heather tiene 60 naranjas. Russell se lleva 35. ¿Cuantas naranjas tendra Heather?"
     },
     {
         "iIndex": 219,
@@ -1537,7 +1537,7 @@
         "lSolutions": [
             38.0
         ],
-        "sQuestion": "Helen starts with 9 oranges. She gets 29 more from Ann. How many oranges does Helen end with?"
+        "sQuestion": "Helen comienza con 9 naranjas. Ella obtiene 29 mas de Ann. ¿Con cuantas naranjas termina Helen?"
     },
     {
         "iIndex": 221,
@@ -1551,7 +1551,7 @@
         "lSolutions": [
             43.0
         ],
-        "sQuestion": "William has 2 bottle caps. He buys 41 more. How many bottle caps does William have in all?"
+        "sQuestion": "William tiene 2 tapas de botellas. El compra 41 mas. ¿Cuantas tapas de botellas tndra William en total?"
     },
     {
         "iIndex": 222,
@@ -1565,7 +1565,7 @@
         "lSolutions": [
             67.0
         ],
-        "sQuestion": "Dorothy has 72 cards. She gives 5 to Harold. How many cards will Dorothy have?"
+        "sQuestion": "Dorothy tiene 72 cartas. Ella le da 5 a Harold. ¿Cuantas tarjetas tendrá Dorothy?"
     },
     {
         "iIndex": 226,
@@ -1579,7 +1579,7 @@
         "lSolutions": [
             3.0
         ],
-        "sQuestion": "Sara has 10 marbles. She loses 7. How many marbles will Sara have?"
+        "sQuestion": "Sara tiene 10 canicas. Ella pierde 7. Cuantas canicas tendra Sara?"
     },
     {
         "iIndex": 227,
@@ -1593,7 +1593,7 @@
         "lSolutions": [
             11.0
         ],
-        "sQuestion": "Jennifer has 72 cards. 61 are eaten by a hippopotamus. How many cards will Jennifer have?"
+        "sQuestion": "Jennifer tiene 72 tarjetas. 61 son comidas por un hipopotamos. ¿Cuantas tarjetas tendra Jennifer?"
     },
     {
         "iIndex": 228,
@@ -1607,7 +1607,7 @@
         "lSolutions": [
             83.0
         ],
-        "sQuestion": "Wanda has 4 blocks. Theresa gives Wanda 79 more. How many blocks does Wanda have in all?"
+        "sQuestion": "Wanda tiene 4 bloques. Theresa le da a  Wanda 79 mas. ¿Cuantos bloques tendra Wanda en total?"
     },
     {
         "iIndex": 229,
@@ -1621,7 +1621,7 @@
         "lSolutions": [
             7.0
         ],
-        "sQuestion": "William has 10 marbles. He shares 3 with Theresa. How many marbles will William have?"
+        "sQuestion": "William tiene 10 canicas. El comparte 3 con Theresa. ¿Cuantas canicas tendra William?"
     },
     {
         "iIndex": 230,
@@ -1635,7 +1635,7 @@
         "lSolutions": [
             74.0
         ],
-        "sQuestion": "Larry starts with 91 cards. 17 are eaten by a hippopotamus. How many cards does Larry end with?"
+        "sQuestion": "Larry cimienza con 91 cartas. 17 son comidas por un hipopotamo. ¿Con cuantas cartas termina Larry?"
     },
     {
         "iIndex": 236,
@@ -1649,7 +1649,7 @@
         "lSolutions": [
             29.0
         ],
-        "sQuestion": "Sarah has 26 bottle caps. She buys 3 more. How many bottle caps does Sarah have in all?"
+        "sQuestion": "Sarah tiene 26 tapas de botellas. Ella compra 3 mas. ¿Cuantas tapas de botellas tiene Sarah en total?"
     },
     {
         "iIndex": 240,
@@ -1663,7 +1663,7 @@
         "lSolutions": [
             6.0
         ],
-        "sQuestion": "There are 3 eggs in each box. How many eggs are in 2 boxes?"
+        "sQuestion": "hay 3 huevos en cada caja. ¿Cuantos huevos hay en 2 cajas?"
     },
     {
         "iIndex": 241,
@@ -1677,7 +1677,7 @@
         "lSolutions": [
             12.0
         ],
-        "sQuestion": "Each bottle cap costs $2.00. How much do 6 bottle caps cost?"
+        "sQuestion": "Cada tapa de botella cuenta $2.00. ¿Caunto cuestan 6 tapas de botellas?"
     },
     {
         "iIndex": 242,
@@ -1691,7 +1691,7 @@
         "lSolutions": [
             12.0
         ],
-        "sQuestion": "Each child has 3 oranges. If there are 4 children, how many oranges are there in total?"
+        "sQuestion": "Cada chico toma 3 naranjas. Si hay 4 chicos, ¿Cuantas naranjas hay en total?"
     },
     {
         "iIndex": 243,
@@ -1705,7 +1705,7 @@
         "lSolutions": [
             20.0
         ],
-        "sQuestion": "Each banana costs $5.00. How much do 4 bananas cost?"
+        "sQuestion": "Cada banana cuesta $5.00. ¿Cuanto cuentan 4 bananas?"
     },
     {
         "iIndex": 244,
@@ -1719,7 +1719,7 @@
         "lSolutions": [
             36.0
         ],
-        "sQuestion": "Each ticket costs $9.00. How much do 4 tickets cost?"
+        "sQuestion": "Cada ticket cuesta $9.00. ¿Cuanto cuestan 4 tickets?"
     },
     {
         "iIndex": 245,
@@ -1733,7 +1733,7 @@
         "lSolutions": [
             25.0
         ],
-        "sQuestion": "Each bottle cap costs $5.00. How much do 5 bottle caps cost?"
+        "sQuestion": "Cada tapa de botella cuesta $5.00. ¿Cuanto cuentan 5 tapas de botella?"
     },
     {
         "iIndex": 246,
@@ -1747,7 +1747,7 @@
         "lSolutions": [
             35.0
         ],
-        "sQuestion": "Michelle has 7 boxes of crayons. Each box holds 5 crayons. How many crayons does Michelle have?"
+        "sQuestion": "Michelle tiene 7 cajas de creyones. cada caja contiene 5 creyones. ¿Cuantos creyones tiene Michelle?"
     },
     {
         "iIndex": 247,
@@ -1761,7 +1761,7 @@
         "lSolutions": [
             48.0
         ],
-        "sQuestion": "There are 8 marbles in each box. How many marbles are in 6 boxes?"
+        "sQuestion": "Hay 8 canicas en cada caja. ¿Cuantas canicas hay en 6 cajas?"
     },
     {
         "iIndex": 248,
@@ -1775,7 +1775,7 @@
         "lSolutions": [
             18.0
         ],
-        "sQuestion": "Each child has 2 candies. If there are 9 children, how many candies are there in total?"
+        "sQuestion": "Cada chico tiene 2 dulces. Si hay 9 chicos, ¿Cuantos chicles hay por todo?"
     },
     {
         "iIndex": 249,
@@ -1789,7 +1789,7 @@
         "lSolutions": [
             45.0
         ],
-        "sQuestion": "Each child has 5 bottle caps. If there are 9 children, how many bottle caps are there in total?"
+        "sQuestion": "Cada chico tiene 5 tapas de botella. Si hay 9 chicos, ¿Cuantas tapas de botellas hay por todo?"
     },
     {
         "iIndex": 250,
@@ -1803,7 +1803,7 @@
         "lSolutions": [
             12.0
         ],
-        "sQuestion": "Each child has 6 pencils. If there are 2 children, how many pencils are there in total?"
+        "sQuestion": "Cada chico 6 tiene. Si hay 2 chicos, ¿Cuantos lapices hay por todo?"
     },
     {
         "iIndex": 251,
@@ -1817,7 +1817,7 @@
         "lSolutions": [
             45.0
         ],
-        "sQuestion": "Each child has 5 bottle caps. If there are 9 children, how many bottle caps are there in total?"
+        "sQuestion": "Cada chico tiene 5 tapas de botella. Si hay 9 chicos, ¿CUantas tapas de botellas hay por todo?"
     },
     {
         "iIndex": 252,
@@ -1831,7 +1831,7 @@
         "lSolutions": [
             36.0
         ],
-        "sQuestion": "Each ticket costs $9.00. How much do 4 tickets cost?"
+        "sQuestion": "Cada ticket cuesta $9.00. ¿Cuanto cuestan 4 tickets?"
     },
     {
         "iIndex": 253,
@@ -1845,7 +1845,7 @@
         "lSolutions": [
             16.0
         ],
-        "sQuestion": "Stephanie went to the store 8 times last month. She buys 2 oranges each time she goes to the store. How many oranges did Stephanie buy last month?"
+        "sQuestion": "Stephanie fue a la tienda 8 veces el ultimo mes. Ella compra 2 naranjas cada vez que va a la tienda. ¿Cuantas naranjas compro Stephanie el ultimo mes?"
     },
     {
         "iIndex": 254,
@@ -1859,7 +1859,7 @@
         "lSolutions": [
             49.0
         ],
-        "sQuestion": "Sarah has 7 boxes of apples. Each box holds 7 apples. How many apples does Sarah have?"
+        "sQuestion": "Sarah tiene 7 cajas de manzanas. Cada caja contiene 7 mazanad. ¿Cuantas manzanas tiene Sarah?"
     },
     {
         "iIndex": 258,
@@ -1887,7 +1887,7 @@
         "lSolutions": [
             54.0
         ],
-        "sQuestion": "There are 9 bottle caps in each box. How many bottle caps are in 6 boxes?"
+        "sQuestion": "Hay 9 tapas de botella en cada caja. ¿Cuantas tapas de botellas hay en 6 cajas?"
     },
     {
         "iIndex": 262,
@@ -1901,7 +1901,7 @@
         "lSolutions": [
             24.0
         ],
-        "sQuestion": "Paula has 6 boxes of peanuts. Each box holds 4 peanuts. How many peanuts does Paula have?"
+        "sQuestion": "Paula tiene 6 cajas de duraznos. Cada caja contiene 4 duranznos. ¿Cauntos duraznos tiene Paula?"
     },
     {
         "iIndex": 263,
@@ -1915,7 +1915,7 @@
         "lSolutions": [
             27.0
         ],
-        "sQuestion": "Eric has 3 boxes of pencils. Each box holds 9 pencils. How many pencils does Eric have?"
+        "sQuestion": "Eric tiene 3 cajas de bligrafos. cada caja contiene 9 boligrafros. ¿Cuantos boligrafos tiene Eric?"
     },
     {
         "iIndex": 264,
@@ -1929,7 +1929,7 @@
         "lSolutions": [
             18.0
         ],
-        "sQuestion": "There are 6 marbles in each box. How many marbles are in 3 boxes?"
+        "sQuestion": "Hay 6 canicas en cada caja. ¿Cuantas canicas hay en 3 cajas?"
     },
     {
         "iIndex": 265,
@@ -1957,7 +1957,7 @@
         "lSolutions": [
             20.0
         ],
-        "sQuestion": "Ronald went to the store 2 times last month. He buys 10 bananas each time he goes to the store. How many bananas did Ronald buy last month?"
+        "sQuestion": "Ronald fue a la tienda 2 veces el ultimo mes. El compra 10 bananas cada vez que va a la tienda. ¿Cuantas bananas compro Ronald el ultimo mes?"
     },
     {
         "iIndex": 270,
@@ -1971,7 +1971,7 @@
         "lSolutions": [
             25.0
         ],
-        "sQuestion": "Kathleen went to the store 5 times last month. She buys 5 bottle caps each time she goes to the store. How many bottle caps did Kathleen buy last month?"
+        "sQuestion": "Kathleen fue a la tienda 5 veces el ultimo mes. Ella compra 5 tapas de botella cada vez que va a la tienda ¿Cuantas tapas de botella compro Kathleen el ultimo mes?"
     },
     {
         "iIndex": 272,
@@ -1985,7 +1985,7 @@
         "lSolutions": [
             12.0
         ],
-        "sQuestion": "There are 4 crayons in each box. How many crayons are in 3 boxes?"
+        "sQuestion": "Hay 4 creyones en cada caja. ¿Cuantos creyones hay en 3 cajas?"
     },
     {
         "iIndex": 277,
@@ -2013,7 +2013,7 @@
         "lSolutions": [
             7.0
         ],
-        "sQuestion": "The school is planning a field trip. There are 14 students and 2 seats on each school bus. How many buses are needed to take the trip?"
+        "sQuestion": "La escuala esta planeando un dia de campo. Hay 14 estudiantes y 2 puestos en cada autobus. ¿Cuantos autobuses son necesarios para el dia de campo?"
     },
     {
         "iIndex": 341,
@@ -2027,7 +2027,7 @@
         "lSolutions": [
             8.0
         ],
-        "sQuestion": "Betty has 24 oranges stored in boxes. If there are 3 boxes, how many oranges must go in each box?"
+        "sQuestion": "Betty tiene 24 naranjas guardadas en cajas. Di hay 3 cajas, ¿Cuantas naranjas debe haber en cada caja?"
     },
     {
         "iIndex": 342,
@@ -2041,7 +2041,7 @@
         "lSolutions": [
             3.0
         ],
-        "sQuestion": "The school is planning a field trip. There are 9 students and 3 seats on each school bus. How many buses are needed to take the trip?"
+        "sQuestion": "La escuela esta planeando un dia de campo. hay 9 estudiantes y 3 puestos en el autobus. ¿Cuantos autobueses se necesitan para el dia de campo?"
     },
     {
         "iIndex": 343,
@@ -2055,7 +2055,7 @@
         "lSolutions": [
             9.0
         ],
-        "sQuestion": "There are 2 students in the class and 18 pencils. If the pencils are divided equally among the students, how many does each student get?"
+        "sQuestion": "Hay 2 estudiantes en la clase y 18 lapices. Si lo lapices son divididos igualmente entre los estudiantes, ¿Cuantos lapices obtuvo cada estudiante?"
     },
     {
         "iIndex": 344,
@@ -2069,7 +2069,7 @@
         "lSolutions": [
             9.0
         ],
-        "sQuestion": "There are 9 students in the class and 81 tickets. If the tickets are divided equally among the students, how many does each student get?"
+        "sQuestion": "Hay 9 estudiantes en la clase y 81 tickets. Si los tickets son divididos igualmente entre los estudiantes, ¿Cuantos tickets obtuvo cada estudiante?"
     },
     {
         "iIndex": 345,
@@ -2083,7 +2083,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": "There are 35 bottle caps in Beverly's bottle cap collection. If the bottle caps are organized into 7 groups, how big is each group?"
+        "sQuestion": "Hay 35 tapas de botellas en la collecion de tapas de botellas de Beberly. Si las tapas de botellas son organizadas en 7 grupos, ¿Cual es el tamaño de cada grupo?"
     },
     {
         "iIndex": 346,
@@ -2097,7 +2097,7 @@
         "lSolutions": [
             6.0
         ],
-        "sQuestion": "Jeffrey wants to split a collection of bottle caps into groups of 2. Jeffrey has 12 bottle caps. How many groups will be created?"
+        "sQuestion": "Jeffrey quiere separar una coleccion de tapas de botellas en 2. Jeffrey tiene 12 tapas de botellas. ¿Cuantos grupos seran creados?"
     },
     {
         "iIndex": 347,
@@ -2111,7 +2111,7 @@
         "lSolutions": [
             9.0
         ],
-        "sQuestion": "There are 9 students in the class and 81 tickets. If the tickets are divided equally among the students, how many does each student get?"
+        "sQuestion": "Hay 9 estudiantes en la clase y 81 tickets. Si los tickets son divididos en igual cantidad entre los estudiantes, ¿Cuantos obtendra cada estudiante?"
     },
     {
         "iIndex": 348,
@@ -2125,7 +2125,7 @@
         "lSolutions": [
             1.0
         ],
-        "sQuestion": "Peter has 3 candies stored in boxes. If there are 3 boxes, how many candies must go in each box?"
+        "sQuestion": "Peter tiene 3 dulces guardados en cajas. Si hay 3 cajas, ¿Cuantos dulces debe haber en cada caja?"
     },
     {
         "iIndex": 349,
@@ -2139,7 +2139,7 @@
         "lSolutions": [
             6.0
         ],
-        "sQuestion": "There are 7 students in the class and 42 apples. If the apples are divided equally among the students, how many does each student get?"
+        "sQuestion": "Hay 7 estudiantes y 42 manzanas. si las manzanas son divididas igualmente entre los estudiantes, ¿Cuantas obtendra cada estudiante?"
     },
     {
         "iIndex": 350,
@@ -2153,7 +2153,7 @@
         "lSolutions": [
             3.0
         ],
-        "sQuestion": "Martha is inviting 4 friends to a party. She has 12 cookies. How many cookies will each friend get?"
+        "sQuestion": "Martha esta invitando 4 amigos a su fiesta. Ella tiene 12 galletas. ¿Cuantas galletas obtendra cada amigo?"
     },
     {
         "iIndex": 351,
@@ -2167,7 +2167,7 @@
         "lSolutions": [
             7.0
         ],
-        "sQuestion": "Jesse has 21 bananas. If he shares them among 3 friends, how many bananas does each friend get?"
+        "sQuestion": "Jesse tiene 21 bananas. Si las comparte entre 3 amigos, ¿Cuantas bananas obtendra cada amigo?"
     },
     {
         "iIndex": 352,
@@ -2181,7 +2181,7 @@
         "lSolutions": [
             8.0
         ],
-        "sQuestion": "There are 7 students in the class and 56 eggs. If the eggs are divided equally among the students, how many does each student get?"
+        "sQuestion": "Hay 7 estudiantes en la clase y 56 huevos. Si los huevos son dividos igualmente entre los estudiantes, ¿Cuantos obtendra cada estudiante?"
     },
     {
         "iIndex": 353,
@@ -2195,7 +2195,7 @@
         "lSolutions": [
             1.0
         ],
-        "sQuestion": "Elizabeth is inviting 5 friends to a party. She has 5 cookies. How many cookies will each friend get?"
+        "sQuestion": "Elizabeth esta invitando 5 amigos a una fiesta. Ella tiene 5 galletas. ¿Cuantas galletas obtendra cada amigo?"
     },
     {
         "iIndex": 354,
@@ -2209,7 +2209,7 @@
         "lSolutions": [
             8.0
         ],
-        "sQuestion": "There are 72 cards in Jean's card collection. If the cards are organized into 9 groups, how big is each group?"
+        "sQuestion": "Hay 72 cartas en la coleccion de cartas de Jean. Si las cartas son organizadas en 9 grupos, ¿Cuan grande es cada grupo?"
     },
     {
         "iIndex": 355,
@@ -2223,7 +2223,7 @@
         "lSolutions": [
             8.0
         ],
-        "sQuestion": "Eric wants to split a collection of peanuts into groups of 8. Eric has 64 peanuts. How many groups will be created?"
+        "sQuestion": "Eric quiere separar su coleccion de duraznos en 8 grupos. Eric tiene 64 duraznos. ¿Cuantos grupos sera creados?"
     },
     {
         "iIndex": 357,
@@ -2237,7 +2237,7 @@
         "lSolutions": [
             7.0
         ],
-        "sQuestion": "Henry wants to split a collection of crayons into groups of 6. Henry has 42 crayons. How many groups will be created?"
+        "sQuestion": "Henry quiere separar su colecion de creyones en grupos de 6. Henry tine 42 creyones. ¿Cuantos grupos sera creados?"
     },
     {
         "iIndex": 358,
@@ -2251,7 +2251,7 @@
         "lSolutions": [
             1.0
         ],
-        "sQuestion": "Jack is inviting 4 friends to a party. He has 4 cookies. How many cookies will each friend get?"
+        "sQuestion": "Jack esta invitandos 4 amios a una fiesta. El tiene 4 galletas. ¿Cuantos galletas obtendra cada amigo?"
     },
     {
         "iIndex": 359,
@@ -2265,7 +2265,7 @@
         "lSolutions": [
             4.0
         ],
-        "sQuestion": "Harry is inviting 3 friends to a party. He has 12 cookies. How many cookies will each friend get?"
+        "sQuestion": "Harry esta invitando 3 amigos a una fiesta. El tiene 12 galletas. ¿Cuantas galletas obtendra cada amigo?"
     },
     {
         "iIndex": 360,
@@ -2279,7 +2279,7 @@
         "lSolutions": [
             3.0
         ],
-        "sQuestion": "There are 30 candies in Kathy's candy collection. If the candies are organized into 10 groups, how big is each group?"
+        "sQuestion": "Hay 30 dulces En la coleccion de dulces de Katy. Si los dulces son organizados en grupos de 10, ¿Cuan grande es cada grupo?"
     },
     {
         "iIndex": 363,
@@ -2293,7 +2293,7 @@
         "lSolutions": [
             8.0
         ],
-        "sQuestion": "Deborah is inviting 10 friends to a party. She has 80 cookies. How many cookies will each friend get?"
+        "sQuestion": "Deborah esta invitando 10 amigos a una fiesta. Ella tiene 80 galletas. ¿Cuantas galletas obtendra cada amigo?"
     },
     {
         "iIndex": 365,
@@ -2307,7 +2307,7 @@
         "lSolutions": [
             4.0
         ],
-        "sQuestion": "The school is planning a field trip. There are 28 students and 7 seats on each school bus. How many buses are needed to take the trip?"
+        "sQuestion": "La esccuela esta planeando un dia de campo. Hay 28 estudiantes y 7 puestos en cada autobus. ¿Cuantos autobuses se necesitan para dia de campo?"
     },
     {
         "iIndex": 367,
@@ -2321,7 +2321,7 @@
         "lSolutions": [
             6.0
         ],
-        "sQuestion": "There are 36 bananas in Diane's banana collection. If the bananas are organized into 6 groups, how big is each group?"
+        "sQuestion": "Hay 36 bananas En la coleccion de bananas de Diana. Si son organizadas en grupos de 6, ¿Cuan grande es cada grupo?"
     },
     {
         "iIndex": 371,
@@ -2335,7 +2335,7 @@
         "lSolutions": [
             6.0
         ],
-        "sQuestion": "There are 36 bananas in Diane's banana collection. If the bananas are organized into 6 groups, how big is each group?"
+        "sQuestion": "hay 36 bananas in en la coleccion de bananas de Diane. Si las bananas son organizadas en grupos de 6, ¿Cuan grande es cada grupo?"
     },
     {
         "iIndex": 372,
@@ -2349,7 +2349,7 @@
         "lSolutions": [
             6.0
         ],
-        "sQuestion": "Louise has 42 oranges stored in boxes. If there are 7 boxes, how many oranges must go in each box?"
+        "sQuestion": "Louise tiene 42 naranjas guardadas en cajas. Si hay 7 cajas, ¿Cuantas naranjas debe haber en cada caja?"
     },
     {
         "iIndex": 374,
@@ -2363,7 +2363,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": "The school is planning a field trip. There are 45 students and 9 seats on each school bus. How many buses are needed to take the trip?"
+        "sQuestion": "La escuela esta planeando una dia de campo. Hay 45 estudiantes y 9 puestos en el autobus. ¿Cuantos autobuses se necesitan para el dia de campo?"
     },
     {
         "iIndex": 380,
@@ -2377,7 +2377,7 @@
         "lSolutions": [
             2.0
         ],
-        "sQuestion": "Michael has 16 blocks stored in boxes. If there are 8 boxes, how many blocks must go in each box?"
+        "sQuestion": "Michael tiene 16 guardados en cajas. Si hay 8 cajas, ¿Cuantos bloques debe haber en cada caja?"
     },
     {
         "iIndex": 381,
@@ -2391,7 +2391,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": "Albert has 35 oranges stored in boxes. If there are 7 boxes, how many oranges must go in each box?"
+        "sQuestion": "Albert tiene 35 naranjas guardas en cajas. Su hay 7 cajas, ¿Cuantas naranjas debe haber en cada caja?"
     },
     {
         "iIndex": 384,
@@ -2405,7 +2405,7 @@
         "lSolutions": [
             6.0
         ],
-        "sQuestion": "Lori has 30 marbles. If she shares them among 5 friends, how many marbles does each friend get?"
+        "sQuestion": "Lori tiene 30 canicas. Si las comparte entre 5 amigos, ¿Cuantas canicas obtiene cada amigo?"
     },
     {
         "iIndex": 388,
@@ -2419,7 +2419,7 @@
         "lSolutions": [
             3.0
         ],
-        "sQuestion": "Brenda wants to split a collection of erasers into groups of 90. Brenda has 270 erasers. How many groups will be created?"
+        "sQuestion": "Brenda quiere separar su coleccion de borradores en grupos de 90. Brenda tiene 270 borradores. ¿Cuantos grupos seran creados?"
     },
     {
         "iIndex": 393,
@@ -2433,7 +2433,7 @@
         "lSolutions": [
             3.0
         ],
-        "sQuestion": "The school is planning a field trip. There are 180 students and 60 seats on each school bus. How many buses are needed to take the trip?"
+        "sQuestion": "La escuela esta planeando una dia de campo. Hay 180 estudiantes y 60 puestos en el autobus. ¿Cuantos buses se necesitan para el dia de campo?"
     },
     {
         "iIndex": 395,
@@ -2447,7 +2447,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": "Bonnie has 10 tickets. If she shares them among 2 friends, how many tickets does each friend get?"
+        "sQuestion": "Bonnie tiene 10 tickets. Si los comparte entre 2 amigos, ¿Cuantos tickets obtendra cada amigo?"
     },
     {
         "iIndex": 396,
@@ -2461,7 +2461,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": "Steven wants to split a collection of cards into groups of 6. Steven has 30 cards. How many groups will be created?"
+        "sQuestion": "Steven quiere separar su coleccion de cartas en grupos de 6. Steven tiene 30 cartas. ¿Cuantos grupos sera creados?"
     },
     {
         "iIndex": 403,
@@ -2475,7 +2475,7 @@
         "lSolutions": [
             94.0
         ],
-        "sQuestion": "Eric has 9306 erasers. If he shares them among 99 friends, how many erasers does each friend get?"
+        "sQuestion": "Eric tiene 9306 borradores. Si los comparte entre 99 amigos, ¿Cuantos borradores obtendra cada amigo?"
     },
     {
         "iIndex": 405,
@@ -2489,7 +2489,7 @@
         "lSolutions": [
             80.0
         ],
-        "sQuestion": "Diana has 3840 erasers. If she shares them among 48 friends, how many erasers does each friend get?"
+        "sQuestion": "Diana tiene 3840 borradores. Si los comparte entre 48 amigos, ¿Cuantos borradores obtend?"
     },
     {
         "iIndex": 440,
@@ -2503,7 +2503,7 @@
         "lSolutions": [
             1.0
         ],
-        "sQuestion": "Ashley sold 12 boxes of Samoas. How many cases of 12 boxes, plus extra boxes does Ashley need?"
+        "sQuestion": "Ashley vendió 12 cajas de Samoas. ¿Cuántas cajas de 12 cajas, más las cajas extra necesita Ashley"
     },
     {
         "iIndex": 441,
@@ -2517,7 +2517,7 @@
         "lSolutions": [
             1.0
         ],
-        "sQuestion": "Ashley sold 12 boxes of Samoas. How many cases of 12 boxes, plus extra boxes does Ashley need?"
+        "sQuestion": "Ashley vendió 12 cajas de Samoas. ¿Cuántas cajas de 12 cajas, más las cajas extra necesita Ashley"
     },
     {
         "iIndex": 442,
@@ -2545,7 +2545,7 @@
         "lSolutions": [
             1.0
         ],
-        "sQuestion": "Ashley sold 12 boxes of Samoas. How many cases of 12 boxes, plus extra boxes does Ashley need?"
+        "sQuestion": "Ashley vendió 12 cajas de Samoas. ¿Cuántas cajas de 12 cajas, más las cajas extra necesita Ashley?"
     },
     {
         "iIndex": 444,
@@ -2559,7 +2559,7 @@
         "lSolutions": [
             2.0
         ],
-        "sQuestion": "Sarah sold 24 boxes of Lemon Chalet Cremes. How many cases of 12 boxes, plus extra boxes does Sarah need?"
+        "sQuestion": "Sarah vendió 24 cajas de Lemon Chalet Cremes. ¿Cuántas cajas de 12 cajas, más las cajas extra que Sarah necesita?"
     },
     {
         "iIndex": 446,
@@ -2573,7 +2573,7 @@
         "lSolutions": [
             3.0
         ],
-        "sQuestion": "If Karen sold 36 boxes of Tagalongs, how many cases of 12 boxes does Karen pickup from the cookie mom?"
+        "sQuestion": "Si Karen vendió 36 cajas de Tagalongs, ¿cuántas cajas de 12 cajas recoge Karen de la madre de las galletas?"
     },
     {
         "iIndex": 447,
@@ -2601,7 +2601,7 @@
         "lSolutions": [
             3.0
         ],
-        "sQuestion": "If Karen sold 36 boxes of Tagalongs, how many cases of 12 boxes does Karen pickup from the cookie mom?"
+        "sQuestion": "Si Karen vendió 36 cajas de Tagalongs, ¿cuántas cajas de 12 cajas recoge Karen de la madre de las galletas?"
     },
     {
         "iIndex": 449,
@@ -2615,7 +2615,7 @@
         "lSolutions": [
             2.0
         ],
-        "sQuestion": "If Madison sold 24 boxes of Tagalongs, how many cases of 12 boxes does Madison pickup from the cookie mom?"
+        "sQuestion": "Si Madison vendió 24 cajas de Tagalongs, ¿cuántas cajas de 12 cajas recoge Madison de la madre de las galletas?"
     },
     {
         "iIndex": 450,
@@ -2629,7 +2629,7 @@
         "lSolutions": [
             3.0
         ],
-        "sQuestion": "If Karen sold 36 boxes of Tagalongs, how many cases of 12 boxes does Karen pickup from the cookie mom?"
+        "sQuestion": "Si Karen vendió 36 cajas de Tagalongs, ¿cuántas cajas de 12 cajas recoge Karen de la madre de las galletas?"
     },
     {
         "iIndex": 453,
@@ -2643,7 +2643,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": "If Harold split 15 apples between 3 people in her class and kept the left overs, how many apples did each classmate get?"
+        "sQuestion": "Si Harold dividió 15 manzanas entre 3 personas de su clase y guardó las sobras, ¿cuántas manzanas recibió cada compañero de clase?"
     },
     {
         "iIndex": 454,
@@ -2657,7 +2657,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": "If Victor split 25 Skittles between 5 people in her class and kept the left overs, how many Skittles did each classmate get?"
+        "sQuestion": "Si Víctor dividió 25 bolos entre 5 personas de su clase y guardó las sobras, ¿cuántos bolos recibió cada compañero?"
     },
     {
         "iIndex": 455,
@@ -2671,7 +2671,7 @@
         "lSolutions": [
             3.0
         ],
-        "sQuestion": "Jenny sold 24 boxes of Trefoils. How many cases of 8 boxes, plus extra boxes does Jenny need to deliver?"
+        "sQuestion": "Jenny vendió 24 cajas de Tréboles. ¿Cuántas cajas de 8 cajas, más las cajas extra que Jenny necesita entregar?"
     },
     {
         "iIndex": 456,
@@ -2685,7 +2685,7 @@
         "lSolutions": [
             4.0
         ],
-        "sQuestion": "Gumballs come in packages of 5. Nathan ate 20 gumballs. How many whole boxes did he eat and how many gumballs does he have left?"
+        "sQuestion": "Los chicles vienen en paquetes de 5. Nathan se comió 20 chicles. ¿Cuántas cajas enteras se comió y cuántos chicles le quedan?"
     },
     {
         "iIndex": 457,
@@ -2699,7 +2699,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": "Shirley sold 20 boxes of Do-Si-Dos. How many cases of 4 boxes, plus extra boxes does Shirley need to deliver?"
+        "sQuestion": "Shirley vendió 20 cajas de Do-Si-Dos. ¿Cuántas cajas de 4 cajas, más las cajas extra que Shirley necesita entregar?"
     },
     {
         "iIndex": 458,
@@ -2713,7 +2713,7 @@
         "lSolutions": [
             9.0
         ],
-        "sQuestion": "Lemon heads come in packages of 6. Louis ate 54 Lemon Heads. How many whole boxes did he eat and how many Lemon Heads does he have left?"
+        "sQuestion": "Las cabezas de limón vienen en paquetes de 6. Louis se comió 54 cabezas de limón. ¿Cuántas cajas enteras se comió y cuántas cabezas de limón le quedan?"
     },
     {
         "iIndex": 459,
@@ -2727,7 +2727,7 @@
         "lSolutions": [
             9.0
         ],
-        "sQuestion": "Lemon heads come in packages of 6. Louis ate 54 Lemon Heads. How many whole boxes did he eat and how many Lemon Heads does he have left?"
+        "sQuestion": "Las cabezas de limón vienen en paquetes de 6. Louis se comió 54 cabezas de limón. ¿Cuántas cajas enteras se comió y cuántas cabezas de limón le quedan?"
     },
     {
         "iIndex": 460,
@@ -2741,7 +2741,7 @@
         "lSolutions": [
             9.0
         ],
-        "sQuestion": "Lemon heads come in packages of 6. Louis ate 54 Lemon Heads. How many whole boxes did he eat and how many Lemon Heads does he have left?"
+        "sQuestion": "Las cabezas de limón vienen en paquetes de 6. Louis se comió 54 cabezas de limón. ¿Cuántas cajas enteras se comió y cuántas cabezas de limón le quedan?"
     },
     {
         "iIndex": 503,
@@ -2755,7 +2755,7 @@
         "lSolutions": [
             15.0
         ],
-        "sQuestion": "Marilyn starts with 51 bottle caps. She shares 36 with Nancy. How many bottle caps does Marilyn end with?"
+        "sQuestion": "Marilyn empieza con 51 tapas de botella. Comparte 36 con Nancy. ¿Con cuántas tapas de botella termina Marilyn?
     },
     {
         "iIndex": 507,
@@ -2769,7 +2769,7 @@
         "lSolutions": [
             43.0
         ],
-        "sQuestion": "William has 2 bottle caps. He buys 41 more. How many bottle caps does William have in all?"
+        "sQuestion": "William tiene dos tapas de botella. Compra 41 más. ¿Cuántas tapas de botella tiene William en total?"
     },
     {
         "iIndex": 517,
@@ -2783,7 +2783,7 @@
         "lSolutions": [
             17.0
         ],
-        "sQuestion": "Carol starts with 42 blocks. She loses 25. How many blocks does Carol end with?"
+        "sQuestion": "Carol empieza con 42 manzanas. Pierde 25. ¿Con cuántas cuadras termina Carol?"
     },
     {
         "iIndex": 519,
@@ -2797,7 +2797,7 @@
         "lSolutions": [
             93.0
         ],
-        "sQuestion": "Lillian collects 88 candies. Lillian's father gives Lillian 5 more. How many candies does Lillian have?"
+        "sQuestion": "Lillian colecciona 88 caramelos. El padre de Lillian le da a Lillian 5 más. ¿Cuántos caramelos tiene Lillian?"
     },
     {
         "iIndex": 524,
@@ -2811,7 +2811,7 @@
         "lSolutions": [
             43.0
         ],
-        "sQuestion": "William has 2 bottle caps. He buys 41 more. How many bottle caps does William have in all?"
+        "sQuestion": "William tiene dos tapas de botella. Compra 41 más. ¿Cuántas tapas de botella tiene William en total?"
     },
     {
         "iIndex": 543,
@@ -2825,7 +2825,7 @@
         "lSolutions": [
             13.0
         ],
-        "sQuestion": "There are 8 apples in a pile on the desk. Each apple comes in a package of 11. 5 apples are added to the pile. How many apples are there in the pile?"
+        "sQuestion": "Hay 8 manzanas en una pila en el escritorio. Cada manzana viene en un paquete de 11. 5 manzanas se añaden a la pila. ¿Cuántas manzanas hay en la pila?"
     },
     {
         "iIndex": 544,
@@ -2839,7 +2839,7 @@
         "lSolutions": [
             17.0
         ],
-        "sQuestion": "Sean has 9 apples. Susan gives Sean 8 more. Later, Sean buys 18 tickets at the store. How many apples does Sean have in all?"
+        "sQuestion": "Sean tiene 9 manzanas. Susan le da a Sean 8 más. Más tarde, Sean compra 18 entradas en la tienda. ¿Cuántas manzanas tiene Sean en total?"
     },
     {
         "iIndex": 545,
@@ -2853,7 +2853,7 @@
         "lSolutions": [
             9.0
         ],
-        "sQuestion": "There are 2 bananas in a pile on the desk. Each banana comes in a package of 17. 7 bananas are added to the pile. How many bananas are there in the pile?"
+        "sQuestion": "Hay dos plátanos en una pila en el escritorio. Cada banana viene en un paquete de 17. 7 bananas se añaden a la pila. ¿Cuántos plátanos hay en la pila?"
     },
     {
         "iIndex": 546,
@@ -2867,7 +2867,7 @@
         "lSolutions": [
             10.0
         ],
-        "sQuestion": "There are 6 candies in a pile on the desk. Each candy comes in a package of 15. 4 candies are added to the pile. How many candies are there in the pile?"
+        "sQuestion": "Hay 6 caramelos en una pila en el escritorio. Cada caramelo viene en un paquete de 15. 4 caramelos se añaden al montón. ¿Cuántos caramelos hay en el montón?"
     },
     {
         "iIndex": 547,
@@ -2881,7 +2881,7 @@
         "lSolutions": [
             12.0
         ],
-        "sQuestion": "Kimberly has 5 Skittles. She buys 7 more. Later, Kimberly buys 18 oranges at the store. How many Skittles does Kimberly have in all?"
+        "sQuestion": "Kimberly tiene 5 caramelos. Ella compra 7 más. Más tarde, Kimberly compra 18 naranjas en la tienda. ¿Cuántos caramelos tiene Kimberly en total?"
     },
     {
         "iIndex": 548,
@@ -2895,7 +2895,7 @@
         "lSolutions": [
             8.0
         ],
-        "sQuestion": "Clarence has 5 oranges. He gets 3 more from Joyce. Later, Clarence buys 9 Skittles at the store. How many oranges does Clarence have in all?"
+        "sQuestion": "Clarence tiene 5 naranjas. Y Joyce le da 3 más. Más tarde, Clarence compra 9 caramelos en la tienda. ¿Cuántas naranjas tiene Clarence en total?"
     },
     {
         "iIndex": 549,
@@ -2909,7 +2909,7 @@
         "lSolutions": [
             6.0
         ],
-        "sQuestion": "There are 2 apples in a pile on the desk. Each apple comes in a package of 7. 4 apples are added to the pile. How many apples are there in the pile?"
+        "sQuestion": "Hay 2 manzanas en una pila en el escritorio. Cada manzana viene en un paquete de 7. Se añaden 4 manzanas a la pila. ¿Cuántas manzanas hay en la pila?"
     },
     {
         "iIndex": 551,
@@ -2923,7 +2923,7 @@
         "lSolutions": [
             12.0
         ],
-        "sQuestion": "Kimberly has 5 Skittles. She buys 7 more. Later, Kimberly buys 18 oranges at the store. How many Skittles does Kimberly have in all?"
+        "sQuestion": "Kimberly tiene 5 caramelos. Ella compra 7 más. Más tarde, Kimberly compra 18 naranjas en la tienda. ¿Cuántos caramelos tiene Kimberly en total?"
     },
     {
         "iIndex": 552,
@@ -2937,7 +2937,7 @@
         "lSolutions": [
             12.0
         ],
-        "sQuestion": "Annie has 6 apples. She gets 6 more from Nathan. Later, Annie buys 10 crayons at the store. How many apples does Annie have in all?"
+        "sQuestion": "Annie tiene 6 manzanas. Ella recibe 6 más de Nathan. Más tarde, Annie compra 10 crayones en la tienda. ¿Cuántas manzanas tiene Annie en total?"
     },
     {
         "iIndex": 555,
@@ -2951,7 +2951,7 @@
         "lSolutions": [
             14.0
         ],
-        "sQuestion": "Joyce has 8 eggs. Marie gives Joyce 6 more. Later, Joyce buys 13 erasers at the store. How many eggs does Joyce have in all?"
+        "sQuestion": "Joyce tiene 8 huevos. Marie le da a Joyce 6 más. Más tarde, Joyce compra 13 gomas de borrar en la tienda. ¿Cuántos huevos tiene Joyce en total?"
     },
     {
         "iIndex": 556,
@@ -2965,7 +2965,7 @@
         "lSolutions": [
             9.0
         ],
-        "sQuestion": "There are 2 bananas in a pile on the desk. Each banana comes in a package of 13. 7 bananas are added to the pile. How many bananas are there in the pile?"
+        "sQuestion": "Hay 2 plátanos en una pila en el escritorio. Cada banana viene en un paquete de 13. 7 bananas se añaden a la pila. ¿Cuántos plátanos hay en la pila?"
     },
     {
         "iIndex": 560,
@@ -2979,7 +2979,7 @@
         "lSolutions": [
             9.0
         ],
-        "sQuestion": "Kenneth has 3 marbles. He buys 6 more. Later, Kenneth buys 15 apples at the store. How many marbles does Kenneth have in all?"
+        "sQuestion": "Kenneth tiene 3 canicas. Compra 6 más. Más tarde, Kenneth compra 15 manzanas en la tienda. ¿Cuántas canicas tiene Kenneth en total?"
     },
     {
         "iIndex": 562,
@@ -2993,7 +2993,7 @@
         "lSolutions": [
             67.0
         ],
-        "sQuestion": "Arthur has 6 cards. Aaron has with 5 cards. Aaron finds another 62. How many cards does Aaron end with?"
+        "sQuestion": "Arthur tiene 6 cartas. Aaron tiene con 5 cartas. Aaron encuentra otras 62. ¿Con cuántas cartas termina Aaron?"
     },
     {
         "iIndex": 569,
@@ -3007,7 +3007,7 @@
         "lSolutions": [
             81.0
         ],
-        "sQuestion": "Scott has 4 tickets. Ernest has with 9 tickets. Ernest finds another 72. How many tickets does Ernest end with?"
+        "sQuestion": "Scott tiene 4 entradas. Ernest tiene con 9 entradas. Ernest encuentra otros 72. ¿Con cuántas entradas termina Ernest?"
     },
     {
         "iIndex": 576,
@@ -3021,7 +3021,7 @@
         "lSolutions": [
             42.0
         ],
-        "sQuestion": "Diane has 37 crayons. She gets 5 more from Frances. Later, Diane buys 16 cards at the store. How many crayons does Diane have in all?"
+        "sQuestion": "Diane tiene 37 lápices de colores. Ella recibe 5 más de Frances. Más tarde, Diane compra 16 tarjetas en la tienda. ¿Cuántos lápices de colores tiene Diane en total?"
     },
     {
         "iIndex": 577,
@@ -3035,7 +3035,7 @@
         "lSolutions": [
             53.0
         ],
-        "sQuestion": "Adam has 13 blocks. Ann has with 9 blocks. Ann finds another 44. How many blocks does Ann end with?"
+        "sQuestion": "Adam tiene 13 bloques. Ann tiene 9 bloques. Ann encuentra otros 44. ¿Con cuantos bloques termina Ann?"
     },
     {
         "iIndex": 578,
@@ -3049,7 +3049,7 @@
         "lSolutions": [
             84.0
         ],
-        "sQuestion": "Ronald has 13 blocks. Martha has with 4 blocks. Martha finds another 80. How many blocks does Martha end with?"
+        "sQuestion": "Ronald tiene 13 bloques. Martha tiene 4 bloques. Martha encuentra otros 80. ¿Con cuántos bloques termina Martha?"
     },
     {
         "iIndex": 581,
@@ -3063,7 +3063,7 @@
         "lSolutions": [
             15.0
         ],
-        "sQuestion": "Albert has 9 bottle caps. Anne has with 10 bottle caps. Anne finds another 5. How many bottle caps does Anne end with?"
+        "sQuestion": "Albert tiene 9 tapas de botella. Anne tiene 10 tapas de botella. Anne encuentra otras 5. ¿Con cuántas tapas de botella termina Anne?"
     },
     {
         "iIndex": 584,
@@ -3077,7 +3077,7 @@
         "lSolutions": [
             104.0
         ],
-        "sQuestion": "Evelyn has 95 marbles. She gets 9 more from Henry. Later, Evelyn buys 6 cards at the store. How many marbles does Evelyn have in all?"
+        "sQuestion": "Evelyn tiene 95 canicas. Ella obtiene 9 más de Henry. Más tarde, Evelyn compra 6 cartas en la tienda. ¿Cuántas canicas tiene Evelyn en total?"
     },
     {
         "iIndex": 595,
@@ -3091,7 +3091,7 @@
         "lSolutions": [
             58.0
         ],
-        "sQuestion": "David has 8 bananas. He gets 50 more from Christopher. Later, David buys 9 cards at the store. How many bananas does David have in all?"
+        "sQuestion": "David tiene 8 bananas. Recibe 50 más de Christopher. Más tarde, David compra 9 tarjetas en la tienda. ¿Cuántas bananas tiene David en total?"
     },
     {
         "iIndex": 611,
@@ -3105,7 +3105,7 @@
         "lSolutions": [
             70.0
         ],
-        "sQuestion": "Emily collects 63 cards. Emily's father gives Emily 7 more. Bruce has 13 apples. How many cards does Emily have?"
+        "sQuestion": "Emily colecciona 63 cartas. El padre de Emily le da a Emily 7 más. Bruce tiene 13 manzanas. ¿Cuántas cartas tiene Emily?"
     },
     {
         "iIndex": 636,
@@ -3119,7 +3119,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": "Carolyn starts with 47 marbles and 6 oranges. She shares 42 with Diana. How many marbles does Carolyn end with?"
+        "sQuestion": "Carolyn comienza con 47 canicas y 6 naranjas. Comparte 42 con Diana. ¿Con cuántas canicas termina Carolyn?"
     },
     {
         "iIndex": 637,
@@ -3133,7 +3133,7 @@
         "lSolutions": [
             13.0
         ],
-        "sQuestion": "Willie has 48 bananas. Charles has 14 bananas. He loses 35. How many bananas will Willie have?"
+        "sQuestion": "Willie tiene 48 bananas. Charles tiene 14 bananas. Pierde 35. ¿Cuántos plátanos tendrá Willie?"
     },
     {
         "iIndex": 647,
@@ -3147,7 +3147,7 @@
         "lSolutions": [
             20.0
         ],
-        "sQuestion": "There are 55 oranges in a box. Deborah has 11 oranges in a bag. Susan takes 35 oranges out of the box. How many oranges are left in the box?"
+        "sQuestion": "Hay 55 naranjas en una caja. Deborah tiene 11 naranjas en una bolsa. Susan saca 35 naranjas de la caja. ¿Cuántas naranjas quedan en la caja?"
     },
     {
         "iIndex": 649,
@@ -3161,7 +3161,7 @@
         "lSolutions": [
             2.0
         ],
-        "sQuestion": "There are 77 apples in a box. Louise has 9 apples in a bag. Scott takes 75 apples out of the box. How many apples are left in the box?"
+        "sQuestion": "Hay 77 manzanas en una caja. Louise tiene 9 manzanas en una bolsa. Scott saca 75 manzanas de la caja. ¿Cuántas manzanas quedan en la caja?"
     },
     {
         "iIndex": 653,
@@ -3175,7 +3175,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": "Bruce has 75 eggs. Kimberly has 17 eggs. He loses 70. How many eggs will Bruce have?"
+        "sQuestion": "Bruce tiene 75 huevos. Kimberly tiene 17 huevos. El Pierde 70. ¿Cuántos huevos tendrá Bruce?"
     },
     {
         "iIndex": 654,
@@ -3189,7 +3189,7 @@
         "lSolutions": [
             15.0
         ],
-        "sQuestion": "There are 69 erasers in a box. Jane has 15 erasers in a bag. Doris takes 54 erasers out of the box. How many erasers are left in the box?"
+        "sQuestion": "Hay 69 borradores en una caja. Jane tiene 15 borradores en una bolsa. Doris saca 54 borradores de la caja. ¿Cuántos borradores quedan en la caja?"
     },
     {
         "iIndex": 655,
@@ -3203,7 +3203,7 @@
         "lSolutions": [
             0.0
         ],
-        "sQuestion": "There are 97 erasers in a box. Ernest has 17 erasers in a bag. Mark takes 97 erasers out of the box. How many erasers are left in the box?"
+        "sQuestion": "Hay 97 borradores en una caja. Ernest tiene 17 borradores en una bolsa. Mark saca 97 borraradores de la caja. ¿Cuántos borradores quedan en la caja?"
     },
     {
         "iIndex": 657,
@@ -3217,7 +3217,7 @@
         "lSolutions": [
             82.0
         ],
-        "sQuestion": "There are 88 candies in a box. Lisa has 18 candies in a bag. Diana takes 6 candies out of the box. How many candies are left in the box?"
+        "sQuestion": "Hay 88 caramelos en una caja. Lisa tiene 18 caramelos en una bolsa. Diana saca 6 caramelos de la caja. ¿Cuántos caramelos quedan en la caja?"
     },
     {
         "iIndex": 667,
@@ -3231,7 +3231,7 @@
         "lSolutions": [
             87.0
         ],
-        "sQuestion": "Brandon has 96 Skittles. Bonnie has 4 Skittles. He loses 9. How many Skittles will Brandon have?"
+        "sQuestion": "Brandon tiene 96 chicles. Bonnie tiene 4 chicles. Pierde 9. ¿Cuántos chicles tendrá Brandon?"
     },
     {
         "iIndex": 682,
@@ -3245,7 +3245,7 @@
         "lSolutions": [
             19.0
         ],
-        "sQuestion": "Theresa has 32 crayons. Janice has 12 crayons. She shares 13 with Nancy. How many crayons will Theresa have?"
+        "sQuestion": "Theresa tiene 32 creyones. Janice tiene 12 creyones. Ella comparte 13 con Nancy. ¿Cuántos creyones tendrá Theresa?"
     },
     {
         "iIndex": 744,
@@ -3259,7 +3259,7 @@
         "lSolutions": [
             13.0
         ],
-        "sQuestion": "Craig has 20 apples. Judy has 11 apples. He shares 7 with Eugene. How many apples will Craig have?"
+        "sQuestion": "Craig tiene 20 manzanas. Judy tiene 11 manzanas. El comparte 7 con Eugene. ¿Cuántas manzanas tendrá Craig?"
     },
     {
         "iIndex": 755,
@@ -3273,7 +3273,7 @@
         "lSolutions": [
             78.0
         ],
-        "sQuestion": "Heather weighs 87 pounds. Emily weighs 9 pounds. Elizabeth weighs 8 pounds. How much heavier is Heather than Emily?"
+        "sQuestion": "Heather pesa 87 libras. Emily pesa 9 libras. Elizabeth pesa 8 libras. ¿Cuánto pesa Heather más que Emily?"
     },
     {
         "iIndex": 780,
@@ -3287,7 +3287,7 @@
         "lSolutions": [
             12.0
         ],
-        "sQuestion": "George has 2 boxes of blocks. Each box holds 6 blocks and there are 5 boxes in a case. How many blocks does George have?"
+        "sQuestion": "George tiene 2 cajas de bloques. Cada caja contiene 6 bloques y hay 5 cajas en una caja. ¿Cuántos bloques tiene George?"
     },
     {
         "iIndex": 790,
@@ -6297,7 +6297,7 @@
         "lSolutions": [
             96.0
         ],
-        "sQuestion": " Jesse\u2019s room is 12 feet long and 8 feet wide. How much carpet does she need to cover the whole floor?"
+        "sQuestion": "La habitación de Jesse tiene 12 pies de largo y 8 pies de ancho. ¿Cuánta alfombra necesita para cubrir todo el piso?"
     },
     {
         "iIndex": 1295,
@@ -6311,7 +6311,7 @@
         "lSolutions": [
             30.0
         ],
-        "sQuestion": " There are 5 people on the Green Bay High track team. If a relay race is 150 meters long, how far will each  team member have to run?"
+        "sQuestion": "Hay 5 personas en el equipo de pista de Green Bay High. Si una carrera de relevos es de 150 metros, ¿cuánto tendrá que correr cada miembro del equipo?"
     },
     {
         "iIndex": 1296,
@@ -6325,7 +6325,7 @@
         "lSolutions": [
             15.0
         ],
-        "sQuestion": " It takes 4 feet of cotton to make a tee-shirt. How many tee-shirts can be made with 60 feet of material?"
+        "sQuestion": "Se necesitan 4 pies de algodón para hacer una camiseta. ¿Cuántas camisetas se pueden hacer con 60 pies de material?"
     },
     {
         "iIndex": 1297,
@@ -6339,7 +6339,7 @@
         "lSolutions": [
             60.0
         ],
-        "sQuestion": " Lukas averages 12 points per game in basketball. How many points would he score in 5 games?"
+        "sQuestion": "Lukas tiene un promedio de 12 puntos por juego en el baloncesto. ¿Cuántos puntos anotaría en 5 partidos?"
     },
     {
         "iIndex": 1298,
@@ -6353,7 +6353,7 @@
         "lSolutions": [
             100.0
         ],
-        "sQuestion": " My car gets 20 miles per gallon. How many miles can I drive on 5 gallons of gas?"
+        "sQuestion": "Mi coche hace 20 millas por galón. ¿Cuántas millas puedo conducir con 5 galones de gasolina?"
     },
     {
         "iIndex": 1299,
@@ -6367,7 +6367,7 @@
         "lSolutions": [
             28.0
         ],
-        "sQuestion": " It takes 7 minutes to bake one pan of cookies. How long will it take to bake 4 pans of cookies?"
+        "sQuestion": "Lleva 7 minutos hornear una bandeja de galletas. ¿Cuánto tiempo llevará hornear 4 bandejas de galletas?"
     },
     {
         "iIndex": 1300,
@@ -6381,7 +6381,7 @@
         "lSolutions": [
             5.0
         ],
-        "sQuestion": " My car gets 20 miles per gallon of gas. If Grandma\u2019s house is 100 miles away, how many gallons of gas would it take to get to her house?"
+        "sQuestion": "Mi coche hace 20 millas por galón de gasolina. Si la casa de la abuela está a 100 millas, ¿cuántos galones de gasolina se necesitan para llegar a su casa?"
     },
     {
         "iIndex": 1301,
@@ -6395,7 +6395,7 @@
         "lSolutions": [
             1200.0
         ],
-        "sQuestion": " Melissa scored 120 points in each game. How many points did she score in 10 games?"
+        "sQuestion": "Melissa anotó 120 puntos en cada juego. ¿Cuántos puntos anotó en 10 juegos?"
     },
     {
         "iIndex": 1302,
@@ -6409,7 +6409,7 @@
         "lSolutions": [
             3.33333
         ],
-        "sQuestion": " Johnny practiced for the track team and ran 3 laps per minute. How many minutes did it take Johnny to run 10 laps?"
+        "sQuestion": "Johnny practicaba para el equipo de pista y corría 3 vueltas por minuto. ¿Cuántos minutos tardó Johnny en dar 10 vueltas?"
     },
     {
         "iIndex": 1303,
@@ -6423,7 +6423,7 @@
         "lSolutions": [
             400.0
         ],
-        "sQuestion": " Our watermelons have 100 seeds each. If we have 4 watermelons, how many seeds should there be when all seeds are taken out of the  watermelons?"
+        "sQuestion": "Nuestras sandías tienen 100 semillas cada una. Si tenemos 4 sandías, ¿cuántas semillas debería haber cuando se sacan todas las semillas de las sandías?"
     },
     {
         "iIndex": 1304,
@@ -6437,7 +6437,7 @@
         "lSolutions": [
             135.0
         ],
-        "sQuestion": " Robin has 9 packages of gum. There are 15 pieces in each package. How many pieces of gum does Robin have?"
+        "sQuestion": "Robin tiene 9 paquetes de chicles. Hay 15 piezas en cada paquete. ¿Cuántos trozos de chicle tiene Robin?"
     },
     {
         "iIndex": 1305,
@@ -6451,7 +6451,7 @@
         "lSolutions": [
             21.0
         ],
-        "sQuestion": " 63 people are going to the zoo. There are 3 cars to take people to the zoo. How many will go in each car if the same number go in each car?"
+        "sQuestion": "63 personas van al zoológico. Hay 3 coches para llevar a la gente al zoológico. ¿Cuántos irán en cada coche si el mismo número va en cada coche?"
     },
     {
         "iIndex": 1306,
@@ -6465,7 +6465,7 @@
         "lSolutions": [
             20.0
         ],
-        "sQuestion": " I have 80 cents to buy candy. If each gumdrop costs 4 cents, how many gumdrops can I buy?"
+        "sQuestion": "Tengo 80 centavos para comprar dulces. Si cada caramelo cuesta 4 centavos, ¿cuántos puedo comprar?"
     },
     {
         "iIndex": 1307,
@@ -6479,7 +6479,7 @@
         "lSolutions": [
             12.0
         ],
-        "sQuestion": " Maggi had 3 packages of cupcakes. There are 4 cupcakes in each package. She ate 5 cupcakes. How many are left?"
+        "sQuestion": "Maggi tenía 3 paquetes de magdalenas. Hay 4 magdalenas en cada paquete. Se comió 5 magdalenas. ¿Cuántos quedan?"
     },
     {
         "iIndex": 1308,
@@ -6493,7 +6493,7 @@
         "lSolutions": [
             29.0
         ],
-        "sQuestion": " 58 children are taking a bus to the zoo. They sit 2 children in every seat. How many seats will the children need in all?"
+        "sQuestion": "58 niños están tomando un autobús para ir al zoológico. Se sientan 2 niños en cada asiento. ¿Cuántos asientos necesitarán los niños en total?"
     },
     {
         "iIndex": 1309,
@@ -6507,7 +6507,7 @@
         "lSolutions": [
             4.0
         ],
-        "sQuestion": " Marlee has 12 guests coming to her Halloween party. Each table will hold 3 guests. How many tables will she need?"
+        "sQuestion": "Marlee tiene 12 invitados que vienen a su fiesta de Halloween. Cada mesa tendrá 3 invitados. ¿Cuántas mesas necesitará?"
     },
     {
         "iIndex": 1310,
@@ -6521,7 +6521,7 @@
         "lSolutions": [
             63.0
         ],
-        "sQuestion": " Warren has 252 guests coming to his party. Each table will hold 4 guests. How many tables will he need?"
+        "sQuestion": "Warren tiene 252 invitados que vienen a su fiesta. Cada mesa tendrá 4 invitados. ¿Cuántas mesas necesitará?"
     },
     {
         "iIndex": 1311,
@@ -6535,7 +6535,7 @@
         "lSolutions": [
             48.0
         ],
-        "sQuestion": " Arthur baked 35 muffins. How many more muffins does Arthur have to bake to have 83 muffins?"
+        "sQuestion": "Arthur horneó 35 panecillos. ¿Cuántas magdalenas más tiene que hornear Arthur para tener 83 magdalenas?"
     },
     {
         "iIndex": 1313,
@@ -6549,7 +6549,7 @@
         "lSolutions": [
             220.0
         ],
-        "sQuestion": " There are 10 stickers on a page. If you have 22 pages of stickers, how many stickers do you have?"
+        "sQuestion": "Hay 10 pegatinas en una página. Si tienes 22 páginas de pegatinas, ¿cuántas pegatinas tienes?"
     },
     {
         "iIndex": 1314,
@@ -6563,7 +6563,7 @@
         "lSolutions": [
             12.0
         ],
-        "sQuestion": " There are 96 cupcakes for 8 children to share. How much will each person get if they share the cupcakes equally?"
+        "sQuestion": "Hay 96 magdalenas para que 8 niños las compartan. ¿Cuánto recibirá cada persona si comparte los pastelitos en partes iguales?"
     },
     {
         "iIndex": 1316,
@@ -6577,7 +6577,7 @@
         "lSolutions": [
             133.0
         ],
-        "sQuestion": " Jose has 85 peanuts. Kenya has 48 more than Jose. How many peanuts does Kenya have?"
+        "sQuestion": "José tiene 85 cacahuetes. Kenia tiene 48 más que José. ¿Cuántos cacahuetes tiene Kenia?"
     },
     {
         "iIndex": 1318,
@@ -6591,7 +6591,7 @@
         "lSolutions": [
             426.0
         ],
-        "sQuestion": " White t-shirts can be purchased in packages of 6. If Mom buys 71 packages, how many white t-shirts will she have?"
+        "sQuestion": "Las camisetas blancas se pueden comprar en paquetes de 6. Si mamá compra 71 paquetes, ¿cuántas camisetas blancas tendrá?"
     },
     {
         "iIndex": 1319,
@@ -6605,7 +6605,7 @@
         "lSolutions": [
             162.0
         ],
-        "sQuestion": " I have 648 pencils. If I put 4 pencils in each pencil box, how many pencil boxes will I fill?"
+        "sQuestion": "Tengo 648 lápices. Si pongo 4 lápices en cada caja de lápices, ¿cuántas cajas de lápices llenaré?"
     },
     {
         "iIndex": 1320,
@@ -6619,7 +6619,7 @@
         "lSolutions": [
             13.0
         ],
-        "sQuestion": " Uncle Dave bought 143 ice cream sandwiches. If he wants to give them to his 11 hungry nieces, how many can each niece get?"
+        "sQuestion": "El tío Dave compró 143 sándwiches de helado. Si quiere dárselos a sus 11 sobrinas hambrientas, ¿cuántos puede conseguir cada sobrina?"
     },
     {
         "iIndex": 1321,
@@ -6633,7 +6633,7 @@
         "lSolutions": [
             326.0
         ],
-        "sQuestion": " Megan had 217 markers. Robert gave her 109 more markers. How many markers does Megan have altogether?"
+        "sQuestion": "Megan tenía 217 marcadores. Robert le dio 109 marcadores más. ¿Cuántos marcadores tiene Megan en total?"
     },
     {
         "iIndex": 1322,
@@ -6647,7 +6647,7 @@
         "lSolutions": [
             45.0
         ],
-        "sQuestion": " A DVD book holds 126 DVDs. There are 81 DVDs already in the book. How many more DVDs can be put in the book?"
+        "sQuestion": "Un libro de DVDs contiene 126 DVDs. Ya hay 81 DVDs en el libro. ¿Cuántos DVDs más se pueden poner en el libro?"
     },
     {
         "iIndex": 1323,
@@ -6661,7 +6661,7 @@
         "lSolutions": [
             2289.0
         ],
-        "sQuestion": " Carla has some marbles. She bought 489 marbles. Now she has 2778 marbles all together. How many did she start with?"
+        "sQuestion": "Carla tiene algunas canicas. Compró 489 canicas. Ahora tiene 2778 canicas en total. ¿Con cuántas empezó?"
     },
     {
         "iIndex": 1324,
@@ -6675,7 +6675,7 @@
         "lSolutions": [
             99.0
         ],
-        "sQuestion": " Kelly has 121 Nintendo games. How many does she need to give away so that she will have 22 games left?"
+        "sQuestion": "Kelly tiene 121 juegos de Nintendo. ¿Cuántos necesita regalar para que le queden 22 juegos?"
     },
     {
         "iIndex": 1325,
@@ -6689,7 +6689,7 @@
         "lSolutions": [
             776.0
         ],
-        "sQuestion": " Connie had some marbles. She gave 183 to Juan. Now she has 593 marbles left. How many did she have to start with?"
+        "sQuestion": "Connie tenía unas canicas. Le dio 183 a Juan. Ahora le quedan 593 canicas. ¿Con cuántas tenía que empezar?"
     },
     {
         "iIndex": 1326,
@@ -6703,7 +6703,7 @@
         "lSolutions": [
             3343.0
         ],
-        "sQuestion": " Connie has 2315 red markers and 1028 blue markers. How many markers does she have altogether?"
+        "sQuestion": "Connie tiene 2315 marcadores rojos y 1028 azules. ¿Cuántos marcadores tiene en total?"
     },
     {
         "iIndex": 1327,
@@ -6717,7 +6717,7 @@
         "lSolutions": [
             208.0
         ],
-        "sQuestion": " Iesha has 344 books. 136 are about school and the rest are about sports. How many books about sports does Iesha have?"
+        "sQuestion": "Iesha tiene 344 libros. 136 son sobre la escuela y el resto sobre deportes. ¿Cuántos libros sobre deportes tiene Iesha?"
     },
     {
         "iIndex": 1329,
@@ -6731,7 +6731,7 @@
         "lSolutions": [
             128.0
         ],
-        "sQuestion": " Sean has 223 whistles. He has 95 more whistles that Charles. How many whistles does Charles have?"
+        "sQuestion": "Sean tiene 223 silbatos. Tiene 95 silbatos más que Charles. ¿Cuántos silbatos tiene Charles?"
     },
     {
         "iIndex": 1331,
@@ -6745,7 +6745,7 @@
         "lSolutions": [
             486.0
         ],
-        "sQuestion": " Robin has 27 packages of gum. There are 18 pieces in each package. How many pieces of gum does Robin have?"
+        "sQuestion": "Robin tiene 27 paquetes de chicles. Hay 18 piezas en cada paquete. ¿Cuántos trozos de chicle tiene Robin?"
     },
     {
         "iIndex": 1332,
@@ -6759,7 +6759,7 @@
         "lSolutions": [
             0.72
         ],
-        "sQuestion": " Adam has $5.00 to buy an airplane that costs $4.28. How much change will he get?"
+        "sQuestion": "Adam tiene 5 dólares para comprar un avión que cuesta 4,28 dólares. ¿Cuánto cambio recibirá?"
     },
     {
         "iIndex": 1333,
@@ -6773,7 +6773,7 @@
         "lSolutions": [
             4.62
         ],
-        "sQuestion": " If each ball costs $1.54, how much must Kyoko pay for 3 balls?"
+        "sQuestion": "Si cada pelota cuesta 1,54 dólares, ¿cuánto debe pagar Kyoko por 3 pelotas?"
     },
     {
         "iIndex": 1334,
@@ -6787,7 +6787,7 @@
         "lSolutions": [
             12.0
         ],
-        "sQuestion": " Mr. Guzman bought 48 doughnuts packed equally into 4 boxes. How many doughnuts were in each box?"
+        "sQuestion": "El Sr. Guzmán compró 48 rosquillas empaquetadas en 4 cajas iguales. ¿Cuántos donuts había en cada caja?"
     },
     {
         "iIndex": 1335,
@@ -6801,7 +6801,7 @@
         "lSolutions": [
             1250.0
         ],
-        "sQuestion": " The Sumata family took a 5-day vacation by car. Each day they drove 250 miles. How many total miles did they drive?"
+        "sQuestion": "La familia Sumata se tomó 5 días de vacaciones en coche. Cada día recorrieron 250 millas. ¿Cuántos kilómetros en total recorrieron?"
     },
     {
         "iIndex": 1336,
@@ -6815,7 +6815,7 @@
         "lSolutions": [
             8243.0
         ],
-        "sQuestion": " The town of Milburg has 5256 grown-ups and 2987 children. How many people live in Milburg?"
+        "sQuestion": "La ciudad de Milburgo tiene 5256 adultos y 2987 niños. ¿Cuántas personas viven en Milburgo?"
     },
     {
         "iIndex": 1337,
@@ -6829,7 +6829,7 @@
         "lSolutions": [
             1.2
         ],
-        "sQuestion": " Lisa rented 4 DVDs for $4.80. How much did each DVD cost to rent?"
+        "sQuestion": "Lisa alquiló 4 DVDs por $4.80. ¿Cuánto costó el alquiler de cada DVD?"
     },
     {
         "iIndex": 1338,
@@ -6843,7 +6843,7 @@
         "lSolutions": [
             3264.0
         ],
-        "sQuestion": " There were 3409 pieces of candy in a jar. If 145 pieces were red and the rest were blue, how many were blue?"
+        "sQuestion": "Había 3409 caramelos en un frasco. Si 145 piezas eran rojas y el resto eran azules, ¿cuántas eran azules?"
     },
     {
         "iIndex": 1339,
@@ -6857,7 +6857,7 @@
         "lSolutions": [
             360.0
         ],
-        "sQuestion": " Third-grade students went to a concert in 8 buses. Each bus took 45 students. How many students went to the concert?"
+        "sQuestion": "Los estudiantes de tercer grado fueron a un concierto en 8 autobuses. Cada autobús llevaba 45 estudiantes. ¿Cuántos estudiantes fueron al concierto?"
     },
     {
         "iIndex": 1340,
@@ -6871,7 +6871,7 @@
         "lSolutions": [
             372.0
         ],
-        "sQuestion": " There are 124 students making 3 stars each for the school wall. How many stars will they make all together?"
+        "sQuestion": "Hay 124 estudiantes haciendo 3 estrellas cada uno para la pared de la escuela. ¿Cuántas estrellas harán todos juntos?"
     },
     {
         "iIndex": 1341,
@@ -6885,7 +6885,7 @@
         "lSolutions": [
             204.0
         ],
-        "sQuestion": " 6 students were sitting at each table in the lunchroom. There are 34 tables. How many students were sitting in the lunchroom?"
+        "sQuestion": "6 estudiantes estaban sentados en cada mesa del comedor. Hay 34 mesas. ¿Cuántos estudiantes estaban sentados en el comedor?"
     },
     {
         "iIndex": 1342,
@@ -6899,7 +6899,7 @@
         "lSolutions": [
             75.0
         ],
-        "sQuestion": " Tyler had 15 dogs. Each dog had 5 puppies. How many puppies does Tyler now have?"
+        "sQuestion": "Tyler tenía 15 perros. Cada perro tenía 5 cachorros. ¿Cuántos cachorros tiene Tyler ahora?"
     },
     {
         "iIndex": 1343,
@@ -6913,7 +6913,7 @@
         "lSolutions": [
             39.0
         ],
-        "sQuestion": " The farmer had 127 apples. He gave 88 apples to his neighbor. How many apples does he have now?"
+        "sQuestion": "El granjero tenía 127 manzanas. Le dio 88 manzanas a su vecino. ¿Cuántas manzanas tiene ahora?"
     },
     {
         "iIndex": 1344,
@@ -6927,7 +6927,7 @@
         "lSolutions": [
             296.0
         ],
-        "sQuestion": " Jill invited 37 people to her birthday party. They each ate 8 pieces of pizza. How many pieces of pizza did they eat?"
+        "sQuestion": "Jill invitó a 37 personas a su fiesta de cumpleaños. Cada uno de ellos se comió 8 trozos de pizza. ¿Cuántos trozos de pizza se comieron?"
     },
     {
         "iIndex": 1345,
@@ -6941,7 +6941,7 @@
         "lSolutions": [
             18.0
         ],
-        "sQuestion": " Mrs. Hilt uses 2 ounces of detergent to wash a pound of clothes. How many ounces of soap will she use to wash 9 pounds of clothes?"
+        "sQuestion": "La Sra. Hilt usa 2 onzas de detergente para lavar una libra de ropa. ¿Cuántas onzas de jabón usará para lavar 9 libras de ropa?"
     },
     {
         "iIndex": 1346,
@@ -6955,7 +6955,7 @@
         "lSolutions": [
             66018.0
         ],
-        "sQuestion": " Mrs. Hilt went to a concert. A total of 65899 people attended the concert. The next week, she went to a second concert, which had 119  more people in attendance. How many people were at the second  concert?"
+        "sQuestion":  La Sra. Hilt fue a un concierto. Un total de 65899 personas asistieron al concierto. La semana siguiente, fue a un segundo concierto, que contó con 119 personas más. ¿Cuántas personas asistieron al segundo concierto?"
     },
     {
         "iIndex": 1347,
@@ -6969,7 +6969,7 @@
         "lSolutions": [
             30.0
         ],
-        "sQuestion": " Mrs. Hilt baked pies last weekend for a holiday dinner. She baked 16 pecan pies and 14 apples pies. If she wants to arrange all of the pies in  rows of 5 pies each, how many rows will she have?"
+        "sQuestion": "La Sra. Hilt horneó pasteles el fin de semana pasado para una cena festiva. Ella horneó 16 pasteles de nuez y 14 pasteles de manzana. Si quiere ordenar todas las tartas en filas de 5 tartas cada una, ¿cuántas filas tendrá?"
     },
     {
         "iIndex": 1348,
@@ -6983,7 +6983,7 @@
         "lSolutions": [
             1.25
         ],
-        "sQuestion": " Mrs. Hilt needs to share $3.75 equally among 3 total people. How much money will each person get?"
+        "sQuestion": "La Sra. Hilt necesita compartir 3,75 dólares a partes iguales entre 3 personas en total. ¿Cuánto dinero recibirá cada persona?"
     },
     {
         "iIndex": 1349,
@@ -6997,7 +6997,7 @@
         "lSolutions": [
             68.0
         ],
-        "sQuestion": " Mrs. Hilt read 4 books. Each book had 17 chapters in it. How many chapters did Mrs. Hilt read?"
+        "sQuestion": "La Sra. Hilt leyó 4 libros. Cada libro tenía 17 capítulos. ¿Cuántos capítulos leyó la Sra. Hilt?"
     },
     {
         "iIndex": 1350,
@@ -7011,7 +7011,7 @@
         "lSolutions": [
             432.0
         ],
-        "sQuestion": " Mrs. Hilt saw 144 bees in the hive. The next day she saw 3 times that many. How many bees did she see on the second day?"
+        "sQuestion": "La Sra. Hilt vio 144 abejas en la colmena. Al día siguiente vio tres veces más. ¿Cuántas abejas vio al segundo día?"
     },
     {
         "iIndex": 1351,
@@ -7025,7 +7025,7 @@
         "lSolutions": [
             120.0
         ],
-        "sQuestion": " Mrs. Hilt measured the distance from her desk to the water fountain. It was 30 feet. How many feet will Mrs. Hilt walk on her trips to the  fountain if she goes to the water fountain 4 times today?"
+        "sQuestion": "La Sra. Hilt midió la distancia desde su escritorio hasta la fuente de agua. Era de 30 pies. ¿Cuántos pies caminará la Sra. Hilt en sus viajes a la fuente si va a la fuente de agua 4 veces hoy?"
     },
     {
         "iIndex": 1352,
@@ -7039,7 +7039,7 @@
         "lSolutions": [
             280.0
         ],
-        "sQuestion": " Lucy has an aquarium with 212 fish. She wants to buy 68 more fish. How many fish would Lucy have then?"
+        "sQuestion": "Lucy tiene un acuario con 212 peces. Quiere comprar 68 peces más. ¿Cuántos peces tendría Lucy entonces?"
     },
     {
         "iIndex": 1353,
@@ -7053,7 +7053,7 @@
         "lSolutions": [
             68.0
         ],
-        "sQuestion": " Lucy has 212 fish. How many more fish does she need to buy to have 280 fish?"
+        "sQuestion": "Lucy tiene 212 peces. ¿Cuántos peces más necesita comprar para tener 280 peces?"
     },
     {
         "iIndex": 1354,
@@ -7067,7 +7067,7 @@
         "lSolutions": [
             243.0
         ],
-        "sQuestion": " Rupert and Ronald aced their math test. So their mother bought for them a wonderful trampoline yesterday. Ronald jumped 157 times on  the trampoline. Rupert jumped 86 more times than Ronald. How many  times did they jump altogether?"
+        "sQuestion": "Rupert y Ronald se lucieron en su examen de matemáticas. Así que su madre les compró ayer un maravilloso trampolín. Ronald saltó 157 veces en el trampolín. Rupert saltó 86 veces más que Ronald. ¿Cuántas veces saltaron en total?"
     },
     {
         "iIndex": 1355,
@@ -7081,7 +7081,7 @@
         "lSolutions": [
             121.0
         ],
-        "sQuestion": " Harry Hound had a terrible earache yesterday. When I peered into his ears yesterday, I found 36 frisky fleas having a party in his right ear and  85 baby fleas sleeping peacefully in his left ear. I cleaned out Harry  Hound's ears. How many fleas perished?"
+        "sQuestion": "Harry Hound tuvo un terrible dolor de oídos ayer. Cuando me asomé a sus oídos ayer, encontré 36 pulgas juguetonas haciendo una fiesta en su oído derecho y 85 pulgas bebé durmiendo tranquilamente en su oído izquierdo. Limpié las orejas de Harry Hound. ¿Cuántas pulgas murieron?"
     },
     {
         "iIndex": 1356,
@@ -7095,7 +7095,7 @@
         "lSolutions": [
             273.0
         ],
-        "sQuestion": " A pet supply store has 600 bags of dog food and 327 bags of cat food. How many more bags of dog food are there than cat food?"
+        "sQuestion": "Una tienda de suministros para mascotas tiene 600 bolsas de comida para perros y 327 bolsas de comida para gatos. ¿Cuántas bolsas más de comida para perros hay que de comida para gatos?"
     },
     {
         "iIndex": 1357,
@@ -7109,7 +7109,7 @@
         "lSolutions": [
             218.0
         ],
-        "sQuestion": " 532 people are watching a movie in a theater. The theater has 750 seats. How many seats are empty in the theater?"
+        "sQuestion": "532 personas están viendo una película en un cine. El teatro tiene 750 asientos. ¿Cuántos asientos están vacíos en el teatro?"
     },
     {
         "iIndex": 1358,
@@ -7123,7 +7123,7 @@
         "lSolutions": [
             1035.0
         ],
-        "sQuestion": " Each bag contains 23 pounds of oranges. How many pounds of oranges are in 45 bags?"
+        "sQuestion": "Each bag contains 23 pounds of oranges. How many pounds of oranges are in 45 bags?"
     },
     {
         "iIndex": 1359,
@@ -7137,7 +7137,7 @@
         "lSolutions": [
             180.0
         ],
-        "sQuestion": " Ellen went to a garage sale to buy chairs. Each chair cost 15 dollars.  How much money did Ellen spend for the 12 chairs she bought?"
+        "sQuestion": "Ellen fue a una venta de garaje para comprar sillas. Cada silla costaba 15 dólares.  ¿Cuánto dinero gastó Ellen en las 12 sillas que compró?"
     },
     {
         "iIndex": 1360,
@@ -7151,7 +7151,7 @@
         "lSolutions": [
             70.0
         ],
-        "sQuestion": " Albert has two snakes. The garden snake is 10 inches long. The boa constrictor is 7 times longer than the garden snake. How long is the boa  constrictor?"
+        "sQuestion": "Albert tiene dos serpientes. La serpiente de jardín mide 10 pulgadas de largo. La boa constrictora es 7 veces más larga que la serpiente de jardín. ¿Cuánto mide la boa constrictora?"
     },
     {
         "iIndex": 1361,
@@ -7165,7 +7165,7 @@
         "lSolutions": [
             180.0
         ],
-        "sQuestion": " Albert\u2019s cabbage patch has 12 rows of cabbage. In each row, there are 15 heads of cabbage. How many heads of cabbage does Albert have in  all?"
+        "sQuestion": "La parcela de coles de Albert tiene 12 filas de coles. En cada fila, hay 15 cabezas de col. ¿Cuántas cabezas de col tiene Albert en total?"
     },
     {
         "iIndex": 1362,
@@ -7179,7 +7179,7 @@
         "lSolutions": [
             372.0
         ],
-        "sQuestion": " Marie can bike at a speed of 12 miles an hour. How far can she bike in 31 hours?"
+        "sQuestion": "Marie puede ir en bicicleta a una velocidad de 12 millas por hora. ¿Qué tan lejos puede ir en bicicleta en 31 horas?"
     },
     {
         "iIndex": 1363,
@@ -7193,7 +7193,7 @@
         "lSolutions": [
             1980.0
         ],
-        "sQuestion": " Tammy drove 55 miles in one hour. At that rate, how far can she drive in 36 hours?"
+        "sQuestion": "Tammy condujo 55 millas en una hora. A ese ritmo, ¿cuánto puede conducir en 36 horas?"
     },
     {
         "iIndex": 1364,
@@ -7207,7 +7207,7 @@
         "lSolutions": [
             2016.0
         ],
-        "sQuestion": " It takes 4 apples to make 1 pie. How many apples does it take to make 504 pies?"
+        "sQuestion": "Se necesitan 4 manzanas para hacer un pastel. ¿Cuántas manzanas se necesitan para hacer 504 pasteles?"
     },
     {
         "iIndex": 1365,
@@ -7221,7 +7221,7 @@
         "lSolutions": [
             4.0
         ],
-        "sQuestion": " You have 24 cookies and want to share them equally with 6 people. How many cookies would each person get?"
+        "sQuestion": "Tienes 24 galletas y quieres compartirlas por igual con 6 personas. ¿Cuántas galletas recibiría cada persona?"
     },
     {
         "iIndex": 1366,
@@ -7235,7 +7235,7 @@
         "lSolutions": [
             12.0
         ],
-        "sQuestion": " You are reading a book with 120 pages. If you want to read the same number of pages each night, how many would you have to read each  night to finish in 10 days?"
+        "sQuestion": "Estás leyendo un libro de 120 páginas. Si quieres leer el mismo número de páginas cada noche, ¿cuántas tendrías que leer cada noche para terminar en 10 días?"
     },
     {
         "iIndex": 1367,
@@ -7249,7 +7249,7 @@
         "lSolutions": [
             9.0
         ],
-        "sQuestion": " A cereal box holds 18 cups of cereal. Each serving is 2 cups. How many servings are in the whole box?"
+        "sQuestion": " Una caja de cereales contiene 18 tazas de cereales. Cada porción es de 2 tazas. ¿Cuántas porciones hay en la caja entera?"
     },
     {
         "iIndex": 1368,
@@ -7263,7 +7263,7 @@
         "lSolutions": [
             14.0
         ],
-        "sQuestion": " A box of books weighs 42 pounds. Each book weighs 3 pounds. How many books are there in the box?"
+        "sQuestion": "Una caja de libros pesa 42 libras. Cada libro pesa 3 libras. ¿Cuántos libros hay en la caja?"
     },
     {
         "iIndex": 1369,
@@ -7277,7 +7277,7 @@
         "lSolutions": [
             25.0
         ],
-        "sQuestion": " Sue\u2019s mother made 75 cookies. She put the cookies in bags, with 3 cookies in each bag. How many bags could she fill up?"
+        "sQuestion": "La madre de Sue hizo 75 galletas. Puso las galletas en bolsas, con 3 galletas en cada bolsa. ¿Cuántas bolsas pudo llenar?"
     },
     {
         "iIndex": 1370,
@@ -7291,7 +7291,7 @@
         "lSolutions": [
             32.0
         ],
-        "sQuestion": " Frank worked 8 hours on the first 4 days of the week. How many hours did he work in all?"
+        "sQuestion": "Frank trabajó 8 horas los primeros 4 días de la semana. ¿Cuántas horas trabajó en total?"
     },
     {
         "iIndex": 1371,
@@ -7305,7 +7305,7 @@
         "lSolutions": [
             300.0
         ],
-        "sQuestion": " Sue\u2019s family went on vacation. Her mom drove the car at 60 mph. They camped at a campground after traveling for 5 hours. How far was the  campground from their home?"
+        "sQuestion": "La familia de Sue se fue de vacaciones. Su madre condujo el coche a 60 mph. Acamparon en un camping después de viajar durante 5 horas. ¿A qué distancia estaba el camping de su casa?"
     },
     {
         "iIndex": 1372,
@@ -7319,7 +7319,7 @@
         "lSolutions": [
             440.0
         ],
-        "sQuestion": " Brett drove 55 miles every hour. How many miles would he drive in 8 hours?"
+        "sQuestion": "Brett conducía 55 millas cada hora. ¿Cuántas millas conduciría en 8 horas?"
     },
     {
         "iIndex": 1373,
@@ -7333,7 +7333,7 @@
         "lSolutions": [
             63.0
         ],
-        "sQuestion": " A perfect score is 21 points. How many points would you have after 3 perfect games in a row?"
+        "sQuestion": "Una puntuación perfecta es de 21 puntos. ¿Cuántos puntos tendrías después de 3 juegos perfectos seguidos?"
     },
     {
         "iIndex": 1374,
@@ -7347,7 +7347,7 @@
         "lSolutions": [
             60.0
         ],
-        "sQuestion": " Brian\u2019s car gets 20 miles per gallon. On his last trip, he used 3 gallons of gas. How many miles did he travel on his last trip?"
+        "sQuestion": "El auto de Brian 2019 recorre 20 millas por galón. En su último viaje, usó 3 galones de gasolina. ¿Cuántos kilómetros recorrió en su último viaje?"
     },
     {
         "iIndex": 1375,
@@ -7361,7 +7361,7 @@
         "lSolutions": [
             100.0
         ],
-        "sQuestion": " Bob\u2019s car gets 10 kilometers per gallon. How far can he drive on 10 gallons of gas?"
+        "sQuestion": "El coche de Bob 2019 alcanza los 10 kilómetros por galón. ¿Hasta dónde puede conducir con 10 galones de gasolina?"
     },
     {
         "iIndex": 1376,
@@ -7375,7 +7375,7 @@
         "lSolutions": [
             264.0
         ],
-        "sQuestion": " Each cup contains 8 ounces. How many ounces are in 33 cups?"
+        "sQuestion": "Cada taza contiene 8 onzas. ¿Cuántas onzas hay en 33 tazas??"
     },
     {
         "iIndex": 1377,
@@ -7389,7 +7389,7 @@
         "lSolutions": [
             46.0
         ],
-        "sQuestion": " A chocolate chip cookie recipe calls for 2 cups of chocolate chips. You want to make 23 recipes for a bake sale. How many cups of chocolate  chips will be needed to make all the cookie recipes?"
+        "sQuestion": " Una receta de galletas con chispas de chocolate requiere 2 tazas de chispas de chocolate. Quieres hacer 23 recetas para una venta de pasteles. ¿Cuántas tazas de chispas de chocolate se necesitarán para hacer todas las recetas de galletas?"
     },
     {
         "iIndex": 1378,
@@ -7403,7 +7403,7 @@
         "lSolutions": [
             88.0
         ],
-        "sQuestion": " I have a pet golden retriever. Each year he gains 11 pounds. He is 8 years old. How many pounds does he weigh?"
+        "sQuestion": "Tengo un golden retriever de mascota. Cada año aumenta 11 libras. Tiene 8 años. ¿Cuántos kilos pesa??"
     },
     {
         "iIndex": 1379,
@@ -7417,7 +7417,7 @@
         "lSolutions": [
             280.0
         ],
-        "sQuestion": " Mary\u2019s car gets 20 miles per gallon of gas. How far can she drive on 14 gallons of gas?"
+        "sQuestion": "El auto de Mary recorre 20 millas por galón de gasolina. ¿Hasta dónde puede conducir con 14 galones de gasolina?"
     },
     {
         "iIndex": 1380,
@@ -7431,7 +7431,7 @@
         "lSolutions": [
             16.0
         ],
-        "sQuestion": " I walked 2 miles in 1 hour for Relay for Life. If I maintained this pace for the 8 hours I walk, how many miles total will I walk?"
+        "sQuestion": "Caminé 2 millas en 1 hora para el Relevo por la Vida. Si mantengo este ritmo durante las 8 horas que camino, ¿cuántas millas en total caminaré?"
     },
     {
         "iIndex": 1381,
@@ -7445,7 +7445,7 @@
         "lSolutions": [
             45.0
         ],
-        "sQuestion": " I walk 1 mile every 15 minutes. I walked 3 miles. How many minutes did it take me ?"
+        "sQuestion": "Camino una milla cada 15 minutos. Caminé 3 millas. ¿Cuántos minutos me llevó?"
     },
     {
         "iIndex": 1383,
@@ -7459,7 +7459,7 @@
         "lSolutions": [
             6175.0
         ],
-        "sQuestion": " Lansing has 25 elementary schools. There are 247 students in each school. How many elementary students are there altogether in Lansing?"
+        "sQuestion": "Lansing tiene 25 escuelas primarias. Hay 247 estudiantes en cada escuela. ¿Cuántos estudiantes de primaria hay en total en Lansing?"
     },
     {
         "iIndex": 1384,
@@ -7473,7 +7473,7 @@
         "lSolutions": [
             32.0
         ],
-        "sQuestion": " 256 students are going to the zoo. They have to be divided into groups so that each teacher has one group. There are 8 teachers. How many  students will be in each group?"
+        "sQuestion": "256 estudiantes van al zoológico. Tienen que ser divididos en grupos para que cada profesor tenga un grupo. Hay 8 profesores. ¿Cuántos estudiantes habrá en cada grupo?"
     },
     {
         "iIndex": 1385,
@@ -7487,7 +7487,7 @@
         "lSolutions": [
             265.0
         ],
-        "sQuestion": " A fruit farm packs oranges in boxes that hold 10 each. One day it packs 2650 oranges. How many boxes did they use?"
+        "sQuestion": "Una granja de frutas empaqueta las naranjas en cajas de 10 unidades cada una. Un día empaca 2650 naranjas. ¿Cuántas cajas usaron?"
     },
     {
         "iIndex": 1386,
@@ -7501,7 +7501,7 @@
         "lSolutions": [
             91.0
         ],
-        "sQuestion": " You want to give your baseball cards to your 5 best friends. You have 455 baseball cards. How many would each get, if you share them  equally?"
+        "sQuestion": "Quieres darle tus tarjetas de béisbol a tus 5 mejores amigos. Tienes 455 tarjetas de béisbol. ¿Cuántas recibiría cada uno, si las compartierais en partes iguales?"
     },
     {
         "iIndex": 1387,
@@ -7515,7 +7515,7 @@
         "lSolutions": [
             2063.0
         ],
-        "sQuestion": " Ellen had 2080 Legos, but she lost 17 Legos. How many Legos does she have now?"
+        "sQuestion": "Ellen tenía 2080 Legos, pero perdió 17 Legos. ¿Cuántos Legos tiene ahora?"
     },
     {
         "iIndex": 1388,
@@ -7529,7 +7529,7 @@
         "lSolutions": [
             1380.0
         ],
-        "sQuestion": " Arthur baked 115 muffins. James baked 12 times as many. How many muffins did James bake?"
+        "sQuestion": "Arthur horneó 115 panecillos. James horneó 12 veces más. ¿Cuántas magdalenas horneó James?"
     },
     {
         "iIndex": 1389,
@@ -7543,7 +7543,7 @@
         "lSolutions": [
             1780.0
         ],
-        "sQuestion": " There are 14240 books in a library. They are arranged on shelves that hold 8 books each. How many shelves are in the library?"
+        "sQuestion": "Hay 14240 libros en una biblioteca. Están dispuestos en estantes que contienen 8 libros cada uno. ¿Cuántos estantes hay en la biblioteca?"
     },
     {
         "iIndex": 1391,
@@ -7557,7 +7557,7 @@
         "lSolutions": [
             73.0
         ],
-        "sQuestion": " 219 people are going to the zoo, and there are 3 buses to take people. How many will go in each bus if the same number go in each one and  all of the people go to the zoo?"
+        "sQuestion": "219 personas van al zoológico, y hay 3 autobuses para llevar a la gente. ¿Cuántos irán en cada autobús si el mismo número va en cada uno y toda la gente va al zoológico?"
     },
     {
         "iIndex": 1392,
@@ -7571,7 +7571,7 @@
         "lSolutions": [
             28.0
         ],
-        "sQuestion": " I have 224 cents to buy candy. If each piece of bulk candy costs 8 cents, how many gumdrops can I buy?"
+        "sQuestion": "Tengo 224 centavos para comprar dulces. Si cada caramelo a granel cuesta 8 centavos, ¿cuántas pastillas de goma puedo comprar?"
     },
     {
         "iIndex": 1393,
@@ -7585,7 +7585,7 @@
         "lSolutions": [
             493.0
         ],
-        "sQuestion": " My dog had some bones. Then, he dug up 367 bones. Now he has 860 bones. How many bones did he start with?"
+        "sQuestion": "Mi perro tenía algunos huesos. Entonces, desenterró 367 huesos. Ahora tiene 860 huesos. ¿Con cuántos huesos empezó?"
     },
     {
         "iIndex": 1394,
@@ -7599,7 +7599,7 @@
         "lSolutions": [
             3395.0
         ],
-        "sQuestion": " Jazmin had 1209 dolls and Geraldine had 2186 dolls. If they put their dolls together, how many would they have?"
+        "sQuestion": "Jazmín tenía 1209 muñecas y Geraldine 2186 muñecas. Si juntaran sus muñecas, ¿cuántas tendrían?"
     },
     {
         "iIndex": 1395,
@@ -7613,7 +7613,7 @@
         "lSolutions": [
             690.0
         ],
-        "sQuestion": " Mariela was in the hospital and she got 403 get well cards from around the country. When she got home she got 287 more cards from friends  and family. How many get well cards did Mariela get?"
+        "sQuestion": "Mariela estaba en el hospital y recibió 403 tarjetas de salud de todo el país. Cuando llegó a casa recibió 287 tarjetas más de amigos y familiares. ¿Cuántas tarjetas de salud recibió Mariela?"
     },
     {
         "iIndex": 1396,
@@ -7627,7 +7627,7 @@
         "lSolutions": [
             84.0
         ],
-        "sQuestion": " Cody is 14 years old. His grandmother is 6 times as old as he is. How old is Cody\u2019s grandmother?"
+        "sQuestion": "Cody tiene 14 años. Su abuela tiene 6 veces más que él. ¿Cuántos años tiene la abuela de Cody?"
     },
     {
         "iIndex": 1397,
@@ -7641,7 +7641,7 @@
         "lSolutions": [
             343.0
         ],
-        "sQuestion": " Jorge scored 156 goals playing soccer last season. This season he scored 187 goals. What is the total number of goals Jorge scored?"
+        "sQuestion": "Jorge marcó 156 goles jugando al fútbol la temporada pasada. Esta temporada ha marcado 187 goles. ¿Cuál es el número total de goles que Jorge marcó?"
     },
     {
         "iIndex": 1398,
@@ -7655,7 +7655,7 @@
         "lSolutions": [
             416.0
         ],
-        "sQuestion": " Ceasar needs to read a 563 page book for school. He has already read 147 pages. How many pages does he have left to read?"
+        "sQuestion": "Ceasar necesita leer un libro de 563 páginas para la escuela. Ya ha leído 147 páginas. ¿Cuántas páginas le quedan por leer?"
     },
     {
         "iIndex": 1399,
@@ -7669,7 +7669,7 @@
         "lSolutions": [
             448.0
         ],
-        "sQuestion": " Omar and Karen made egg rolls to share at the school potluck. Omar rolled 219 egg rolls. Karen rolled 229 egg rolls. What is the total number  of egg rolls Omar and Karen rolled?"
+        "sQuestion": "Omar y Karen hicieron rollos de huevo para compartir en la comida del colegio. Omar hizo 219 rollos de huevo. Karen enrolló 229 rollos de huevo. ¿Cuál es el número total de rollos de huevo que Omar y Karen enrollaron?"
     },
     {
         "iIndex": 1400,
@@ -7683,7 +7683,7 @@
         "lSolutions": [
             310.0
         ],
-        "sQuestion": " Beka flew 873 miles to visit her aunt. Jackson flew 563 miles to visit his aunt. How many more miles did Beka fly than Jackson?"
+        "sQuestion": "Beka flew 873 miles to visit her aunt. Jackson flew 563 miles to visit his aunt. How many more miles did Beka fly than Jackson?"
     },
     {
         "iIndex": 1401,
@@ -7697,7 +7697,7 @@
         "lSolutions": [
             1677.0
         ],
-        "sQuestion": " Darius drove 679 miles to visit his grandmother. Julia drove 998 miles to visit her grandmother. What is the total number of miles Darius and Julia  drove?"
+        "sQuestion": "Darius condujo 679 millas para visitar a su abuela. Julia condujo 998 millas para visitar a su abuela. ¿Cuál es el número total de millas que Darius y Julia condujeron?"
     },
     {
         "iIndex": 1402,
@@ -7711,7 +7711,7 @@
         "lSolutions": [
             744.0
         ],
-        "sQuestion": " Isabel bought 900 pieces of paper. She used 156 pieces of the paper. How many pieces of paper does she have left?"
+        "sQuestion": "Isabel compró 900 pedazos de papel. Usó 156 trozos de papel. ¿Cuántos pedazos de papel le quedan?"
     },
     {
         "iIndex": 1403,
@@ -7725,7 +7725,7 @@
         "lSolutions": [
             159.7
         ],
-        "sQuestion": " Mrs. Hilt looked at her car's odometer before a trip. The odometer showed that she had traveled 212.3 miles. When she stopped for lunch,  the odometer read 372.0. How many miles had she traveled?"
+        "sQuestion": "La Sra. Hilt miró el odómetro de su coche antes de un viaje. El odómetro mostraba que había viajado 212.3 millas. Cuando se detuvo a almorzar, el odómetro indicaba 372,0. ¿Cuántas millas había viajado?"
     },
     {
         "iIndex": 1404,
@@ -7739,7 +7739,7 @@
         "lSolutions": [
             812.0
         ],
-        "sQuestion": " Mrs. Hilt impressed 2436 fans at the basketball game on Friday. If the fans were seated in equal groups on 3 sets of bleachers, how many  fans were on each set?"
+        "sQuestion": "La Sra. Hilt impresionó a 2436 fans en el partido de baloncesto del viernes. Si los aficionados estaban sentados en grupos iguales en 3 sets de gradas, ¿cuántos aficionados había en cada set?"
     },
     {
         "iIndex": 1405,
@@ -7753,7 +7753,7 @@
         "lSolutions": [
             0.875
         ],
-        "sQuestion": " Your class had a pizza party. 0.375 of a pizza was left over, and 0.5 of another pizza was left over. You put them both into one box. How much  pizza do you have altogether?"
+        "sQuestion": "Tu clase tuvo una fiesta de pizza. Sobraron 0,375 de una pizza y 0,5 de otra. Pusiste ambas en una caja. ¿Cuánta pizza tienes en total?"
     },
     {
         "iIndex": 1406,
@@ -7767,7 +7767,7 @@
         "lSolutions": [
             0.8
         ],
-        "sQuestion": " A cake recipe requires 0.6 cup of sugar for the frosting and 0.2 cup of sugar for the cake. How much sugar is that altogether?"
+        "sQuestion": "Una receta de pastel requiere 0.6 taza de azúcar para el glaseado y 0.2 taza de azúcar para el pastel. ¿Cuánta azúcar es eso en total?"
     },
     {
         "iIndex": 1407,
@@ -7781,7 +7781,7 @@
         "lSolutions": [
             0.375
         ],
-        "sQuestion": " After a party, 0.625 of the cake is left over. That night, big brother eats 0.25 of the cake. How much is left over after that?"
+        "sQuestion": "Después de una fiesta, sobran 0,625 del pastel. Esa noche, el hermano mayor se come 0.25 del pastel. ¿Cuánto sobra después de eso?"
     },
     {
         "iIndex": 1408,
@@ -7795,7 +7795,7 @@
         "lSolutions": [
             1.0
         ],
-        "sQuestion": " You go out for a long walk. You walk 0.75 mile and then sit down to take a rest. Then you walk 0.25 of a mile. How far did you walk altogether?"
+        "sQuestion": "Tu sales a dar un largo paseo. Caminas 0.75 millas y luego te sientas a descansar. Luego caminas 0.25 millas. ¿Qué tan lejos caminó en total?"
     },
     {
         "iIndex": 1409,
@@ -7809,7 +7809,7 @@
         "lSolutions": [
             1.75
         ],
-        "sQuestion": " John needs $2.50. He has $0.75. How much more money does he need?"
+        "sQuestion": " John necesita 2,50 dólares. Tiene 0,75 dólares. ¿Cuánto dinero más necesita?"
     },
     {
         "iIndex": 1410,
@@ -7823,7 +7823,7 @@
         "lSolutions": [
             4.25
         ],
-        "sQuestion": " Jane buys an apple for $0.75 and pays with a $5.00 bill. How much change will she get?"
+        "sQuestion": " Jane compra una manzana por $0.75 y paga con una factura de $5.00. ¿Cuánto cambio recibirá?"
     },
     {
         "iIndex": 1411,
@@ -7837,7 +7837,7 @@
         "lSolutions": [
             0.3
         ],
-        "sQuestion": " John walks 0.7 miles to school and Nina walks 0.4 miles to school. How much farther does John walk than Nina?"
+        "sQuestion": " John camina 0.7 millas a la escuela y Nina camina 0.4 millas a la escuela. ¿Cuánto más lejos camina John que Nina?"
     },
     {
         "iIndex": 1412,
@@ -7851,7 +7851,7 @@
         "lSolutions": [
             141.5
         ],
-        "sQuestion": " One pencil weighs 28.3 grams. How much do 5 pencils weigh?"
+        "sQuestion": " Un lápiz pesa 28,3 gramos. ¿Cuánto pesan 5 lápices?"
     },
     {
         "iIndex": 1413,
@@ -7865,6 +7865,6 @@
         "lSolutions": [
             7.5
         ],
-        "sQuestion": " Andrew spent 3 day working on his Science report. He worked for 2.5 hours each day. How many hours did he work?"
+        "sQuestion": " Andrew pasó 3 días trabajando en su informe de ciencias. Trabajó durante 2 horas y media cada día. ¿Cuántas horas trabajó?"
     }
 ]
